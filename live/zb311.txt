@@ -3284,6 +3284,14 @@ NEWTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.
 魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+
+山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
+
+精品体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
+
+超级体育,http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
+
 欢笑剧场4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
