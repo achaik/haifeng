@@ -492,16 +492,7 @@
             "filterable": 1,
             "changeable": 0
         },
-        {
-            "key": "ai",
-            "name": "🥝爱爱┃SP",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
+{"key":"drpy_js_奇珍异兽","name":"官源|爱奇艺[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/奇珍异兽.js"},
         {
             "key": "MGT",
             "name": "🍋芒芒┃SP",
@@ -708,7 +699,8 @@
             "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
         }
     ],
-    "rules": [
+
+   "rules": [
         {
             "host": "*",
             "rule": [
@@ -774,7 +766,6 @@
 
 
 
-
       "lives": [
         {
             "name": "live",
@@ -790,6 +781,13 @@
             "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
     }
     ],
+
+ 
+
+
+
+
+
     "flags":[
 "youku",
 "qq",
