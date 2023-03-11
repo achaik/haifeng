@@ -524,10 +524,10 @@
             "ext": "https://agit.ai/chuqiuyu/gao/raw/branch/master/XYQ/野马.json"
         },
         {
-            "key": "csp_XBPQ_爱看",
+            "key": "csp_PQ_ik_爱看",
             "name": "🌸爱看┃XB",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
