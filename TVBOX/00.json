@@ -225,16 +225,6 @@
         },
 
         {
-            "key": "csp_Yht",
-            "name": "🍀野荷塘┃SP",
-            "type": 3,
-            "api": "csp_Yht",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yehetang.cc"
-        },
-        {
             "key": "csp_Lgyy",
             "name": "🌀蓝光┃SP",
             "type": 3,
@@ -244,7 +234,7 @@
             "filterable": 1,
             "ext": "https://www.lgyy.tv"
         },
- 
+ {"key":"csp_xb_lez","name":"乐猪（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/lezhu.json"},
  
  
  
