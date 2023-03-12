@@ -605,7 +605,7 @@
 
 
 
-    {
+"lives": [{
       "name": "直播1",
       "type": 0,
        "url": "http://home.jundie.top:81/ray/tvlive.txt",
