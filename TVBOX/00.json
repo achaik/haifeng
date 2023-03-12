@@ -604,6 +604,27 @@
     ],
 
 
+
+    {
+      "name": "直播1",
+      "type": 0,
+       "url": "http://home.jundie.top:81/ray/tvlive.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播2",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }],
+
+
+
+
+
+
     "parses": [
         {
             "name": "聚合1",
@@ -620,6 +641,12 @@
             "type": 1,
             "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
         },
+        {
+            "name": "key",
+            "type": 1,
+            "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
+        },
+
         {
             "name": "来",
             "type": 1,
@@ -753,63 +780,6 @@
 
 
 
-
-
-
-      "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        }
-    ],
-    "parses": [
-    {
-            "name": "key",
-            "type": 1,
-            "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
-    }
-    ],
-
- 
-
-
-
-
-
-    "flags":[
-"youku",
-"qq",
-"iqiyi",
-"qiyi",
-"letv",
-"sohu",
-"tudou",
-"pptv",
-"mgtv",
-"wasu",
-"bilibili",
-"csm3u8",
-"QQ",
-"PPTV",
-"ltnb",
-"rx",
-"CL4K",
-"xfyun",
-"wuduzy",
-"renrenmi",
-"xmm",
-"xigua",
-"m1905",
-"funshion",
-"优酷",
-"芒果",
-"腾讯",
-"爱奇艺",
-"奇艺",
-"哔哩哔哩",
-"哔哩"],
     "ijk": [
         {
             "group": "软解码",
