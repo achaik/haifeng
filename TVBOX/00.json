@@ -608,7 +608,7 @@
 "lives": [{
       "name": "直播1",
       "type": 0,
-       "url": "http://home.jundie.top:81/ray/tvlive.txt",
+     "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/live/zb311.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
