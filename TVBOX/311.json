@@ -3,28 +3,21 @@
 "spider":"https://agit.ai/haifeng2777/TVB/src/branch/master/jar/5in1.jar",
 
 
-
 "lives": [
-    {
-      "name": "直播",
+ {
+      "name": "直播1",
       "type": 0,
-      "url": "http://52bsj.vip:81/api/v3/file/get/61353/%E7%9B%B4%E6%92%AD%E6%BA%90.txt?sign=gSaxI6KrtxRMfh2ZK_5fpSPZkYQlgH3m-w3kUC1JdDc%3D%3A0",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+       "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/live/zb311.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNjEzNTMvJUU3JTlCJUI0JUU2JTkyJUFEJUU2JUJBJTkwLnR4dD9zaWduPWdTYXhJNktydHhSTWZoMlpLXzVmcFNQWmtZUWxnSDNtLXcza1VDMUpkRGMlM0QlM0Ew"
-          ]
-        }
-      ],
-      "epg":"http://epg.51zmt.top:8000/api/diyp/"
-    }
-  ],
-
+      "name": "直播2",
+      "type": 0,
+      "url": "http://52bsj.vip:81/api/v3/file/get/61353/%E7%9B%B4%E6%92%AD%E6%BA%90.txt?sign=gSaxI6KrtxRMfh2ZK_5fpSPZkYQlgH3m-w3kUC1JdDc%3D%3A0",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }],
 
 
 
