@@ -14,7 +14,7 @@
     {
       "name": "直播2",
       "type": 0,
-      "url": "http://52bsj.vip:81/api/v3/file/get/61353/%E7%9B%B4%E6%92%AD%E6%BA%90.txt?sign=gSaxI6KrtxRMfh2ZK_5fpSPZkYQlgH3m-w3kUC1JdDc%3D%3A0",
+      "url": "https://gitea.com/zxcv66/z/raw/branch/main/mm.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
