@@ -124,6 +124,13 @@
     },	
 
 
+	{
+			"key": "js加密_直播转点播_仓库",
+			"name": "直播仓库｜JS",
+			"type": 3,
+			"api": "./js/直播转点播.js",
+			"ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/%e6%b5%b7%e9%a3%8e%e7%9b%b4%e6%92%ad%e5%ba%93.json"
+		},
 
 
 
