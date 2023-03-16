@@ -9,23 +9,19 @@
             "name": "海风直播2"
         },
         {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
             "name": "肥猫"
         },
 
         {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "月光宝盒"
+            "url": "http://ftyyy.tk/live.txt",
+            "name": "饭太硬"
         },
-        {
-            "url": "https://app.easybox.vip/dy",
-            "name": "easybox"
-        },
-
+     
 
         {
-            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
-           "name": "张宏"
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/live/tv.txt",
+           "name": "星辰"
         }        
 
     ]
