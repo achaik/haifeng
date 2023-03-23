@@ -85,15 +85,7 @@
       "filterable": 0,
       "ext": "https://yydsys.top/duo/js/czspp.js"
     },
-    {
-      "key": "csp_CZSPP",
-      "name": "🏭️厂长(SP)",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },	
+
     {
       "key":"csp_Lib",
 	  "name":"🍲Lib影视",
@@ -125,15 +117,7 @@
 	  "filterable":1,
 	  "ext":"https://yydsys.top/duo/json/LIBVIO.json"
 	},	
-    {
-      "key": "csp_DiDuan",
-      "name": "🐞低端(SP)",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
     {
       "key": "drpy_js_ddys",
       "name": "🐞低端(JS)",
