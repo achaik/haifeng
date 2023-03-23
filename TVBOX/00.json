@@ -144,17 +144,106 @@
       "filterable": 0,
       "ext": "https://yydsys.top/duo/js/ddys.js"
     }, 
+    {
+      "key": "csp_sp龙门",
+      "name": "🐉龙门影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"
+    },
+    {
+      "key": "Kuaikan",
+      "name": "🦋快看影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_大明",
+      "name": "🏰大明影视",
+      "type": 1,
+      "api": "https://ys.md214.cn/api.php/provide/vod/", 
+	  "playerType":2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"],
+	  "tsads": "iqiyi.hbuioo.com"
+	},		
+    {
+      "key": "csp_AppMr",
+      "name": "🦍二明影视",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	
+    {
+      "key": "csp_XBPQ_乐猪影视",
+      "name": "🐷乐猪影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/lezhu.json"
+    },
+    {
+      "key": "js_大师兄",
+      "name": "🐵师兄影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/js/大师兄影视.js"
+	},	
+    {
+	  "key": "csp_xBPQ_胖虎",
+	  "name":"🐯胖虎影视",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://yydsys.top/duo/json/panghu.json"},
+    {
+	  "key": "csp_Hlsp",
+	  "name": "🦉黑料影视",
+	  "type": 3,
+	  "api": "csp_Hlsp",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://yydsys.top/duo/json/hlsp.json"
+	},		
+    {
+	  "key":"csp_XBPQ_爱看影视",
+	  "name":"🧡爱看影视",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":0,
+	  "ext":"https://yydsys.top/duo/json/爱看影视.json"},	
+    {
+      "key": "js_电影先生",
+      "name": "🤵电影先生",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/js/电影先生.js"
+    }, 
  
- 
-        {
-            "key": "csp_DiDuan",
-            "name": "低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+
         {
             "key": "csp_Voflix",
             "name": "Voflix",
