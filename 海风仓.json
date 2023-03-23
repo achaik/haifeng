@@ -1,8 +1,8 @@
 ﻿{
 "urls": [
 {
-"url": "http://pandown.pro/tvbox/tvbox.json",
-"name": "雨滴收集的网络线路",
+"url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/00.json",
+"name": "海风1线路",
 "time": "主线路"
 },
 {"url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json","name":"张公子"},
