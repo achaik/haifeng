@@ -10,14 +10,8 @@
        "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/live/zb311.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播2",
-      "type": 0,
-      "url": "https://gitea.com/zxcv66/z/raw/branch/main/mm.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
+  
 
 
 
