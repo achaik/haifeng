@@ -130,7 +130,7 @@
 			"ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/%e6%b5%b7%e9%a3%8e%e7%9b%b4%e6%92%ad%e5%ba%93.json"
 		},
 
-
+{"key":"drpy_js_喜马拉雅","name":"👂喜马拉雅","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/ximalaya.js"},
 
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com","jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
