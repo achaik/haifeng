@@ -647,7 +647,7 @@
             "ext": "http://饭太硬.ga/x/XYQ/有声小说吧.json"
         },
  
- {"key":"drpy_js_喜马拉雅","name":"👂喜马拉雅","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/ximalaya.js"},
+ {"key":"drpy_js_喜马拉雅","name":"👂喜马拉雅","type":3,"api":"https://gitea.com/haifeng288/tv/raw/branch/master/js/lib/drpy2.min.js","ext":"https://gitea.com/haifeng288/tv/raw/branch/master/js/ximalaya.js"},
  
  
  
