@@ -3,16 +3,7 @@
 
 {
     "sites": [      
-  {
-      "key": "csp_Nmys",
-      "name": "👨‍🌾农民影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/Nmys.json"
-    },
+{"key":"农民","name":"🤴┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json"},
         {
             "key": "csp_Kunyu77",
             "name": "77",
