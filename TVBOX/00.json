@@ -291,36 +291,10 @@
 
 
 
-    {
-	  "key": "csp_XYQHiker_布蕾",
-	  "name": "⚡️布蕾影院",
-	  "type": 3,
-	  "api": "csp_XYQHiker",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "ext": "https://yydsys.top/duo/json/布蕾蓝光.json"},	
-        {
-            "key": "csp_Xinsj",
-            "name": "新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy2.com"
-        },
-        {
-            "key": "csp_YQKAPP",
-            "name": "一起看",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://api-tx.shumaxc.xyz"
-        },
+{"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.bulei.cc"},
+
+{"key":"YQK_spider","name":"🙆┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://api-tx.11ty.top","m3u8ads": "hd.youyhn.com"},
+
         {
             "key": "csp_Lib",
             "name": "Libvio",
