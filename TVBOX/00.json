@@ -840,10 +840,16 @@
       "url": "https://json.key521.cn/api/?key=ca9bb8200924afc5e8915f68e272c9da&url="
     }, 		
     {
-      "name": "手动解析",
+      "name": "飞云",
       "type": 1,
-      "url": "http://jiexi.xdv.icu/api/?key=N1rPjt5TNY9rfNHxAS&url="
+      "url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url="
+    }, 	
+    {
+      "name": "猫",
+      "type": 1,
+      "url": "http://jm.maoyingshi.cc/yunxing.php?url="
     }, 
+
     {
       "name": "1号线",
       "type": 0,
