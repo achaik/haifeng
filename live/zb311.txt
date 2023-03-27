@@ -5062,7 +5062,20 @@ jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-
+CCTV4K超高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV16-4K,http://home.ddx2013.cc:4022/rtp/239.93.5.206:8840
+苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+广东综艺4K,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
+纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+北京IPTV淘电影,https://epg.pw/stream/8857ae19129490c1bcadcdc8c1aa75f2e9400f0d995bb1e974db693fbdb47e30.m3u8
+北京IPTV4K,http://222.128.98.255:4000/rtp/239.3.1.249:8001
+BTV北京纪实科教-8K,http://159.75.85.63:6798
+江苏8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+咪咕4K ,http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
+华数4K,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt4/3221226352/index.m3u8
+爱上4K ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+绚影4K,http://home.ddx2013.cc:4022/rtp/239.93.4.248:8800
 
 
 
