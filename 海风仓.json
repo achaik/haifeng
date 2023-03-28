@@ -5,11 +5,26 @@
 "name": "海风1线路",
 "time": "主线路"
 },
-
+ {
+"url": "https://gitea.com/haifeng288/tv/raw/branch/master/ysc.json",
+"name": "🚀海风js线路"
+},
+{
+"url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/311.json",
+"name": "海风2"
+},
+{
+"url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/8.json",
+"name": "海风爱腾"
+},
 {"url":"http://dd.ma/HGPKqPcZ","name":"刘公子"},
 {
 "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
 "name": "肥猫线路"
+},
+{
+"url": "http://刚刚.live/猫@哈哈 ",
+"name": "肥猫线路2"
 },
 {
 "url": "http://饭太硬.ga/tv",
@@ -113,10 +128,7 @@
 "url": "https://qtyang.xmzb.xyz/cps/%E7%94%B5%E8%A7%86%E7%8E%8B.json",
 "name": "电视王"
 },
-{
-"url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/311.json",
-"name": "海风8"
-},
+
 
 {
             "url": "https://yydsys.top/duo",
@@ -130,10 +142,8 @@
             "url": "http://lengniuge.ga/tv/yingshi",
             "name": "🚀楞牛哥线路"
         },          
-        {
-            "url": "https://gitea.com/haifeng288/tv/raw/branch/master/ysc.json",
-            "name": "🚀海风js线路"
-        },
+
+
         {
             "url": "https://hutool.ml/tang",
             "name": "🚀唐三线路"
