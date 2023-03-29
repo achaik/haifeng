@@ -14,10 +14,10 @@
 			"filterable": 1
 		},
 {
-			"key": "测试",
+			"key": "测试2",
 			"name": "测试2",
 			"type": 1,
-			"api": "https://www.zhoyou.com/api.php/provide/vod/",
+			"api": "https://www.hongniuzy2.com/api.php/provide/vod/from/m3u8/?ac=list",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
