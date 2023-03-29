@@ -79,6 +79,88 @@
             "categories":["国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]
         },
 {"key":"草民采集","name": "️ 草民采集","type": 1,"api": "https://www.xsgj.net/api.php/provide/vod/","playUrl": "https://lziplayer.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["国产剧","动漫"]},
+     { "key": "蓝光官采",
+      "name": "蓝光官采/解析",
+      "type": 1,
+      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "无名官采",
+      "name": "无名官采/解析",
+      "type": 1,
+      "api": "http://124.220.183.81:83/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "可米官采",
+      "name": "可米官采/解析",
+      "type": 1,
+      "api": "https://cj.kemi.lol/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "忆梦官采",
+      "name": "忆梦官采/解析",
+      "type": 1,
+      "api": "http://anltv.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
+    {
+      "key": "天堂官采",
+      "name": "天堂官采/解析",
+      "type": 1,
+      "api": "http://vipmv.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "超级官采",
+      "name": "超级官采/解析",
+      "type": 1,
+      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "阿里官采",
+      "name": "阿里官采/解析",
+      "type": 1,
+      "api": "http://anltv.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "地下城堡",
+      "name": "地下官采/解析",
+      "type": 1,
+      "api": "http://cj-a.dy4.top:668/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "青蛙官采",
+      "name": "青蛙官采/解析",
+      "type": 1,
+      "api": "http://player.znjson.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
 
         {
             "key": "非凡",
