@@ -13,6 +13,19 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+{
+			"key": "测试",
+			"name": "测试2",
+			"type": 1,
+			"api": "https://www.zhoyou.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+
+
+
+
 { "key": "爱酷采集",  "name": "爱酷资源", "type": 1, "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",   "searchable": 1,  "quickSearch": 1,"playerType":2 },
 
 
