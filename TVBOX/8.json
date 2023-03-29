@@ -22,9 +22,25 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+{
+			"key": "测试3",
+			"name": "测试3",
+			"type": 1,
+			"api": "https://www.ah121.com/api.php/provide/vod",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 
-
-
+{
+			"key": "测试4",
+			"name": "测试4",
+			"type": 1,
+			"api": "https://www.jipo.tv/api.php/provide/vod",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 
 { "key": "爱酷采集",  "name": "爱酷资源", "type": 1, "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",   "searchable": 1,  "quickSearch": 1,"playerType":2 },
 
