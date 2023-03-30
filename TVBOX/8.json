@@ -1,14 +1,24 @@
-{
-  "sites": [
-{"key":"T4_douban","name":"📡影视推荐〔T4〕","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"t4_豆瓣","name":"T4┃影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+
 
 {
     "spider": "https://jihulab.com/duomv/duo/-/raw/main/spider.jar",
     "wallpaper": "https://yydsys.top/bg.php",
     "warningText": "应用边界，免费维护更新。",
+
+
+
+
     "sites": [
+
+
+
+{"key":"T4_douban","name":"📡影视推荐〔T4〕","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"t4_豆瓣","name":"T4┃影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+
         {
             "key": "js豆瓣",
             "name": "阿里专线,由公众号:『应用边界』维护更新",
