@@ -19,91 +19,7 @@
 {"key":"t4_豆瓣","name":"T4┃影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
-        {
-            "key": "js豆瓣",
-            "name": "阿里专线,由公众号:『应用边界』维护更新",
-            "type": 3,
-            "api": "https://framagit.org/duomv/duo/-/raw/main/js/drpymin.js",
-            "ext": "https://framagit.org/duomv/duo/-/raw/main/js/douban.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Alist1",
-            "name": "Alist合集",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/Alist1.json"
-        },
-        {
-            "key": "小纸条1",
-            "name": "小纸条①",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "filterable": 1,
-            "switchable": 0
-        },
-        {
-            "key": "小纸条2",
-            "name": "小纸条②",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "filterable": 1,
-            "switchable": 0,
-            "jar": "https://yydsys.top/duo/jar/xzt.jar"
-        },
-        {
-            "key": "易搜",
-            "name": "4K易搜",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0
-        },
-        {
-            "key": "盘搜",
-            "name": "4K盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0
-        },
-        {
-            "key": "云搜",
-            "name": "4K云搜",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0
-        },
-        {
-            "key": "找资源",
-            "name": "4K找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0,
-            "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0
-        },
+
 
 
 {
@@ -338,6 +254,83 @@
 {"key": "忆梦官采", "name": "忆梦官采/解析", "type": 1,"api": "http://anltv.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1,"filterable": 0,"playerType":2  },
 {"key": "天堂官采","name": "天堂官采/解析","type": 1, "api": "http://vipmv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0,"playerType":2  },
 {"key": "阿里官采", "name": "阿里官采/解析", "type": 1,  "api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2 },
+
+        {
+            "key": "csp_Alist1",
+            "name": "Alist合集",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/json/Alist1.json"
+        },
+        {
+            "key": "小纸条1",
+            "name": "小纸条①",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "filterable": 1,
+            "switchable": 0
+        },
+        {
+            "key": "小纸条2",
+            "name": "小纸条②",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "filterable": 1,
+            "switchable": 0,
+            "jar": "https://yydsys.top/duo/jar/xzt.jar"
+        },
+        {
+            "key": "易搜",
+            "name": "4K易搜",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0
+        },
+        {
+            "key": "盘搜",
+            "name": "4K盘搜",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0
+        },
+        {
+            "key": "云搜",
+            "name": "4K云搜",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0
+        },
+        {
+            "key": "找资源",
+            "name": "4K找资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0
+        },
+
 
         {
             "key": "非凡",
