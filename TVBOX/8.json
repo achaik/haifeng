@@ -21,7 +21,7 @@
 
 {"key":"t4_豆瓣","name":"T4┃影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"快车资源","name":"非凡快车资源┃切","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","电影(B站)","电视剧(B站)","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","动漫画","动画","番剧(B站)","国创(B站)","综艺","记录片(B站)","纪录片/微电影"]},
+{"key":"快车资源","name":"快车资源┃切","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","电影(B站)","电视剧(B站)","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","动漫画","动画","番剧(B站)","国创(B站)","综艺","记录片(B站)","纪录片/微电影"]},
 {"key":"非凡资源","name":"非凡资源┃切","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片"]},
 
 {"key":"csp_SP360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -31,8 +31,8 @@
 {"key":"drpy_js_农民","name":"农民","type":3,"api":"https://4kal.netlify.app/x/lib/drpy2.min.js","ext":"https://4kal.netlify.app/x/js/农民.js"},
 {"key":"drpy_js_LIBVIO","name":"LIBVIO","type":3,"api":"https://4kal.netlify.app/x/lib/drpy2.min.js","ext":"https://4kal.netlify.app/x/js/LIBVIO.js"},
 {"key":"Alist","name":"Alis动漫仓库","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://4kal.netlify.app/x/js/alist.json"},
-{"key":"Alist3","name":"Lan同学👨‍🎓考研仓库","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://4kal.netlify.app/x/js/alist2.json"},
-{"key":"Lan同学","name":"Lan同学本地自用","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://4kal.netlify.app/x/js/lan.json"},  
+{"key":"Alist3","name":"👨‍🎓考研仓库","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://4kal.netlify.app/x/js/alist2.json"},
+{"key":"Lan同学","name":"本地自用","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://4kal.netlify.app/x/js/lan.json"},  
 {"key":"Alist5","name":"Alis小雅","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://4kal.netlify.app/x/js/xy.json"},  
 {"key":"apple","name":"苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
@@ -296,7 +296,7 @@
       "filterable": 0
     },
 {"key": "爱酷采集",  "name": "爱酷资源", "type": 1, "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",   "searchable": 1,  "quickSearch": 1,"playerType":2 },
-{"key": "b站采集", "name": "b站采集", "type": 1, "api": "https://www.ah121.com/api.php/provide/vod",  "searchable": 1,"quickSearch": 1,"playerType":2 },
+{"key": "b站采集", "name": "b站采集", "type": 1, "api": "https://www.ah121.com/api.php/provide/vod","playUrl":"http://addons/dp/player/index.php?key=0&id=cfLH&from=sdm3u8&url=","searchable": 1,"quickSearch": 1,"playerType":2 },
 {"key": "采集", "name": "看剧资源", "type": 1,"api": "https://www.jipo.tv/api.php/provide/vod", "searchable": 1,  "quickSearch": 1,"playerType":2 },
 {"key": "蓝光官采", "name": "蓝光官采/解析", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0,"playerType":2  },
 {"key": "无名官采","name": "无名官采/解析", "type": 1,"api": "http://124.220.183.81:83/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0,"playerType":2 },
