@@ -104,7 +104,7 @@
 			"key": "测试4",
 			"name": "测试4",
 			"type": 1,
-			"api": "https://www.jipo.tv/api.php/provide/vod/?ac=list",
+			"api": "https://www.jipo.tv/api.php/provide/vod",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
