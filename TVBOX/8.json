@@ -465,6 +465,43 @@
 		"url": "https://okjx.cc/?url="
 	}],
 
+ 
+ "flags": [
+  "imgo",
+  "youku",
+  "qq",
+  "iqiyi",
+  "qiyi",
+  "fun",
+  "letv",
+  "leshi",
+  "sohu",
+  "tudou",
+  "xigua",
+  "cntv",
+  "1905",
+  "pptv",
+  "mgtv",
+  "wasu",
+  "bilibili",
+  "renrenmi",
+  "youku",
+  "qq",
+  "iqiyi",
+  "qiyi",
+  "letv",
+  "sohu",
+  "tudou",
+  "pptv",
+  "mgtv",
+  "wasu"
+ ],
+ 
+ 
+ 
+ 
+ 
+ 
     "rules":[
         {
         "host":"www.iesdouyin.com",
@@ -475,6 +512,12 @@
         "rule":["playwm/?video_id="]
         }
     ],
+
+
+
+
+
+
     "ijk": [
         {
             "group": "软解码",
@@ -637,6 +680,10 @@
             ]
         }
     ],
+
+
+
+
     "ads": [
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",
