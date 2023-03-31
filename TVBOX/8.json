@@ -340,18 +340,15 @@
 {"key": "天堂官采","name": "天堂官采/解析","type": 1, "api": "http://vipmv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0,"playerType":2  },
 {"key": "阿里官采", "name": "阿里官采/解析", "type": 1,  "api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2 },
 
-{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext":"https://4kal.netlify.app/x/token.txt","jar":"https://4kal.netlify.app/x/jar/fm2.jar"},
-{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"https://4kal.netlify.app/x/token.txt","jar":"https://4kal.netlify.app/x/jar/fm2.jar"},
-{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"https://4kal.netlify.app/x/token.txt","jar":"https://4kal.netlify.app/x/jar/fm2.jar"},
-{"key":"UP云搜","name":"云搜","type":3,"api":"csp_UpYun","ext":"https://4kal.netlify.app/x/token.txt","jar":"https://4kal.netlify.app/x/jar/fm2.jar"},
-{"key":"找資源","name":"找资源","type":3,"api":"csp_Zhaozy","ext":"https://4kal.netlify.app/x/token.txt$$$lantongxue$$$qaz1234","jar":"https://4kal.netlify.app/x/jar/fm2.jar"},
-{"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://4kal.netlify.app/x/lib/drpy2.min.js","ext":"https://4kal.netlify.app/x/js/优酷.js"},
-{"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"https://4kal.netlify.app/x/lib/drpy2.min.js","ext":"https://4kal.netlify.app/x/js/百忙无果.js"},
-{"key":"drpy_js_无名小站","name":"无名小站","type":3,"api":"https://4kal.netlify.app/x/lib/drpy2.min.js","ext":"https://4kal.netlify.app/x/js/无名小站.js"},
-{"key":"drpy_js_厂长资源","name":"厂长资源","type":3,"api":"https://4kal.netlify.app/x/lib/drpy2.min.js","ext":"https://4kal.netlify.app/x/js/厂长资源.js"},
-{"key":"drpy_js_酷云七七","name":"酷云七七","type":3,"api":"https://4kal.netlify.app/x/lib/drpy2.min.js","ext":"https://4kal.netlify.app/x/js/酷云77.js"},
-
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","ext": "https://4kal.netlify.app/x/token.txt","jar":"https://4kal.netlify.app/x/jar/fm2.jar"},
+{"key":"纸条","name": "📜纸条","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
+{"key":"易搜","name": "🖥易搜","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
+{"key":"盘搜","name": "🖥盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
+{"key":"UP云搜","name": "☁️UP云搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
+{"key":"找资源","name": "🖥找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ali.饭太硬.ml/alitoken"},
+{"key":"88看球","name":"⚽88看球","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/88kanqiu.js"},
+{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/jrkanzhibo.js"},
+{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/huyazhibo.js"},
 
 
         {
