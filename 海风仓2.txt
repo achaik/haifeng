@@ -77,6 +77,34 @@
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "老刘备"
         },
+{"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json","name": "💗公众号《太阳软件库》💗"},
+
+{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "💗3.27更新💗"},
+
+{"url": "https://agit.ai/65012833/TVbox/raw/branch/master/YS.json","name": "💗免费贩卖可耻💗"},
+
+{"url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro","name": "💗meitufu.com 太阳软件库💗"},
+
+{"url": "https://agit.ai/3580805300/TVBox/raw/branch/master/0.json","name": "🙏太阳视听"},
+
+{"url": "https://pastebin.com/raw/5NHaxyGR","name": "👻道长"},
+
+{"url": "http://饭太硬.ga/tv","name": "👹饭太硬"},
+
+{"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "👿肥猫"},
+
+{"url": "https://tvbox.cainisi.cf","name": "🥦菜妮丝"},
+
+{"url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json","name": "🥑香雅情"},
+
+{"url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json","name": "🐝蜂蜜"},
+
+{"url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json","name": "🙏巧技"},
+
+
+
+
+
         {
             "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
            "name": "张宏"
