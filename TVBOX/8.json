@@ -458,14 +458,7 @@
 {"name": "解析6","type": 1,"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="},
 {"name": "解析7","type": 1,"url": "http://120.48.33.223:8989/json-2.php?uid=2742611&key=adfklmqtuvxzNOQR34&url="},
 {"name": "美析8","type": 1,"url": "https://a.cjw123.com/index.php?url="},   
- {
-        "name" : "丫仙女",
-        "server" : "http://alist.xiaoya.pro",
-        "startPage" : "/测试（不限速）",
-        "showAll" : false,
-        "search" : true
-    },   
-    
+
     
     {
 		"name": "OKjx嗅探",
