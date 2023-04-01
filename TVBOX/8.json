@@ -346,6 +346,14 @@
 {"key": "天堂官采","name": "天堂官采/解析","type": 1, "api": "http://vipmv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0,"playerType":2  },
 {"key": "阿里官采", "name": "阿里官采/解析", "type": 1,  "api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2 },
 
+
+{
+        "name" : "丫仙女",
+        "server" : "http://alist.xiaoya.pro",
+        "startPage" : "/测试（不限速）",
+        "showAll" : false,
+        "search" : true
+    },
 {"key":"纸条","name": "📜纸条","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
 {"key":"易搜","name": "🖥易搜","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
 {"key":"盘搜","name": "🖥盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken"},
