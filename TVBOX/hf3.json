@@ -38,6 +38,15 @@
 {"key":"csp_Dm84","name":"🏖 动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Liangzi","name": "️🐝 量子资源","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/","playUrl": "https://lziplayer.com/?url=","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["国产剧","大陆综艺","国产动漫"]},
 {"key":"csp_FanYY","name":"📽 影视大全","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"./token.txt"},
+
+        {
+            "key" : "drpy_js_喜马拉雅",
+            "name" : "🌙喜马拉雅",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
+        },
+
 {"key":"csp_Paper","name":"📑 小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./token.txt","jar":"./jar/fm.jar"},
 {"key":"Zhaozy","name":"💾 资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./token.json$$$自己云注册$$$123456","jar":"./jar/fm.jar"},
 {"key":"YiSo","name":"💾 易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./token.txt","jar":"./jar/fm.jar"},
