@@ -384,7 +384,12 @@
 
 
 
-"parses": [{
+"parses": [
+    
+{"name": "Web解析","type": 3,"url": "Web","header":{"User-Agent":"Mozilla/5.0"}},    
+    
+    
+    {
 		"name": "默认",
 		"type": 0,
 		"url": "https://jx.777jiexi.com/player/?url="
