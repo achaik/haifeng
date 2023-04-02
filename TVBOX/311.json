@@ -75,7 +75,13 @@
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc","jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
 
 {"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;B0BA72140B1828C8907F53CF0667493C"},
-
+        {
+            "key" : "drpy_js_喜马拉雅",
+            "name" : "🌙喜马拉雅",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
+        },
 {
       "key": "csp_xBPQ_布雷",
       "name": "⚡️布蕾影视",
