@@ -181,7 +181,13 @@
 //"ext": "./Py/py_zhaozy.py"},
 //{"key": "py_ali","name":"推送(Py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
 //"ext": "./Py/py_ali.py"},
-
+        {
+            "key" : "drpy_js_喜马拉雅",
+            "name" : "🌙喜马拉雅",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
+        },
 //==================================js__爬虫========================================================================
 {"key": "drhuya","name":"虎牙直播(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/huya.js"},
 {"key":"dr360","name":"360影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/360ys.js"},
