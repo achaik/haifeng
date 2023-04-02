@@ -763,16 +763,18 @@
 
 
   "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
+    //{
+   //   "name": "解析聚合",
+   //   "type": 3,
+   //   "url": "Demo"
+   // },
+   // {
+   //   "name": "Web聚合",
+   //   "type": 3,
+   //   "url": "Web"
+   // },
+ {"name": "Web解析","type": 3,"url": "Web","header":{"User-Agent":"Mozilla/5.0"}},  
+   
     {
       "name": "自动解析",
       "type": 1,
