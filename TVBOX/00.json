@@ -459,6 +459,16 @@
             "filterable": 1,
             "changeable": 0
         },
+ 
+         {
+            "key" : "drpy_js_喜马拉雅",
+            "name" : "🌙喜马拉雅",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
+        },
+ 
+ 
         {
             "key": "csp_If101",
             "name": "If101(墙外)",
