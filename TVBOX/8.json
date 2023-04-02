@@ -5,8 +5,8 @@
 {
     
 //"spider":"https://4kal.netlify.app/x/jar/pig.cpa",
-"spider": "https://gitea.com/52670576/tvbox/raw/branch/master/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
-
+//"spider": "https://gitea.com/52670576/tvbox/raw/branch/master/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
+"spider":"https://4kal.netlify.app/tvbox/jar/xyq.jar",
 "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
 "warningText": "应用边界，免费维护更新。",
 
