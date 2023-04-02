@@ -214,7 +214,10 @@
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🐹南风线路"
         },
-
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🐹扫码阿里"
+        },
 {
 "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
 "name": "zzz1线路"
