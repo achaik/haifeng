@@ -267,7 +267,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://wp.anxwl.cn/down.php/f81eb0c50780687360c8cc88f3c8b7ea.json",
+            "ext": "http://wp.anxwl.cn/down.php/f81eb0c50780687360c8cc88f3c8b7ea.json"
         },
         {
             "key": "草民",
@@ -276,7 +276,7 @@
             "api": "https://www.xsgj.net/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1,
+            "filterable": 1
            },
         {
             "key": "csp_XBPQ_HDmoli",
