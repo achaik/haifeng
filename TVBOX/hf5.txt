@@ -660,19 +660,16 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL3pkaXIua2ViZWRkNjkucmVwbC5jby9wdWJsaWMvbGl2ZS50eHQ="
-                    ]
-                }
-            ]
-        }
-    ],
+
+	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/live/zb311.txt",
+		    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
+
+
     "wallpaper": "https://tool.weetai.cn/api",
     "spider": "http://wp.anxwl.cn/down.php/836beb0946485b261b9ae633bea80210.jar"
 }
