@@ -1168,7 +1168,7 @@
     ],
 
      "wallpaper": "http://饭太硬.ga/深色壁纸/api.php", 
-      // "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;21b08989bf6fec5203e7726180d77082"
-      "spider": "https://agit.ai/haifeng2777/TVB/src/branch/master/jar/xm.jar;md5;4F2C8EB3B1E14D5449DF4B05E5D89A32"
+     "spider":"https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/cc.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
+     //   "spider": "https://agit.ai/haifeng2777/TVB/src/branch/master/jar/xm.jar;md5;4F2C8EB3B1E14D5449DF4B05E5D89A32"
       // "spider": "https://agit.ai/haifeng2777/TVB/src/branch/master/jar/fan.jar;md5;492f9401fec7d490f6f2e48f045e1580"
 }
