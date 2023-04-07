@@ -19,7 +19,8 @@
             "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+        "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "csp_77",
