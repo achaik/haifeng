@@ -1,4 +1,8 @@
-﻿{
+﻿
+//https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
+
+{
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;7373CFDE72043479157CAD08FA726B34",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
