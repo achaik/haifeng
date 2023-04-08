@@ -339,8 +339,33 @@
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ali.饭太硬.ml/alitoken"},
 {"key":"88看球","name":"⚽88看球","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/88kanqiu.js"},
 {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/jrkanzhibo.js"},
-{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/huyazhibo.js"},
-
+//{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/huyazhibo.js"},
+{
+            "key": "量子",
+            "name": "️量子采集",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "playUrl": "https://jx.xmflv.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "直播",
+                "短片",
+                "国产剧",
+                "综艺",
+                "影片库",
+                "动漫"
+            ]
+        },
 
         {
             "key": "非凡",
