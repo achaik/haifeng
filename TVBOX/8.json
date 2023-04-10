@@ -362,31 +362,15 @@
 {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/jrkanzhibo.js"},
 //{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/huyazhibo.js"},
 {
-            "key": "量子",
-            "name": "️量子采集",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/",
-            "playUrl": "https://jx.xmflv.com/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "直播",
-                "短片",
-                "国产剧",
-                "综艺",
-                "影片库",
-                "动漫"
-            ]
-        },
+			"key": "量子云播",
+			"name": "┃量子┃已去广告",
+			"type": 1,
+			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playUrl": "json:https://www.itvbox.cc/fflz.php?url="
+},
 
         {
             "key": "非凡",
