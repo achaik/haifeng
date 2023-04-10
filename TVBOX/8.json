@@ -94,19 +94,36 @@
 {"key": "明帝", "name": "️明帝影视","type": 1, "api": "https://ys.md214.cn/api.php/provide/vod/", "searchable":1,"quickSearch": 1,"filterable": 1,"categories":["连续剧","电影","综艺","动漫","直播"] },
 {"key": "搜狐资源","name": "️搜狐影视","type": 1,"api":"http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable":1,"quickSearch": 1,"filterable":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 {"key": "量子资源","name": "️量子资源〔官釆〕","type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/","playUrl":"https://lziplayer.com/?url=","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable":1,"categories":["国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
- {
-            "key": "非凡",
-            "name": "️非凡资源〔官釆〕",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?ac=list",
-            "playUrl":"https://ffzyplayer.com/?url=",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"
-     ]
-  }, 
+    {
+      "key": "非凡",
+      "name": "️┃非凡┃采集",
+      "type": 1,
+      "api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
+      "playUrl": "json:https://www.itvbox.cc/fflz.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "港澳剧",
+        "日剧",
+        "欧美剧",
+        "台湾剧",
+        "泰剧",
+        "韩剧",
+        "纪录片",
+        "动漫电影"
+      ]
+    },
 
 
 
