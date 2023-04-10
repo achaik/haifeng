@@ -134,7 +134,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "categories": ["动作片", "喜剧片", "科幻片", "爱情片", "恐怖片", "剧情片", "战争片", "纪录片", "大陆剧", "欧美剧", "港澳剧", "韩剧", "日剧", "台湾剧", "泰国剧","动漫电影", "综艺", "动漫","记录片", "体育赛事"]},
-
+{"key":"乐享影院","name":"乐享影院","type":1,"api":"http://101.43.75.206/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"json:http://159.75.125.8:9090/m3u8xc.php?url="},
 
 {
 			"key": "测试",
