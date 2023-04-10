@@ -124,7 +124,16 @@
         "动漫电影"
       ]
     },
-
+{
+    "key": "光速资源站",
+    "name": "光速资源",
+    "type": 1,
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+    "playUrl": "https://www.gszyv.com/m3u8/?url=",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "categories": ["动作片", "喜剧片", "科幻片", "爱情片", "恐怖片", "剧情片", "战争片", "纪录片", "大陆剧", "欧美剧", "港澳剧", "韩剧", "日剧", "台湾剧", "泰国剧","动漫电影", "综艺", "动漫","记录片", "体育赛事"]},
 
 
 {
