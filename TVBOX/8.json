@@ -53,10 +53,7 @@
 {"key":"drpy_js_无名小站","name":"无名小站","type":3,"api":"https://4kal.netlify.app/tvbox/lib/drpy2.min.js","ext":"https://4kal.netlify.app/tvbox/js/无名小站.js"},
 {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://4kal.netlify.app/tvbox/lib/drpy2.min.js","ext":"https://4kal.netlify.app/tvbox/js/优酷.js"}, 
 {"key":"drpy_js_Alist","name":"Alist[js]","type":3,"api":"https://4kal.netlify.app/tvbox/lib/alist.min.js","ext":"https://4kal.netlify.app/tvbox/json/alist.json"},
-{"key":"纸条","name":"纸条","type":3,"api":"csp_Gitcafe","ext":"https://4kal.netlify.app/tvbox/token.txt"},
-{"key":"易搜","name":"易搜","type":3,"api":"csp_Yisou","ext":"https://4kal.netlify.app/tvbox/token.txt"},
-{"key":"盘搜","name":"盘搜","type":3,"api":"csp_AliPS","ext":"https://4kal.netlify.app/tvbox/token.txt"},
-{"key":"UP云搜","name":"云搜","type":3,"api":"csp_Upyunso","ext":"https://4kal.netlify.app/tvbox/token.txt"},
+
 {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","ext":"https://4kal.netlify.app/tvbox/token.txt$$$lantongxue$$$qaz1234"},
 {"key": "明帝", "name": "️明帝影视","type": 1, "api": "https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"categories":["连续剧","电影","综艺","动漫","直播"] },
 {"key": "搜狐资源","name": "️搜狐影视","type":1,"api":"http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
@@ -100,7 +97,7 @@
 		},
 {"key":"csp_XPath","name":"玩偶哥哥┃4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"XBPQ_臭蛋蛋","name":"臭蛋蛋(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e8%87%ad%e8%9b%8b%e8%9b%8b.json"}
+{"key":"XBPQ_臭蛋蛋","name":"臭蛋蛋(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e8%87%ad%e8%9b%8b%e8%9b%8b.json"},
 
 
 
