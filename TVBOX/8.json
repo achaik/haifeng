@@ -3,10 +3,10 @@
 
 
 {
-    
+ "spider":"https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/zhuzige.jar",   
 //"spider":"https://4kal.netlify.app/x/jar/pig.cpa",
 //"spider": "https://gitea.com/52670576/tvbox/raw/branch/master/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
-"spider":"https://4kal.netlify.app/tvbox/jar/xyq.jar",
+//"spider":"https://4kal.netlify.app/tvbox/jar/xyq.jar",
 "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
 "warningText": "应用边界，免费维护更新。",
 
@@ -60,6 +60,49 @@
 {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","ext":"https://4kal.netlify.app/tvbox/token.txt$$$lantongxue$$$qaz1234"},
 {"key": "明帝", "name": "️明帝影视","type": 1, "api": "https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"categories":["连续剧","电影","综艺","动漫","直播"] },
 {"key": "搜狐资源","name": "️搜狐影视","type":1,"api":"http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+
+        {
+
+			"key": "csp_SP360",
+			"name": "360影视┃SP",
+			"type": 3,
+			"api": "csp_SP360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+        {
+			"key": "teng",
+			"name": "腾讯视频┃SP",
+			"type": 3,
+			"api": "csp_QQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "ai",
+			"name": "爱奇艺┃SP",
+			"type": 3,
+			"api": "csp_IQIYI",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "MGT",
+			"name": "芒果TV┃SP",
+			"type": 3,
+			"api": "csp_Mgtv",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+
+
+
+
+
 
         {
             "key": "托乌",
