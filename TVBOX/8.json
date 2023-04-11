@@ -463,7 +463,7 @@
 ],
 "lives":[
   {"name":"肥猫","type":0,"url":"http://我不是.肥猫.love:63/TV/tvzb.txt","epg":
-"https://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
+"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
  {"name":"南风","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":
 "https://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"}
         
