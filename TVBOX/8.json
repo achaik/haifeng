@@ -98,7 +98,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-{"key":"csp_WoGG","name":"玩偶哥哥┃4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_XPath","name":"玩偶哥哥┃4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
@@ -108,7 +108,7 @@
             "key": "托乌",
             "name": "托乌视频",
             "type": 3,
-            "api": "XBPQ",
+            "api": "xBPQ",
                 "ext": "免嗅:1,分类url:https://www.tootw.com/index.php/vod/show/area/{area}/id/{cateld}/lang/{lang}/page/{catePg}/year/{year}.html"
         },
 
