@@ -288,7 +288,7 @@
 			"key": "测试6",
 			"name": "测试6",
 			"type": 1,
-			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=detail&t=9&pg=1",
+			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
