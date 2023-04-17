@@ -95,6 +95,10 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+
+ {"key":"优酷资源","name":"️ 优酷视频","type":1,"api":"http://anltv.cn/api.php/provide/vod/from/youku/?at/xml/","playUrl":"https://www.cgdyw.net/jiexi/jiexi-gf/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","电视剧(B站)","电影","综艺","动画片"]},
+
+
 {"key":"csp_WoGG","name":"玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"XBPQ_臭蛋蛋","name":"臭蛋蛋(XBPQ)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e8%87%ad%e8%9b%8b%e8%9b%8b.json"},
