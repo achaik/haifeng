@@ -288,7 +288,7 @@
 			"key": "测试6",
 			"name": "测试6",
 			"type": 1,
-			"api": "http://111.67.202.189:8899/webvip/v3/app/homeListNew?type=1",
+			"api": "http://111.67.202.189:8899/webvip/v1/typeNameList/totalList",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
