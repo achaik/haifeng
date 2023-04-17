@@ -22,7 +22,7 @@
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
 {"key":"drpy_js_人人","name":"影视 | 人人[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/人人.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
-{"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民.js"},
+{"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
 {"key":"drpy_js_九酷","name":"影视 | 九酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/九酷.js"},
 {"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
