@@ -118,7 +118,15 @@
       "ext": "http://dapi.pntao.com//api.php/v1.vod"
     },    
 
-
+{"key": "涂成", "name": "涂成影视", "type": 1,  "api": "http://caiji.tucheng5566.cc:99/tucheng5566api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1,"playerType":2 },
+{"key": "B站", "name": "b站采集", "type": 1, "api": "https://www.ah121.com/api.php/provide/vod",  "searchable": 1,"quickSearch": 1,"playerType":2 },
+{"key": "采集", "name": "看剧资源", "type": 1,"api": "https://www.jipo.tv/api.php/provide/vod", "searchable": 1,  "quickSearch": 1,"playerType":2 },
+{"key": "蓝光官采", "name": "蓝光官采/解析", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0,"playerType":2  },
+{"key": "无名官采","name": "无名官采/解析", "type": 1,"api": "http://124.220.183.81:83/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0,"playerType":2 },
+{"key": "可米官采", "name": "可米官采/解析", "type": 1,"api": "https://cj.kemi.lol/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0,"playerType":2 },
+{"key": "忆梦官采", "name": "忆梦官采/解析", "type": 1,"api": "http://anltv.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1,"filterable": 0,"playerType":2  },
+{"key": "天堂官采","name": "天堂官采/解析","type": 1, "api": "http://vipmv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0,"playerType":2  },
+{"key": "阿里官采", "name": "阿里官采/解析", "type": 1,  "api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2 },
 
 
 
