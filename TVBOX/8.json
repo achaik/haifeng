@@ -294,6 +294,19 @@
 			"filterable": 1
 		},
 
+  {"key": "csp_xBPQ_看看影院",
+  "name": "┃看看┃XB",
+  "type": 3,
+  "api": "csp_xBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "{\"分类\":\"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian剧情片$juqingpian#战争片$zhanzhengpian#动画片$donghuapian#国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju#泰国剧$taiguoju\",\"分类url\":\"https://kankanju.cc/type/{cateId}/{class}/{area}/{year}/{catePg}.html{by}\"}"}, 
+
+
+
+
+
 {"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
