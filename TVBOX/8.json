@@ -108,6 +108,7 @@
 
 {"key": "csp_XYQbiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQbiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e7%a3%81%e5%8a%9b%e7%86%8a.json"},
 {"key":"cps_Auete","name":"影视┃奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅.txt"},
+{"key": "csp_XBPQ_ah123",  "name": "┃简写┃ah123",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": "{\"分类\":\"电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#b站$50\",\"分类url\":\"https://www.ah121.com/sgshow/{cateId}-area-{area}-by-{by}-class-{class}-lang-{lang}-catePg-{catePg}------year-{year}.html\",\"地区\":\"1\",\"剧情\":\"1\",\"年份\":\"1\",\"排序\":\"1\",\"筛选\":\"1\}"},
 
 {
       "key": "csp_appys_屁屁",
