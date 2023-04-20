@@ -105,7 +105,7 @@
 {"key":"布雷蓝光","name":"布雷┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/sub/bulei.json"},
 
 {"key": "csp_XYQbiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQbiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e7%a3%81%e5%8a%9b%e7%86%8a.json"},
-
+{"key":"cps_Auete","name":"影视┃奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/不良帅.txt"},
 
 {
       "key": "csp_appys_屁屁",
