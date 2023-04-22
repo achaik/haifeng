@@ -723,7 +723,7 @@
     
 {"name": "Web解析","type": 3,"url": "Web","header":{"User-Agent":"Mozilla/5.0"}},    
     
-  {"name":"7777","type":1,"url":"https://jx.jsonplayer.com/player/?url="},
+  {"name":"7777","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {
             "name": "星辰云解析",
             "type": 1,
