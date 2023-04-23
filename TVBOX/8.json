@@ -253,7 +253,42 @@
   "filterable": 1,
   "ext": "{\"分类\":\"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#动画片$donghuapian#国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju#泰国剧$taiguoju\",\"分类url\":\"https://kankanju.cc/type/{cateId}-{catePg}.html{by}\"}"},
 
-
+    {
+      "key": "2022世界杯",
+      "name": "2022世界杯",
+      "type": 4,
+      "api": "http://120.53.102.254/t4/sjb",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+       {
+      "key": "抖音小姐姐",
+      "name": "抖音小姐姐",
+      "type": 4,
+      "api": "http://120.53.102.254/xjj",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+     {
+      "key": "T4直播转点播",
+      "name": "T4直播转点播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MV大全",
+      "name": "MV大全",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
 {
 			"key": "测试",
