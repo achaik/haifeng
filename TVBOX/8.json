@@ -15,6 +15,10 @@
 
     "sites": [
 
+
+
+{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"t4_豆瓣","name":"T4┃影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
       {
             "key": "草民",
@@ -131,7 +135,7 @@
 {"key": "阿里官采", "name": "阿里官采/解析", "type": 1,  "api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2 },
 
 {"key": "csp_XBPQ_bp",  "name": "┃简写┃白嫖电影",  "type": 3,  "api": "csp_xBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://dy.gduan.com/index.php/vod/show/id/{cateId}/class/{class}/area/{area}/lang/{lang}/by/{by}/catePg/{catePg}/year/{year}.html\"}"},
-{"key":"JS虎牙","name":"虎牙直播(JS)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js?inline=false","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/虎牙直播.js?inline=false","searchable": 0,"quickSearch": 0,"filterable": 0},
+
 
 
     {
