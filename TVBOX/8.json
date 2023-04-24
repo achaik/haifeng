@@ -69,7 +69,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "{\"分类\":\"电影$20#电视$21#动漫$22#综艺$23#\",\"分类url\":\"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html\"}"
+      "ext":{"分类":"电影$20#电视$21#动漫$22#综艺$23#","分类url":"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"}
     },
 
 
