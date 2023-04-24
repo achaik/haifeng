@@ -65,7 +65,7 @@
   {"key": "csp_XBPQ_南瓜影视",
       "name": "南瓜影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
