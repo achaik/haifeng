@@ -89,7 +89,7 @@
 
 {"key":"8号影视","name":"️8号影视","type":3,"api":"csp_xBPQ","ext":"分类url:http://8hysw.com/frim/{cateId}-{catePg}.html,分类:电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#国产$13#港台$14#欧美$15#日韩$16"},
 {"key":"金曼TV","name":"金曼丨BPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺$4#动漫$3#纪录片$5#","分类url":"https://jinmantv.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"}},
-
+	{"key":"土豪影视","name":"土豪影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组": "class=\"module-item\">&&</a>","分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#","分类url":"https://www.tuhao.tv/vsh/{cateId}-{class}-{by}-{area}-{lang}-------{year}.html"}},
 
 
 
