@@ -72,7 +72,16 @@
       "ext":{"分类":"电影$20#电视$21#动漫$22#综艺$23#","分类url":"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"}
     },
 
-
+{
+            "key": "csp_XBPQ_一龙影视",  
+            "name": "一龙影视(XBPQ)",  
+            "type": 3,  
+            "api": "csp_xBPQ",  
+            "searchable": 1,  
+            "quickSearch": 1,  
+            "filterable": 1,  
+            "ext": {"分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录$5","分类url":"http://www.yilonghd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;val"}
+        },
 
 
 
