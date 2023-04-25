@@ -1065,7 +1065,10 @@ CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 女神经典,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 星爷经典,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-
+橙子1台,http://cn-hnly-cu-01-14.bilivideo.com/live-bvc/911996/live_1849890871_69368354/index.m3u8
+橙子2台,http://cn-sdqd-cu-01-11.bilivideo.com/live-bvc/436593/live_457200741_74685781/index.m3u8
+橙子3台,http://cn-sdqd-cu-01-20.bilivideo.com/live-bvc/971998/live_1001126625_48904870/index.m3u8
+橙子4台,http://cn-sdqd-cu-01-03.bilivideo.com/live-bvc/284475/live_1755442628_48682447/index.m3u8
 
 
 黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
