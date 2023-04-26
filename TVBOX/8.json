@@ -89,7 +89,13 @@
 {"key":"猪猪","name":"胖猪丨BPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#剧集$2#动漫$4#综艺$3#","分类url":"http://www.cghlj.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"}},
 {"key":"LibVio","name":"LibVio┃XBPQ","type":3,"api":"csp_xBPQ","ext":{"分类": "电影$1#剧集$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16","分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;cmal"}},
 {"key":"独播库","name":"独播库","type":3,"api":"csp_xBPQ","ext":{"分类":"国产剧$13#港剧$20#日韩剧$15#综艺$3#动漫$4","分类url":"https://u.duboku.io/vodshow/{cateId}-{area}-{by}-{area}-----{catePg}---{year}.html;;cma"}},
-{"key":"慢大浪","name":"慢大浪","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$2#连续剧$1#综艺$3#动漫$4#纪录片$5","分类url":"https://mdlys.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}.html","线路数组": "class=\"swiper-slide\">&&</a>","线路标题": "</i>&nbsp;&&</a>"}},
+{"key":"慢大浪","name":"慢大浪","type":3,"api":"csp_xBPQ","ext":{"分类":"电影$2#连续剧$1#综艺$3#动漫$4#纪录片$5","分类url":"https://mdlys.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}.html","线路数组": "class=\"swiper-slide\">&&</a>","线路标题": "</i>&nbsp;&&</a>"}},
+{"key":"臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_xBPQ","ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$38","分类url":"https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mc"}},
+{"key":"白狐","name":"白狐","type":3,"api":"csp_xBPQ","ext":"https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html"},
+
+
+
+
 
 {"key":"8号影视","name":"8号影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#国产$13#港台$14#欧美$15#日韩$16#","分类url":"http://8hysw.com/frim/{cateId}-{catePg}.html"}},
 //{"key":"8号影视","name":"️8号影视","type":3,"api":"csp_xBPQ","ext":"分类url:http://8hysw.com/frim/{cateId}-{catePg}.html,分类:电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#国产$13#港台$14#欧美$15#日韩$16"},
