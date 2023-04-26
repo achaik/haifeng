@@ -87,6 +87,8 @@
 {"key":"100分影院","name":"百分丨BPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电视剧$tv/0/0/all/1#电影$mov/0/0/all/1#动漫$acg/0/0/all/1#综艺$zongyi/0/0/all/1","分类url":"http://www.100fyy3.com/{cateId}/{year}/{class}/{area}/{catePg}.html"}},
 {"key":"23影视","name":"23 丨BPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/23%e5%bd%b1%e8%a7%86.txt"},
 {"key":"猪猪","name":"胖猪丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#剧集$2#动漫$4#综艺$3#","分类url":"http://www.cghlj.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"}},
+{"key":"LibVio","name":"LibVio┃XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类": "电影$1#剧集$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16","分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;cmal"}},
+{"key":"独播库","name":"独播库","type":3,"api":"csp_XBPQ","ext":{"分类":"国产剧$13#港剧$20#日韩剧$15#综艺$3#动漫$4","分类url":"https://u.duboku.io/vodshow/{cateId}-{area}-{by}-{area}-----{catePg}---{year}.html;;cma"}},
 
 
 {"key":"8号影视","name":"8号影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#国产$13#港台$14#欧美$15#日韩$16#","分类url":"http://8hysw.com/frim/{cateId}-{catePg}.html"}},
