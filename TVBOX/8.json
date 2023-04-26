@@ -97,7 +97,7 @@
    "数组":"class=\"aplus-exp\"&&</a>","分类":"电影$1#电视剧$2#动漫$34#综艺$3","分类url":"https://www.23wm.net/vodshow/area/{area}/id/{cateid}/page/{catePg}/year/{year}.html"}},
 {"key": "csp_XBPQ_pkw",  "name": "┃简写┃片库网",  "type": 3,  "api": "csp_xBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.zqthmz.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 	{"key":"csp_XBPQ_肥猫","name":"肥猫丨xBPQ","type":3,"api":"csp_xBPQ","playUrl":"http://i.xn--z7x900a.love:63/Art2/?url=","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视$2#动漫$3#综艺$3#纪录$23","分类url":"http://i.xn--z7x900a.love:63/index.php/vod/show/{cateId}/class/{area}/id/{cateId}/{by}/page/{catePg}/lang/{lang}/year/{year}.html"}},
- {"key":"csp_XBPQ_ren","name":"ren丨xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"class=\"module-item\"&&</div>","分类":"影视库$all#电影$/h2","分类url":"https://www.renren.pro/list/{cateId}?page={catePg}"}},
+ {"key":"csp_XBPQ_ren","name":"ren丨xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"class=\"module-item\"&&</div>","分类":"影视库$all#电影$h2","分类url":"https://www.renren.pro/list/{cateId}?page={catePg}"}},
 
 
 
