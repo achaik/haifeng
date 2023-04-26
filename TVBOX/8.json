@@ -93,7 +93,15 @@
 {"key":"土豪影视","name":"土豪影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组": "class=\"module-item\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<span>&&</span>","分类":"电影$1#剧集$2#综艺$3#动漫$4#","分类url":"https://www.tuhao.tv/vsh/{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html"}},
 {"key":"哒哒兔","name":"哒哒兔","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%93%92%e5%93%92%e5%85%94.txt"},
 {"key": "csp_xBPQ_熊大","name": "翠花影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;cma","数组": "class=\"stui-vodlist__thumb lazyload&&</a>"} },
-
+ {
+      "key": "Csp_xbpq-akyy",
+      "name": "爱看影院|XBPQ",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"分类\":\"电视剧$2#电影$1#综艺$3#动漫$4#纪录片$5\",\r\n\"分类url\":\"https://www.ikyy.me/type/{cateId}-{catePg}.html\"}"},
 
 
 
