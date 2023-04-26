@@ -91,7 +91,7 @@
 {"key":"金曼TV","name":"金曼丨BPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺$4#动漫$3#纪录片$5#","分类url":"https://jinmantv.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"}},
 	
 {"key":"土豪影视","name":"土豪影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组": "class=\"module-item\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<span>&&</span>","分类":"电影$1#剧集$2#综艺$3#动漫$4#","分类url":"https://www.tuhao.tv/vsh/{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html"}},
-{"key":"哒哒兔","name":"哒哒兔","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组": "class=\"fed-btns-info fed-rims-info fed-part-eone*>&&<","导演":"导演：&&</li>","主演": "主演：&&</li>","简介":"简介：&&</li>","分类":"电影$1#连续剧$2#综艺$3#动漫$4#","分类url":"https://www.zbkdm.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"}},
+{"key":"哒哒兔","name":"哒哒兔","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4#","分类url":"https://www.zbkdm.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"}},
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1, "m3u8ads": "hd.youyhn.com","ext":"https://api-aws.11ty.top"},
 
 
