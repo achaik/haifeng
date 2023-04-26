@@ -88,7 +88,7 @@
 {"key":"23影视","name":"23 丨BPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组": "class=\"aplus-exp\"&&</a>","分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录$20","分类url":"https://www.23wm.net/vodshow/id/{cateId}{by}{class}/page/{catePg}/year/{year}.html"}},
 
 
-{"key":"8号影视","name":"8号影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组": "class=\"fed-drop-btns&&/li>","导演":"导演：&&</li>","主演": "主演：&&</li>","简介":"简介：&&</li>","分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#国产$13#港台$14#欧美$15#日韩$16#","分类url":"http://8hysw.com/frim/{cateId}-{catePg}.html"}},
+{"key":"8号影视","name":"8号影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#国产$13#港台$14#欧美$15#日韩$16#","分类url":"http://8hysw.com/frim/{cateId}-{catePg}.html"}},
 //{"key":"8号影视","name":"️8号影视","type":3,"api":"csp_xBPQ","ext":"分类url:http://8hysw.com/frim/{cateId}-{catePg}.html,分类:电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#国产$13#港台$14#欧美$15#日韩$16"},
 {"key":"金曼TV","name":"金曼丨BPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺$4#动漫$3#纪录片$5#","分类url":"https://jinmantv.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"}},
 	
