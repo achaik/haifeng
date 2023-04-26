@@ -1,0 +1,63 @@
+{
+"作者": "sober",
+"站名": "23影视",
+"主页url": "https://www.23wm.net",
+"请求头": "",
+"热门推荐": "1",
+"起始页": "1",
+"直接播放": "0",
+"倒序播放": "0",
+"图片代理": "0",
+
+"分类url": "https://www.23wm.net/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+"分类": "电影$1#剧集$2#综艺$3#动漫$4",
+"分类二次截取": "",
+"分类数组": "",
+"分类标题": "",
+"分类ID": "",
+
+"二次截取": "class=\"hotgrow eclist listdh&&class=\"mac_pages",
+"数组": "class=\"aplus-exp\"&&</a>",
+"图片": "data-original=\"&&\"",
+"标题": "title=\"&&23影视网",
+"副标题": "class=\"pack-prb\">&&</span>",
+"链接": "href=\"/voddetail/&&.html\"",
+"链接前缀": "https://www.23wm.net/vodplay/",
+"链接后缀": "-1-1.html",
+
+"影片类型":"类型：&&</div>",
+"影片年代":"年代：&&</div>",
+"影片地区":"地区：&&</div>",
+"状态":"状态：&&</div>",
+"导演":"导演：&&</div>",
+"主演":"主演：&&</div>",
+"简介":"简介：&&</div>",
+
+"线路二次截取": "",
+"线路数组": "class=\"channelname&&/a>",
+"线路标题": ">&&<",
+
+"播放二次截取": "",
+"播放数组": "id=\"playsx\"&&</ul>",
+"列表二次截取": "",
+"播放列表": "<a&&/a>",
+"播放标题": ">&&<",
+"播放链接": "href=\"&&\"",
+"播放链接前缀": "https://www.23wm.net",
+"免嗅": "1",
+"嗅探词":".m3u8#pt=m3u8#.mp4#.flv#.mp3#.m4a#video/tos",
+"过滤词":".html#=http",
+"播放请求头": "",
+
+"搜索url": "https://www.23wm.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+"搜索模式": "0",
+"搜索图片": "pic",
+"搜索标题": "name",
+"搜索链接": "id",
+"搜索链接前缀": "https://www.23wm.net",
+"搜索链接后缀": "-1-1.html",
+"搜索后缀": "/vodplay/",
+
+//筛选截取
+"筛选": "1"
+}
