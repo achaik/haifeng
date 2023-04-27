@@ -21,30 +21,7 @@
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"t4_豆瓣","name":"T4┃影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
-      {
-            "key": "草民",
-            "name": "️草民影院",
-            "type": 1,
-            "api": "https://www.xsgj.net/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "海外剧",
-                "综艺",
-                "动漫",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "恐怖片",
-                "科幻片",   
-                "剧情片",
-                "战争片"             
-            ]
-        },
+      
 
       {
        "key":"无名影视",
@@ -61,7 +38,7 @@
         "综艺"
        ]},  
 
-{"key":"影视大全","name":"影视大全","type":3,"api":"csp_xBPQ","ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%bd%b1%e8%a7%86%e5%a4%a7%e5%85%a8.json"},
+{"key":"影视大全","name":"影视大全","type":3,"api":"csp_XBPQ","ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%bd%b1%e8%a7%86%e5%a4%a7%e5%85%a8.json"},
 {"key":"csp_555","name":"5️⃣️┃555┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/555.json"},
   {"key": "csp_XBPQ_南瓜影视",
       "name": "南瓜影视",
