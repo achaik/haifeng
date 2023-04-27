@@ -62,8 +62,8 @@
         },
 
 {"key": "热播","name": " 热播","type": 3,"api": "csp_XBPQ","ext": {"主页url": "https://rebozj.pro","数组": "class=\"stui-vodlist__thumb lazyload&&</a>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","副标题": "class=\"pic-text text-right\"><b>&&</span>","搜索模式": "1","搜索url": "https://rebozj.pro/search/-------------.html?wd=","搜索数组": "class=\"stui-vodlist__thumb lazyload&&</a>","搜索图片": "original=\"&&\"","搜索标题": "title=\"&&\"","搜索副标题": "class=\"pic-text text-right\"><b>&&</span>","搜索链接": "href=\"&&\"","播放数组": "<ul class=\"stui-content__playlist sort-list maxheight clearfix&&</ul>","播放列表": "<a&&/a>","播放标题": ">&&<","影片类型": "类型：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "display: none;\">&&</span>","分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;cma"}},
-{"key":"100分影院","name":"百分丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"class=\"aplus-exp\"&&</a>","分类":"电视剧$tv#电影$mov#动漫$acg#综艺$zongyi#","分类url":"http://www.100fyy3.com/{cateId}/{year}/{class}/{area}/{catePg}.html"}},
- {"key": "csp_XBPQ_光头强",  "name": "┃简写┃强哥影院",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext":{"数组":"class=\"aplus-exp\"&&</a>","线路数组": "class=\"channelname&&/a>","分类":"电影$1#电视剧$2#动漫$34#综艺$3","分类url":"https://www.23wm.net/vodshow/area/{area}/id/{cateid}/page/{catePg}/year/{year}.html"}},
+{"key":"100分影院","name":"百分丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电视剧$tv#电影$mov#动漫$acg#综艺$zongyi#","分类url":"http://www.100fyy3.com/{cateId}/{year}/{class}/{area}/{catePg}1.html"}},
+
 
 
 
