@@ -63,6 +63,10 @@
 
 {"key": "热播","name": " 热播","type": 3,"api": "csp_XBPQ","ext": {"主页url": "https://rebozj.pro","数组": "class=\"stui-vodlist__thumb lazyload&&</a>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","副标题": "class=\"pic-text text-right\"><b>&&</span>","搜索模式": "1","搜索url": "https://rebozj.pro/search/-------------.html?wd=","搜索数组": "class=\"stui-vodlist__thumb lazyload&&</a>","搜索图片": "original=\"&&\"","搜索标题": "title=\"&&\"","搜索副标题": "class=\"pic-text text-right\"><b>&&</span>","搜索链接": "href=\"&&\"","播放数组": "<ul class=\"stui-content__playlist sort-list maxheight clearfix&&</ul>","播放列表": "<a&&/a>","播放标题": ">&&<","影片类型": "类型：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "display: none;\">&&</span>","分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;cma"}},
 {"key":"100分影院","name":"百分丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电视剧$tv/0/0/all/1#电影$mov/0/0/all/1#动漫$acg/0/0/all/1#综艺$zongyi/0/0/all/1","分类url":"http://www.100fyy3.com/{cateId}/{year}/{class}/{area}/{catePg}.html"}},
+ {"key": "csp_XBPQ_光头强",  "name": "┃简写┃强哥影院",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext":{"数组":"class=\"aplus-exp\"&&</a>","分类":"电影$1#电视剧$2#动漫$34#综艺$3","分类url":"https://www.23wm.net/vodshow/area/{area}/id/{cateid}/page/{catePg}/year/{year}.html"}},
+
+
+
 {"key":"23影视","name":"23 丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/23%e5%bd%b1%e8%a7%86.txt"},
 {"key":"猪猪","name":"胖猪丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#剧集$2#动漫$4#综艺$3#","分类url":"http://www.cghlj.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"}},
 {"key":"LibVio","name":"LibVio┃XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类": "电影$1#剧集$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16","分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;cmal"}},
@@ -73,8 +77,7 @@
 //{"key":"白狐","name":"白狐","type":3,"api":"csp_XBPQ","ext":"https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html"},
 {"key":"白狐","name":"白狐","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#连续剧$2#动漫$3#综艺$4","分类url":"https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html","类型": "1--动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11||2--国产剧$12#港台剧$13#韩国剧$14#欧美剧$15#台湾剧$16#日本剧$17#海外剧$18#泰国剧$24||4--大陆综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28||3--国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32||空"}},
 {"key":"爱看","name":"爱看","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"}},
- {"key": "csp_XBPQ_光头强",  "name": "┃简写┃强哥影院",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": {
-   "数组":"class=\"aplus-exp\"&&</a>","分类":"电影$1#电视剧$2#动漫$34#综艺$3","分类url":"https://www.23wm.net/vodshow/area/{area}/id/{cateid}/page/{catePg}/year/{year}.html"}},
+
 {"key": "csp_XBPQ_pkw",  "name": "┃简写┃片库网",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.zqthmz.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 	{"key":"csp_XBPQ_肥猫","name":"肥猫丨xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视$2#动漫$3#综艺$3#纪录$23","分类url":"http://i.xn--z7x900a.love:63/index.php/vod/show/{cateId}/class/{area}/id/{cateId}/{by}/page/{catePg}/lang/{lang}/year/{year}.html"}},
  {"key":"csp_XBPQ_ren","name":"ren丨xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"class=\"module-item\"&&</div>","分类":"影视库$all#电影$module-main","分类url":"https://www.renren.pro/list/{cateId}?page={catePg}"}},
