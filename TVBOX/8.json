@@ -3,10 +3,11 @@
 
 
 {
- "spider":"https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/zhuzige.jar",   
+ //"spider":"https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/zhuzige.jar",   
 //"spider":"https://4kal.netlify.app/x/jar/pig.cpa",
 //"spider": "https://gitea.com/52670576/tvbox/raw/branch/master/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
 //"spider":"https://4kal.netlify.app/tvbox/jar/xyq.jar",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e911ef9b3f3c5101a90cdfd022f566f0",
 "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
 "warningText": "应用边界，免费维护更新。",
 
