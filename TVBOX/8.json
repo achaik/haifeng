@@ -91,7 +91,9 @@
 {"key":"独播库","name":"独播库","type":3,"api":"csp_xBPQ","ext":{"分类":"国产剧$13#港剧$20#日韩剧$15#综艺$3#动漫$4","分类url":"https://u.duboku.io/vodshow/{cateId}-{area}-{by}-{area}-----{catePg}---{year}.html;;cma"}},
 {"key":"慢大浪","name":"慢大浪","type":3,"api":"csp_xBPQ","ext":{"分类":"电影$2#连续剧$1#综艺$3#动漫$4#纪录片$5","分类url":"https://mdlys.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}.html","线路数组": "class=\"swiper-slide\">&&</a>","线路标题": "</i>&nbsp;&&</a>"}},
 {"key":"臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_xBPQ","ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$38","分类url":"https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mc"}},
-{"key":"白狐","name":"白狐","type":3,"api":"csp_xBPQ","ext":"https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html"},
+
+//{"key":"白狐","name":"白狐","type":3,"api":"csp_xBPQ","ext":"https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html"},
+{"key":"白狐","name":"白狐","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#连续剧$2#动漫$3#综艺$4","分类url":"https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html","类型": "1--动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11||2--国产剧$12#港台剧$13#韩国剧$14#欧美剧$15#台湾剧$16#日本剧$17#海外剧$18#泰国剧$24||4--大陆综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28||3--国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32||空"}},
 {"key":"爱看","name":"爱看","type":3,"api":"csp_xBPQ","ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"}},
  {"key": "csp_XBPQ_光头强",  "name": "┃简写┃强哥影院",  "type": 3,  "api": "csp_xBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": {
    "数组":"class=\"aplus-exp\"&&</a>","分类":"电影$1#电视剧$2#动漫$34#综艺$3","分类url":"https://www.23wm.net/vodshow/area/{area}/id/{cateid}/page/{catePg}/year/{year}.html"}},
