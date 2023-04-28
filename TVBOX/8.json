@@ -116,6 +116,14 @@
 "filterable": 1, 			
 "ext": "http://45.125.46.61/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json" 		
 },
+{"key":"简写|模板","name":"麻衣呀呼丨影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$id-a#电视剧$id-b#综艺$id-d#动漫$id-c","分类url":"https://www.mayiyahu.com/s/{cateId}/area/{area}/class/{class}/year/{year}.html"}},
+
+
+
+
+
+
+
 
 
 {"key":"8号影视","name":"8号影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#国产$13#港台$14#欧美$15#日韩$16#","分类url":"http://8hysw.com/frim/{cateId}-{catePg}.html"}},
