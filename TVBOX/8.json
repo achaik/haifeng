@@ -665,16 +665,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "88js",
-            "name": "⚽ 88┃看球",
-            "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/88看球.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+{"key": "dr_88看球","name": "🏀┃八八┃看球","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://alist.xn--z7x900a.love:63/88看球.js"},
         {
             "key": "csp_xp_qiumi",
             "name": "⚽ Jrs┃球迷",
