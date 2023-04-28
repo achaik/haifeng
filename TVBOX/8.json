@@ -80,7 +80,7 @@
 
 
 
- {"key":"drpy_js_8k影视","name":"影视 | 8k影视[js]","type":3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy3.min.js","ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/8K%e5%bd%b1%e8%a7%86.js"},
+ {"key":"drpy_js_8k影视","name":"影视 | 8k影视[js]","type":3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/8K%e5%bd%b1%e8%a7%86.js"},
 
 {"key":"23影视","name":"23 丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/23%e5%bd%b1%e8%a7%86.txt"},
 {"key":"猪猪","name":"胖猪丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#剧集$2#动漫$4#综艺$3#","分类url":"http://www.cghlj.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"}},
