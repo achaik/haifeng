@@ -73,6 +73,21 @@
             "filterable": 1,
             "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
+       {
+            "key": "Qtv",
+            "name": "企鹅(解析)",
+            "type": 3,
+            "api": "csp_Qtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+
+
+
+
+
 
 
 
