@@ -48,15 +48,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Czsapp",
-      "name": "厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_Bd",
       "name": "哔嘀",
