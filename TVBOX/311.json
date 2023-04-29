@@ -1,14 +1,6 @@
 ﻿{
   "sites": [
-    {
-      "key": "csp_SP360",
-      "name": "💫360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
     {
       "key": "T4_douban2",
       "name": "影视推荐2(T4)",
@@ -803,7 +795,7 @@
 
     {
       "key": "drpy_js_子子影视",
-      "name": "影视 | 子子影视[js]",
+      "name": " 子子影视[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -814,7 +806,7 @@
 
     {
       "key": "drpy_js_低端",
-      "name": "影视 | 低端[js]",
+      "name": "| 低端[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -824,7 +816,7 @@
     },
     {
       "key": "drpy_js_星辰影院",
-      "name": "影视 | 星辰影院[js]",
+      "name": "星辰影院[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -834,7 +826,7 @@
     },
     {
       "key": "drpy_js_骚火电影",
-      "name": "影视 | 骚火电影[js]",
+      "name": "骚火电影[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -845,7 +837,7 @@
     
     {
       "key": "drpy_js_西瓜影视",
-      "name": "影视 | 西瓜影视[js]",
+      "name": "西瓜影视[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -856,7 +848,7 @@
 
     {
       "key": "drpy_js_333影视",
-      "name": "影视 | 333影视[js]",
+      "name": "333影视[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -866,7 +858,7 @@
     },
     {
       "key": "drpy_js_小猫咪",
-      "name": "影视 | 小猫咪[js]",
+      "name": "小猫咪[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -876,7 +868,7 @@
     },
     {
       "key": "drpy_js_爱影视",
-      "name": "影视 | 爱影视[js]",
+      "name": "爱影视[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -886,7 +878,7 @@
     },
     {
       "key": "drpy_js_人人影视",
-      "name": "影视 | 人人影视[js]",
+      "name": "人人影视[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -896,7 +888,7 @@
     },
     {
       "key": "drpy_js_看看屋",
-      "name": "影视 | 看看屋[js]",
+      "name": "看看屋[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -906,7 +898,7 @@
     },
     {
       "key": "drpy_js_TV蜂影院",
-      "name": "影视 | TV蜂影院[js]",
+      "name": "TV蜂影院[js]",
       "type": 3,
       "api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -966,7 +958,7 @@
 
     {
       "key": "AP_xl",
-      "name": "🥏速腾┃勿信广告",
+      "name": "🥏速腾勿信广",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
       "searchable": 1,
