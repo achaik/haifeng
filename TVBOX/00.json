@@ -499,25 +499,11 @@
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"全部","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"B站1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
- 
-    {
-      "name": "xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "yemu",
-      "type": 0,
-      "url": "https://www.yemu.xyz/?url="
-    },		
+	
 
 
 
-    {
-      "name": "1号线",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },	
+
     {
       "name": "2爱芒36",
       "type": 1,
