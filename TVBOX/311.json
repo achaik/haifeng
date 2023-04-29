@@ -37,19 +37,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/chuqiuyu/gao/raw/branch/master/json/lezhu.json"
     },
- 
 
-  
-    {
-      "key": "mtv_XBPQ_映迷影视",
-      "name": "🐾┃映迷┃影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/映迷影院.json"
-    },
     {
       "key": "csp_Nmys",
       "name": "🌾农民┃直连",
