@@ -9,6 +9,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{
+      "key": "csp_appys_zx",
+      "name": "zx视频",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xg.zxzx.fun/api.php/provide/vod/"
+    },
     {
       "key": "csp_Kunyu77",
       "name": "🌤酷云七七",
