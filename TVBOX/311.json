@@ -38,22 +38,13 @@
       "ext": "https://agit.ai/chuqiuyu/gao/raw/branch/master/json/lezhu.json"
     },
  
-    {
-      "key": "DNSP_spider",
-      "name": "酷酷影视",
-      "type": 3,
-      "api": "csp_Dnsp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://121.62.19.116:1996"
-    },
+
   
     {
       "key": "mtv_XBPQ_映迷影视",
       "name": "🐾┃映迷┃影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
