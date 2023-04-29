@@ -3124,16 +3124,19 @@
     }
   ],
   "parses": [
-    {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
+   {
+			"name": "Json聚合",
+			"type": 3,
+			"url": "Demo"
+		},
+		{
+			"name": "自动嗅探",
+			"type": 3,
+			"url": "Web",
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+			}
+		},
     {
       "name": "刚刚走过",
       "type": 1,
