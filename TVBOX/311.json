@@ -1829,26 +1829,7 @@
       "filterable": 1,
       "ext": "https://yydsys.top/duo/js/电影先生.js"
     },
-    {
-      "key": "csp_AppTT",
-      "name": "🐰图图影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
-    },
-    {
-      "key": "AppTT",
-      "name": "🐰图图",
-      "type": 0,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "110c922de7d69804467fb83d3bb664b5"
-    },
+
     {
       "key": "蓝影官采",
       "name": "🔴官方采集蓝影",
@@ -4087,5 +4068,6 @@
     "vip.ffzyad.com"
   ],
   "wallpaper": "http://p9.qhimg.com/bdr/__85/t01b895c2571882becf.jpg",
-  "spider": "https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/xm.jar;md5;4F2C8EB3B1E14D5449DF4B05E5D89A32"
+ // "spider": "https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/xm.jar;md5;4F2C8EB3B1E14D5449DF4B05E5D89A32"
+"spider":"https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/cc.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
 }
