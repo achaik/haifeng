@@ -1030,7 +1030,7 @@
     },
     {
       "key": "csp_xBPQ_看一看影视",
-      "name": "看一看影视〔xBPQ〕",
+      "name": "看一看影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1041,7 +1041,7 @@
 
     {
       "key": "csp_XBPQ石榴影视",
-      "name": "🎞️石榴电影〔XBPQ〕",
+      "name": "🎞️石榴电影",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1051,7 +1051,7 @@
     },
     {
       "key": "csp_XBPQ吼吼影视",
-      "name": "🎞️吼吼影视〔XBPQ〕",
+      "name": "🎞️吼吼影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1061,13 +1061,13 @@
     },
     {
       "key": "超级师兄",
-      "name": "超级师兄┃XBPQ",
+      "name": "超级师兄",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "免嗅:1,分类url:https://wxxkdp.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html","分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$5"
+      "ext": "免嗅:1,分类url:https://wxxkdp.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html,分类:电影$1#连续剧$2#综艺$3#动漫$4#纪录片$30"
     },
     {
       "key": "csp_XBPQ诺讯影视",
