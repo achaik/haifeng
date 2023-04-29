@@ -113,14 +113,14 @@
       "key": "csp_xBPQ_K电影",
       "name": "K电影",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://52bsj.vip:81/api/v3/file/get/101722/K%E7%94%B5%E5%BD%B1.json?sign=IRIEYG-ZmVq0FMIc21WbXYfnuvBBD3UXwFPQWEhqfiw%3D%3A0"
     },
     {
-      "key": "csp_xBPQ_兰花影院",
+      "key": "csp_XBPQ_兰花影院",
       "name": "兰花影院",
       "type": 3,
       "api": "csp_xBPQ",
