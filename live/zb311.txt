@@ -969,7 +969,7 @@ CGTN,http://39.135.138.60:18890/PLTV/88888910/224/3221225747/index.m3u8
 
 🎞️我的电影,#genre#
 
-
+生化危机3灭绝,http://hxf.njc.svp.tencent-cloud.com/0bc37aaaiaaagyadliv74brfb6gdat4aabaa.f10002.mp4?
 半仙的菜 杨戬,https://vip.ffzy-play3.com/20221101/1324_32327f9f/2000k/hls/mixed.m3u8
 新封神之二郎神,https://vip.ffzy-play5.com/20230422/10681_f6148d2b/2000k/hls/mixed.m3u8
 海王,https://s.xlzys.com/play/BeXDl5ke/index.m3u8
