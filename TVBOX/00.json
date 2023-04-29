@@ -495,29 +495,9 @@
 
 // {"name": "Web解析","type": 3,"url": "Web","header":{"User-Agent":"Mozilla/5.0"}},  
    
-   {
-      "name": "聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-
-
-     {
-            "name": "自动解析",
-            "type": 0,
-            "url": "https://api.json.icu/api/?key=aedfdfc26716b0c27916ba5dcdca9ee8&url="
-        },
-{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+ {"name":"聚合0","type":3,"url":"Web"},
+{"name":"聚合1","type":3,"url":"Demo"},
+{"name":"全部","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
     {
       "name": "bozrc",
       "type": 0,
