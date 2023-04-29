@@ -115,17 +115,33 @@
 		},
 
 
-{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com","jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
-{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
+{"key":"csp_Lib","name": "🌟利奥┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
+{"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+{"key":"csp_Vofl","name":"🎈Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
-{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
-{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
+{"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DiDuan" ,"name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Cokemv","name":"📕可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"🏝奥特┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo","name":"✌比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+{"key":"csp_zxzjH3","name":"📗在线H3┃影视","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+{"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+{"key":"csp_Smdyy","name": "🐴神马┃直连","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json"},
+{"key":"csp_Ysgc","name":"🏭工厂┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
+{"key":"csp_panghu","name":"🐯胖虎┃直连","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_555","name":"5️⃣️555┃直连","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+{"key":"csp_MeiJu69","name":"🗽69美剧┃直连","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
-{"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com","jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
-{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
-{"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com","jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
-{"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip","jar":"http://52bsj.vip:81/api/v3/file/get/100996/Yoursmile11.jar?sign=lb4lakYFnTipHKsVBZq5DictiwvC4j07LGRAX_NQNOs%3D%3A0"},
+{"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"Qtv","name":"🐧腾腾┃解析","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
+{"key":"Itv","name":"🥝爱爱┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
+{"key":"Mtv","name":"🍋芒芒┃解析","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 
 
