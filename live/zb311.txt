@@ -1032,6 +1032,7 @@ CGTN,http://39.135.138.60:18890/PLTV/88888910/224/3221225747/index.m3u8
 
 
 🎞️电.影,#genre#
+美亚电影,http://bhz0001.8866.org:8686/tsfile/live/1022_1.m3u8
 豆瓣评分电影,http://epg.112114.xyz/douyu/8770422
 欧美大片,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
