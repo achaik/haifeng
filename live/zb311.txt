@@ -1085,7 +1085,14 @@ CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 橙子2台,http://cn-sdqd-cu-01-11.bilivideo.com/live-bvc/436593/live_457200741_74685781/index.m3u8
 橙子3台,http://cn-sdqd-cu-01-20.bilivideo.com/live-bvc/971998/live_1001126625_48904870/index.m3u8
 橙子4台,http://cn-sdqd-cu-01-03.bilivideo.com/live-bvc/284475/live_1755442628_48682447/index.m3u8
-
+CHC家庭影院,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.238:4056
+CHC动作电影,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.239:4056
+CHC高清电影,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.240:4056
+4K影视,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.123:4056
+高 清 电 影,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.100:4056
+精彩影视,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.152:4056
+自然传奇,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.18:4056
+金鹰纪实,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.91:4056
 
 黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
 电影 超好看,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29460894
