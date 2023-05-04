@@ -1,5 +1,15 @@
 ﻿{
   "sites": [
+    {
+      "key": "csp_Kunyu77",
+      "name": "🌤酷云七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
     {
       "key": "T4_douban2",
@@ -20,25 +30,8 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{
-      "key": "csp_appys_zx",
-      "name": "zx视频",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xg.zxzx.fun/api.php/provide/vod/"
-    },
-    {
-      "key": "csp_Kunyu77",
-      "name": "🌤酷云七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
+
     {
       "key": "csp_apple",
       "name": "苹果┃SP",
