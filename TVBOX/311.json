@@ -101,16 +101,7 @@
       "filterable": 1,
       "ext": "https://tv.libvio.cc/"
     },
-    {
-      "key": "csp_fantuan",
-      "name": "🍙饭团┃直连",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.fantuanhd.com"
-    },
+{"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
     {
       "key": "csp_Vofl",
       "name": "🎈Vofl┃直连",
