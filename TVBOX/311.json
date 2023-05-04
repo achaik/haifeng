@@ -1459,7 +1459,7 @@
       "key": "阿里影视",
       "name": "🥤阿里影视(聚)",
       "type": 1,
-      "api": "http://aliys.cn:90/api.php/provide/vod/",
+      "api": "http://anltv.cn/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
