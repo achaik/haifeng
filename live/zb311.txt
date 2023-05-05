@@ -1093,6 +1093,7 @@ CHC高清电影,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.240:4056
 精彩影视,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.152:4056
 自然传奇,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.18:4056
 金鹰纪实,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.91:4056
+苏州电影,https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
 
 黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
 电影 超好看,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29460894
