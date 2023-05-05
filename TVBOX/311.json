@@ -253,8 +253,8 @@
       "api": "csp_Qtv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "playUrl": "http://api.playaaaa.com/qq/00167kkkk.php?url=","json":"1","jjj":"qq","zd":"1","qp":"1","diy":"#009999"
+      "filterable": 1
+      
     },
     {
       "key": "Itv",
