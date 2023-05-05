@@ -121,6 +121,9 @@
 },
 {"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
+{"key":"端木影视","name":"端木丨影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e7%ab%af%e6%9c%a8%e8%a7%86%e9%a2%91.json"},
+
+
     {
       "key": "csp_Bd",
       "name": "💥哔嘀┃直连",
