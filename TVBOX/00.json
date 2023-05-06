@@ -10,26 +10,8 @@
  
 {
   "sites": [
-    {
-      "key": "js豆瓣",
-      "name": "豆瓣推荐",
-      "type": 3,
-      "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js"
-    },
-    {
-      "key": "农民",
-      "name": "农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%86%9c%e6%b0%911.json"
-    },
+{"key":"js豆瓣","name":"🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
+{"key":"农民","name":"🤴┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json"},
     {
       "key": "csp_kuaikan",
       "name": "快看",
@@ -877,7 +859,9 @@
     
 
      "wallpaper": "http://饭太硬.ga/深色壁纸/api.php", 
-     "spider":"https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/cc.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
+     //"spider":"https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/cc.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
      //   "spider": "https://agit.ai/haifeng2777/TVB/src/branch/master/jar/xm.jar;md5;4F2C8EB3B1E14D5449DF4B05E5D89A32"
       // "spider": "https://agit.ai/haifeng2777/TVB/src/branch/master/jar/fan.jar;md5;492f9401fec7d490f6f2e48f045e1580"
+"spider":"http://我不是.肥猫.love:63/Jar/pandaQ230505.jar;md5;2E66E687653E42A40A391C1EE105C137"   
 }
+
