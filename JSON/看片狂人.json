@@ -9,6 +9,12 @@
   
 "请求头": "手机",
   "倒序播放": "1",
+  "线路数组": "class=\"fed-btns-info fed-rims-info fed-part-eone line-select\"&&<>",
+  "线路标题": "data-linename=\"&&\"&&</a>",
+  
+  "播放数组": "class=\"fed-part-rows&&</ul>",
+
+
   "副标题": "class=\"fed-list-remarks fed-font-xii fed-text-white fed-text-center uk-overlay uk-overlay-primary uk-position-bottom\">&&</span>",
   /*
   "搜索模式": "1",
