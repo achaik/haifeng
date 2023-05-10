@@ -25,8 +25,8 @@
   "简介":"劇情:&&\">",
   
  
-  "线路数组": "class=\"name&&/span>",
-  "线路标题": ">&&<",
+  "线路数组": "class=\"title\"&&</div>",
+  "线路标题": "class=\"title\"&&</span>",
 
   "播放二次截取": "<script>var post*vods&&</script>",
   "播放数组":"{\"id\"&&]},",
