@@ -11,7 +11,7 @@
       
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "10&11&12&13",
-  "分类url": "https://400mov.com/cat/{cateId}{class}-{catePg}.html;;za",
+  "分类url": "https://400mov.com/cat/{cateId}-{catePg}.html;;za",
     
 
     
@@ -26,7 +26,7 @@
   
  
   "线路数组": "class=\"name&&/span>",
-  "线路标题": "class=\"title\">&<",
+  "线路标题": "class=\"title\">&&<",
 
   "播放二次截取": "<script>var post*vods&&</script>",
   "播放数组":"{\"id\"&&]},",
