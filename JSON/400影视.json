@@ -11,7 +11,7 @@
       
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "10&11&12&13",
-  "分类url": "https://400mov.com/cat/{cateId}{class}-{catePg}.html",
+  "分类url": "https://400mov.com/cat/{cateId}{class}-{catePg}.html;;za",
     
 
     
