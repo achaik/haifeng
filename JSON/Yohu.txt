@@ -1,0 +1,90 @@
+{
+"作者": "sober",
+"站名": "Yohu",
+"主页url": "https://www.yohu.tv",
+"编码": "utf-8",
+"首页": "1",
+"请求头": "",
+"头部集合": "",
+"起始页": "1",
+"直接播放": "0",
+"倒序播放": "0",
+"图片代理": "0",
+
+
+"分类url": "https://www.yohu.tv/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+"分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+"分类二次截取": "",
+"分类数组": "",
+"分类标题": "",
+"分类ID": "",
+
+
+//"二次截取":"class=\"module-main module-page&&id=\"page\"",
+//"数组":"<a&&</a>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"副标题":"class=\"module-item-note\">&&</div>",
+"链接":"href=\"&&\"",
+"链接前缀": "",
+"链接后缀": "",
+
+
+"影片类型":"/class*.html\"&&</div>",
+"影片年代":"/year*.html\"&&</div>",
+"影片地区":"/area*.html\"&&</div>",
+"状态": "更新：&&</div>",
+"导演": "导演：&&</div>",
+"主演": "主演：&&</div>",
+"简介": "<p>&&</p>",
+
+
+"线路二次截取": "",
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "data-dropdown-value=\"&&\"",
+"线路合并":"",
+"多线二次截取": "",
+"多线数组": "",
+"多线链接": "",
+
+
+"播放二次截取": "",
+"播放数组": "class=\"module-play-list-content&&</div>",
+"列表二次截取": "",
+"播放列表": "<a&&/a>",
+"播放标题": "<span>&&</span>",
+"播放链接": "href=\"&&\"",
+"播放链接前缀": "https://www.yohu.tv",
+"免嗅": "1",
+"嗅探词":".m3u8#pt=m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma#video/tos",
+//"过滤词":".html#=http",
+"播放请求头": "",
+
+
+"搜索url": "https://www.yohu.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+"搜索模式": "0",
+"搜索图片": "pic",
+"搜索标题": "name",
+"搜索链接": "id",
+"搜索链接前缀": "",
+"搜索链接后缀": "",
+"搜索后缀": "/index.php/vod/detail/id/",
+
+
+/*
+"搜索url": "https://www.yohu.tv/index.php/vod/search.html?{wd}=",
+"搜索模式": "1",
+"搜索二次截取": "",
+"搜索数组": "<a&&</a>",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题": "title=\"&&\"",
+"搜索链接": "href=\"&&\"",
+"搜索链接前缀": "",
+"搜索链接后缀": "",
+"搜索后缀": "/index.php/vod/detail/id/",
+*/
+
+
+//筛选截取
+"筛选": ""
+}
