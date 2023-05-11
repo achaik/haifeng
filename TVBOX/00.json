@@ -43,7 +43,7 @@
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/奇珍异兽.js"},
 {"key":"drpy_js_百忙无果","name":"🥭芒果","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/百忙无果.js"},
 {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/优酷.js"},
-
+{"key":"csp_biubiu_9亿国语","name": "VIP二","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/9e.json"},
 
 {"key":"csp_Czsapp","name":"📔厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {
