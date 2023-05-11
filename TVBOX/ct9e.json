@@ -48,7 +48,7 @@
 
 //自定义
 {"key":"csp_biubiu_花猫","name": "VIP一","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/huamao.json"},
-{"key":"csp_biubiu_9亿国语","name": "VIP二","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/9yi.json"},
+{"key":"csp_biubiu_9亿国语","name": "VIP二","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/9e.json"},
 {"key":"csp_biubiu_饭团","name": "VIP三","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/fantuan.json"},
 {"key":"csp_biubiu_大米星球","name": "VIP四","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/dami.json"},
 {"key":"csp_biubiu_奈菲影院","name": "奈菲影院（自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/laifei.json"},
