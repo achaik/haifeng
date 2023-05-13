@@ -489,6 +489,8 @@ CGTN西班牙语,http://39.136.48.8:8089/PLTV/88888888/224/3221226324/index.m3u8
 
 
 🎞️我的电影,#genre#
+
+拳霸3,https://vip.lz-cdn8.com/20220816/21823_7429e25a/1000k/hls/mixed.m3u8
 怪物猎人,https://vip.ffzy-play7.com/20221226/9838_644c1581/2000k/hls/mixed.m3u8
 《珍珠港》国语完整版,https://hxf.njc.svp.tencent-cloud.com/0b2eeuabaaaaeeaayyjvhjrvajodcasqaeaa.f10002.mp4?
 变型金刚01,http://rescdn.yishihui.com/longvideo/transcode/video/vpc/20230227/20389350AUkBpITVTGCBxW9Z2V.m3u8
