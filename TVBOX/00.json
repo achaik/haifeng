@@ -454,9 +454,12 @@
    
  {"name":"聚合0","type":3,"url":"Web"},
 {"name":"聚合1","type":3,"url":"Demo"},
-{"name":"全部","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"B站1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-	
+
+{"name": "猫影嗅探","type": 0,"url": "http://www.miaoys.cc/vip/?url="},
+        {"name":"综合","type":0,"url":"https://jx.jsonplayer.com/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
+        {"name":"云星","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3063926&key=adefgqtwxzBFILUX48&url=","header":{"User-Agent":"okhttp/4.1.0"}},
+        {"name": "小鱼解析","type": 0,"url": "http://json.84jia.com/api/bfq/?key=JzZOypg2BgyJJOPoJp&url="},
+        {"name":"腾直","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url=","json":"1","jjj":"qq","zd":"1","qp":"1","diy":"#009999"},	
 {
             "name": "刚刚走过",
             "type": 1,
