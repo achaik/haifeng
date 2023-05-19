@@ -497,6 +497,8 @@
         {"name":"云星","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3063926&key=adefgqtwxzBFILUX48&url=","header":{"User-Agent":"okhttp/4.1.0"}},
         {"name": "小鱼解析","type": 0,"url": "http://json.84jia.com/api/bfq/?key=JzZOypg2BgyJJOPoJp&url="},
         {"name":"腾直","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url=","json":"1","jjj":"qq","zd":"1","qp":"1","diy":"#009999"},	
+{"name": "519新1", "type": 1, "url": "http://119.181.100.243:48/jiexi/yun.php/?url="},
+{"name": "519新2", "type": 1, "url": "http://119.181.100.243:48/jiexi/sj.php/?url="},
 {
             "name": "刚刚走过",
             "type": 1,
