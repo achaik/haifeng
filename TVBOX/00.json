@@ -46,7 +46,16 @@
         "欧美综艺"
       ]
     },
- 
+ {
+      "key": "解说",
+      "name": "⚽️电影解说",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星影视解说.json","jar": "http://itvbox.cc/tvbox/云星日记/jar/0322.jpg"
+    },
  
     {
       "key": "csp_kuaikan",
