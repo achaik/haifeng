@@ -719,7 +719,7 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 
 🎞️我的电影,#genre#
 
-
+上帝也疯狂2,https://vip.lzcdn2.com/20220425/4417_df617f77/index.m3u8
 速度激情10,https://vip.lz-cdn1.com/20230522/21032_118d1e79/index.m3u8
 
 印尼暴爽动作电影《嗜人之夜》,https://hxf.njc.svp.tencent-cloud.com/0bf2fiaamaaakeac55zyrbqvakwdayvaabqa.f10002.mp4
