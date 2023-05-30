@@ -48,7 +48,7 @@
 {"key":"csp_Lib","name": "🌟利奥","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
 {"key": "555","name": "555丨APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"api": "http://brox.eu.org/js/drpy.min.js","ext": "http://brox.eu.org/js/555影视.js"},
 //{"key":"csp_555","name":"5️⃣️555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-{"key":"drpy_js_酷云77","name":"酷云七七","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/酷云77.js"},
+{"key":"drpy_js_酷云77","name":"酷云七七","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e9%85%b7%e4%ba%9177.js"},
 {"key":"drpy_js_360影视","name":"360影视","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/360影视.js"},
 {"key":"drpy_js_腾云驾雾","name":"腾讯","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/腾云驾雾.js"},
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/奇珍异兽.js"},
