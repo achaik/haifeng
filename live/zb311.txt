@@ -718,7 +718,7 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 
 
 🎞️我的电影,#genre#
-
+疾速追杀4,https://sf9-dycdn-tos.pstatp.com/obj/tos-cn-i-8gu37r9deh/da32b25895e5449b9322fcd9005b9a20?filename=1.mp4
 上帝也疯狂2,https://vip.lzcdn2.com/20220425/4417_df617f77/index.m3u8
 速度激情10,https://vip.lz-cdn1.com/20230522/21032_118d1e79/index.m3u8
 
