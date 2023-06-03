@@ -10,11 +10,20 @@
  
 {
   "sites": [
+{"key":"FREEOK","name":"️️👌FREEOK","type":3,"api":"csp_XBPQ","ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/FreeOK.json"},
+{"key":"磁力熊","name":"｜磁力熊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e7%a3%81%e5%8a%9b%e7%86%8a.json"},
+
 {"key":"js豆瓣","name":"🐼┃豆瓣┃","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 {"key":"农民","name":"🤴┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%86%9c%e6%b0%911.json"},
 {"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_appys_酷影","name": "🥠️┃酷影┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://ys.realdou.cn/api.php/app/"},
-
+ {"key": "非凡","name": "🐝菲菲┃切片","type": 3,"api": "csp_XBPQ","playerType":2,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e9%9d%9e%e5%87%a1.json"},
+    {"key": "量子","name": "🦋晾晾┃切片","type": 3,"api": "csp_XBPQ","playerType":2,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e9%87%8f%e5%ad%90.json"},
+    {"key": "如意4K", "name": "🧨如意", "type": 3, "api": "csp_AppYsV2", "ext": "http://cms.maoyingshi.cc/api.php/app/"}, 
+    {"key": "csp_aidi","name": "☂️爱迪","type": 3,"api": "csp_AppYsV2","ext": "https://aidiapp.xyz/xgapp.php/v2/"},
+    {"key":"多米","name":"🌾多米","type":3,"api": "csp_AppYsV2","playerType":2,"ext": "http://v.dmdh.top/api.php/app/"},
+    {"key":"飞云","name":"🌹飞云","type": 3, "api": "csp_AppYsV2","playerType":2,"ext": "http://hdvod.top/ruifenglb_api.php/v1.vod"},
+    {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","playerType":2,"ext":"https://www.fantuanhd.com"},
 
  {"key":"freeok","name":"freeok","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","ext":"https://www.freeok.vip/api.php/app/"},
  {"key":"多米蓝光","name":"💧多米蓝光","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%a4%9a%e7%b1%b3[V2].js"},
