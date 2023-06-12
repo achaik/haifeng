@@ -13,6 +13,19 @@
 {"key":"FREEOK","name":"️️👌FREEOK","type":3,"api":"csp_XBPQ","ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/FreeOK.json"},
 {"key":"磁力熊","name":"｜磁力熊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e7%a3%81%e5%8a%9b%e7%86%8a.json"},
 
+    {
+      "key": "直播转点播",
+      "name": "📺电视直播｜JS",
+      "type": 3,
+      "api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e7%9b%b4%e6%92%ad%e8%bd%ac%e7%82%b9%e6%92%ad.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/%e6%b5%b7%e9%a3%8e%e7%9b%b4%e6%92%ad%e5%ba%93.json"
+    },
+
+
+
 {"key":"js豆瓣","name":"🐼┃豆瓣┃","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 {"key":"农民","name":"🤴┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%86%9c%e6%b0%911.json"},
 {"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
