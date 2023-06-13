@@ -10,8 +10,16 @@
  
 {
   "sites": [
-{"key":"FREEOK","name":"️️👌FREEOK","type":3,"api":"csp_XBPQ","ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/FreeOK.json"},
-{"key":"磁力熊","name":"｜磁力熊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e7%a3%81%e5%8a%9b%e7%86%8a.json"},
+{
+            "key": "csp_AppYsV2_影探",
+            "name": "┃影探┃App",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.lfytyl.com/api.php/app/"
+        },
 
     {
       "key": "直播转点播",
