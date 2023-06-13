@@ -41,7 +41,16 @@
       "filterable": 0,
       "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/%e6%b5%b7%e9%a3%8e%e7%9b%b4%e6%92%ad%e5%ba%93.json"
     },
-
+    {
+      "key": "黄黄",
+      "name": "😎黄黄┃App",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
 
 
 {"key":"js豆瓣","name":"🐼┃豆瓣┃","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
