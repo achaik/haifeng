@@ -29,6 +29,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
+{
+      "key": "MV_vod",
+      "name": "👀┃MV┃视频",
+      "type": 1,
+      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
     {
       "key": "直播转点播",
       "name": "📺电视直播｜JS",
