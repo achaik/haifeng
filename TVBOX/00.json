@@ -10,16 +10,8 @@
  
 {
   "sites": [
-    {
-      "key": "csp_AppYsV2_影探",
-      "name": "┃影探┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.lfytyl.com/api.php/app/"
-    },
+ {"key":"影探4K","name":"影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
+{"key":"布雷蓝光","name":"布雷4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
     {
       "key": "csp_DuoX",
       "name": "💢多线┃APP",
