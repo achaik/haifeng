@@ -3,7 +3,7 @@
 
 🇨🇳•【央视】,#genre#
 
-CCTV1,http://hz752.love:63/live_a00p/astv.php?id=cctv1hd
+
 CCTV1,http://39.134.136.151:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00
 CCTV1,http://hz752.love:63/live_a00p/bst.php?id=cctv1
 CCTV1,http://hz752.love:63/live_a00p/cqyx.php?id=cctv1HD
@@ -13,7 +13,7 @@ CCTV1,http://hz752.love:63/live_a00p/migu.php?id=cctv1
 CCTV1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV1,http://hz752.love:63/live_a00p/bfgd.php?id=488
 
-CCTV2,http://hz752.love:63/live_a00p/astv.php?id=cctv2hd
+
 CCTV2,http://39.134.136.151:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=00
 CCTV2,http://hz752.love:63/live_a00p/bst.php?id=cctv2
 CCTV2,http://hz752.love:63/live_a00p/cqyx.php?id=cctv2HD
@@ -24,7 +24,7 @@ CCTV2,http://hz752.love:63/live_a00p/migu.php?id=cctv2
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV2,http://hz752.love:63/live_a00p/bfgd.php?id=061
 
-CCTV3,http://hz752.love:63/live_a00p/astv.php?id=cctv3hd
+
 CCTV3,http://39.134.136.151:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=00
 CCTV3,http://hz752.love:63/live_a00p/bst.php?id=cctv3
 CCTV3,http://hz752.love:63/live_a00p/cqyx.php?id=cctv3HD
@@ -33,7 +33,7 @@ CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV3,http://hz752.love:63/live_a00p/migu.php?id=cctv3
 CCTV3,http://hz752.love:63/live_a00p/bfgd.php?id=062
 
-CCTV4,http://hz752.love:63/live_a00p/astv.php?id=cctv4hd
+
 CCTV4,http://39.134.136.151:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00
 CCTV4,http://hz752.love:63/live_a00p/bst.php?id=cctv4
 CCTV4,http://hz752.love:63/live_a00p/cqyx.php?id=cctv4HD
@@ -56,7 +56,7 @@ CCTV4K,http://hz752.love:63/live_a00p/tv4k.php
 CCTV4K,http://hz752.love:63/live_a00p/bst.php?id=cctv4k
 CCTV4K,http://hz752.love:63/live_a00p/cqyx.php?id=CCTV4K
 
-CCTV5,http://hz752.love:63/live_a00p/astv.php?id=cctv5hd
+
 CCTV5,http://39.134.136.151:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00
 CCTV5,http://hz752.love:63/live_a00p/bst.php?id=cctv5
 CCTV5,http://hz752.love:63/live_a00p/cqyx.php?id=cctv5HD
@@ -66,7 +66,7 @@ CCTV5,http://hz752.love:63/live_a00p/migu.php?id=cctv5
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://hz752.love:63/live_a00p/bfgd.php?id=064
 
-CCTV5+,http://hz752.love:63/live_a00p/astv.php?id=cctv5p
+
 CCTV5+,http://39.134.136.151:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00
 CCTV5+,http://hz752.love:63/live_a00p/bst.php?id=cctv5p
 CCTV5+,http://hz752.love:63/live_a00p/cqyx.php?id=cctv5SportHD
@@ -76,7 +76,7 @@ CCTV5+,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV5+,http://hz752.love:63/live_a00p/migu.php?id=cctv5p
 CCTV5+,http://hz752.love:63/live_a00p/bfgd.php?id=246
 
-CCTV6,http://hz752.love:63/live_a00p/astv.php?id=cctv6hd
+
 CCTV6,http://39.134.136.151:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=00
 CCTV6,http://hz752.love:63/live_a00p/bst.php?id=cctv6
 CCTV6,http://hz752.love:63/live_a00p/cqyx.php?id=cctv6HD
@@ -85,7 +85,7 @@ CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV6,http://hz752.love:63/live_a00p/migu.php?id=cctv6
 CCTV6,http://hz752.love:63/live_a00p/bfgd.php?id=065
 
-CCTV7,http://hz752.love:63/live_a00p/astv.php?id=cctv7hd
+
 CCTV7,http://39.134.136.151:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=00
 CCTV7,http://hz752.love:63/live_a00p/bst.php?id=cctv7
 CCTV7,http://hz752.love:63/live_a00p/cqyx.php?id=cctv7HD
@@ -94,7 +94,7 @@ CCTV7,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
 CCTV7,http://hz752.love:63/live_a00p/migu.php?id=cctv7
 CCTV7,http://hz752.love:63/live_a00p/bfgd.php?id=127
 
-CCTV8,http://hz752.love:63/live_a00p/astv.php?id=cctv8hd
+
 CCTV8,http://39.134.136.151:6610/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=00
 CCTV8,http://hz752.love:63/live_a00p/bst.php?id=cctv8
 CCTV8,http://hz752.love:63/live_a00p/cqyx.php?id=cctv8HD
@@ -104,7 +104,7 @@ CCTV8,http://hz752.love:63/live_a00p/migu.php?id=cctv8
 CCTV8,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 CCTV8,http://hz752.love:63/live_a00p/bfgd.php?id=066
 
-CCTV9,http://hz752.love:63/live_a00p/astv.php?id=cctv9hd
+
 CCTV9,http://39.134.136.151:6610/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=00
 CCTV9,http://hz752.love:63/live_a00p/bst.php?id=cctv9
 CCTV9,http://hz752.love:63/live_a00p/cqyx.php?id=cctv9HD
@@ -114,7 +114,7 @@ CCTV9,http://hz752.love:63/live_a00p/migu.php?id=cctv9
 CCTV9,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV9,http://hz752.love:63/live_a00p/bfgd.php?id=128
 
-CCTV10,http://hz752.love:63/live_a00p/astv.php?id=cctv10hd
+
 CCTV10,http://39.134.136.151:6610/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=00
 CCTV10,http://hz752.love:63/live_a00p/bst.php?id=cctv10
 CCTV10,http://hz752.love:63/live_a00p/cqyx.php?id=cctv10HD
@@ -124,7 +124,7 @@ CCTV10,http://hz752.love:63/live_a00p/migu.php?id=cctv10
 CCTV10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10,http://hz752.love:63/live_a00p/bfgd.php?id=129
 
-CCTV11,http://hz752.love:63/live_a00p/astv.php?id=cctv11hd
+
 CCTV11,http://39.134.136.151:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00
 CCTV11,http://hz752.love:63/live_a00p/bst.php?id=cctv11
 CCTV11,http://hz752.love:63/live_a00p/cqyx.php?id=cctv11HD
@@ -133,7 +133,7 @@ CCTV11,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
 CCTV11,http://hz752.love:63/live_a00p/migu.php?id=cctv11
 CCTV11,http://hz752.love:63/live_a00p/bfgd.php?id=130
 
-CCTV12,http://hz752.love:63/live_a00p/astv.php?id=cctv12hd
+
 CCTV12,http://39.134.136.151:6610/000000001000/1000000001000001640/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=00
 CCTV12,http://hz752.love:63/live_a00p/bst.php?id=cctv12
 CCTV12,http://hz752.love:63/live_a00p/cqyx.php?id=cctv12HD
@@ -142,7 +142,7 @@ CCTV12,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000202603.m3u8
 CCTV12,http://hz752.love:63/live_a00p/migu.php?id=cctv12
 CCTV12,http://hz752.love:63/live_a00p/bfgd.php?id=131
 
-CCTV13,http://hz752.love:63/live_a00p/astv.php?id=cctv13hd
+
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://39.134.136.151:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00
 CCTV13,http://hz752.love:63/live_a00p/bst.php?id=cctv13
@@ -153,7 +153,7 @@ CCTV13,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212262
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://hz752.love:63/live_a00p/bfgd.php?id=067
 
-CCTV14,http://hz752.love:63/live_a00p/astv.php?id=cctv14hd
+
 CCTV14,http://39.134.136.151:6610/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=00
 CCTV14,http://hz752.love:63/live_a00p/bst.php?id=cctv14
 CCTV14,http://hz752.love:63/live_a00p/cqyx.php?id=cctvseHD
@@ -162,7 +162,6 @@ CCTV14,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 CCTV14,http://hz752.love:63/live_a00p/migu.php?id=cctv14
 CCTV14,http://hz752.love:63/live_a00p/bfgd.php?id=132
 
-CCTV15,http://hz752.love:63/live_a00p/astv.php?id=cctv15hd
 CCTV15,http://39.134.136.151:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00
 CCTV15,http://hz752.love:63/live_a00p/bst.php?id=cctv15
 CCTV15,http://hz752.love:63/live_a00p/cqyx.php?id=cctv15HD
@@ -172,15 +171,15 @@ CCTV15,http://hz752.love:63/live_a00p/migu.php?id=cctv15
 CCTV15,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV15,http://hz752.love:63/live_a00p/bfgd.php?id=133
 
-CCTV16,http://hz752.love:63/live_a00p/astv.php?id=cctv16hd
-CCTV16,http://hz752.love:63/live_a00p/astv.php?id=cctv16_4k
+
+
 CCTV16,http://hz752.love:63/live_a00p/bst.php?id=cctv164k
 CCTV16,http://hz752.love:63/live_a00p/cqyx.php?id=CCTV16_4K
 CCTV16,http://hz752.love:63/live_a00p/cqyx.php?id=cctv16HD
 CCTV16,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 
-CCTV17,http://hz752.love:63/live_a00p/astv.php?id=cctv17hd
+
 CCTV17,http://39.134.136.151:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00
 CCTV17,http://hz752.love:63/live_a00p/bst.php?id=cctv17
 CCTV17,http://hz752.love:63/live_a00p/cqyx.php?id=cctv17HD
@@ -193,22 +192,13 @@ CCTV17,http://hz752.love:63/live_a00p/bfgd.php?id=204
 
 
 
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
-CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
-CCTV风云剧场,http://hz752.love:63/live_a00p/migu.php?id=fyjc
 
-CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-
-CETV1,http://hz752.love:63/live_a00p/astv.php?id=cetv1hd
 CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 
-CETV2,http://hz752.love:63/live_a00p/astv.php?id=cetv2
+
 CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 
@@ -218,66 +208,41 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CETV4,http://hz752.love:63/live_a00p/astv.php?id=cetv4
 
-风云足球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+
 风云足球,http://hz752.love:63/live_a00p/cqyx.php?id=fyzqHD
 
-风云音乐,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+
 风云音乐,http://hz752.love:63/live_a00p/cqyx.php?id=fyyyHD
 
-风云剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+
 风云剧场,http://hz752.love:63/live_a00p/cqyx.php?id=fyjcHD
 
-第一剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+
 第一剧场,http://hz752.love:63/live_a00p/cqyx.php?id=diyijuchangHD
 
-怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+
 怀旧剧场,http://hz752.love:63/live_a00p/cqyx.php?id=hjjcHD
 
-兵器科技,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+
 兵器科技,http://hz752.love:63/live_a00p/cqyx.php?id=bqkjHD
 
-高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+
 高尔夫网球,http://hz752.love:63/live_a00p/cqyx.php?id=golfHD
 
-世界地理,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
 
-女性时尚,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
 
-央视文化精品,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+
 央视文化精品,http://hz752.love:63/live_a00p/cqyx.php?id=yswhHD
 
-央视台球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+
 央视台球,http://hz752.love:63/live_a00p/cqyx.php?id=ystqHD
 
-电视指南,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 
-卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
 
-CGTN,http://hz752.love:63/live_a00p/astv.php?id=cgtnhd
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN,http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN,http://hz752.love:63/live_a00p/cqyx.php?id=cgtnSD
 CGTN,http://hz752.love:63/live_a00p/migu.php?id=cgtn
 
-CGTN纪录,http://hz752.love:63/live_a00p/astv.php?id=cgtnjl
-CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CGTN纪录,http://hz752.love:63/live_a00p/migu.php?id=cgtnjl
 
-CGTN西语,http://hz752.love:63/live_a00p/astv.php?id=cgtne
-CGTN西语,http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-CGTN西语,http://hz752.love:63/live_a00p/migu.php?id=cgtne
-
-CGTN法语,http://hz752.love:63/live_a00p/astv.php?id=cgtnf
-CGTN法语,http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-CGTN法语,http://hz752.love:63/live_a00p/migu.php?id=cgtnf
-
-CGTN俄语,http://hz752.love:63/live_a00p/astv.php?id=cgtnr
-CGTN俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-CGTN俄语,http://hz752.love:63/live_a00p/migu.php?id=cgtnr
-
-CGTN阿语,http://hz752.love:63/live_a00p/astv.php?id=cgtna
-CGTN阿语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-CGTN阿语,http://hz752.love:63/live_a00p/migu.php?id=cgtna
 
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 书画频道,http://hz752.love:63/live_a00p/bfgd.php?id=180
@@ -286,7 +251,7 @@ CGTN阿语,http://hz752.love:63/live_a00p/migu.php?id=cgtna
 老故事,http://hz752.love:63/live_a00p/bfgd.php?id=166
 老故事,http://hz752.love:63/live_a00p/cqyx.php?id=gushi
 
-发现之旅,http://hz752.love:63/live_a00p/migu.php?id=fxzl
+
 
 中学生,http://hz752.love:63/live_a00p/cqyx.php?id=qicai
 中学生,http://hz752.love:63/live_a00p/migu.php?id=zxs
@@ -303,333 +268,138 @@ CGTN阿语,http://hz752.love:63/live_a00p/migu.php?id=cgtna
 🇨🇳•【卫视】,#genre#
 
 
-北京卫视,http://hz752.love:63/live_a00p/astv.php?id=bjwshd
-北京卫视,http://hz752.love:63/live_a00p/bj.php?id=bjws
 北京卫视,http://39.134.136.151:6610/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00
-北京卫视,http://hz752.love:63/live_a00p/bst.php?id=bjws
-北京卫视,http://hz752.love:63/live_a00p/cqyx.php?id=beijingHD
-北京卫视,http://hz752.love:63/live_a00p/yst.php?id=beijingstv
-北京卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-
-天津卫视,http://hz752.love:63/live_a00p/astv.php?id=tjwshd
 天津卫视,http://39.134.136.151:6610/000000001000/1000000001000000831/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=00
-天津卫视,http://hz752.love:63/live_a00p/bst.php?id=tjws
-天津卫视,http://hz752.love:63/live_a00p/cqyx.php?id=tianjinHD
-天津卫视,http://hz752.love:63/live_a00p/yst.php?id=tianjinstv
 天津卫视,http://hz752.love:63/live_a00p/bfgd.php?id=084
-
 凤凰中文,http://hz752.love:63/live_a00p/hkif.php?id=fhzw
 凤凰中文,http://hz752.love:63/live_a00p/hk.php?id=fhzw
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://hz752.love:63/live_a00p/cqyx.php?id=xfjcHD
-凤凰中文,http://113.207.84.195:8090/__cl/cg:live/__c/xfjcHD/__op/default/__f/index.m3u8
-
-东方卫视,http://hz752.love:63/live_a00p/astv.php?id=dfwshd
 东方卫视,http://hz752.love:63/live_a00p/bstv.php?id=16
 东方卫视,http://39.134.136.151:6610/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=00
-东方卫视,http://hz752.love:63/live_a00p/bst.php?id=dfws
-东方卫视,http://hz752.love:63/live_a00p/cqyx.php?id=shanghaiHD
-东方卫视,http://hz752.love:63/live_a00p/yst.php?id=dongfangstv
-东方卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-东方卫视,http://hz752.love:63/live_a00p/migu.php?id=dfws
-
-山东卫视,http://hz752.love:63/live_a00p/astv.php?id=sdwshd
 山东卫视,http://39.134.136.151:6610/000000001000/1000000001000012807/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00
 山东卫视,http://hz752.love:63/live_a00p/sdws.php?id=sdtv
-山东卫视,http://hz752.love:63/live_a00p/bst.php?id=sdws
-山东卫视,http://hz752.love:63/live_a00p/yst.php?id=shandongstv
-山东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
 山东卫视,http://hz752.love:63/live_a00p/migu.php?id=sdws
-
-湖南卫视,http://hz752.love:63/live_a00p/astv.php?id=hunwshd
 湖南卫视,http://39.134.136.151:6610/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00
 湖南卫视,http://hz752.love:63/live_a00p/bst.php?id=hunws
-湖南卫视,http://hz752.love:63/live_a00p/cqyx.php?id=hunanHD
-湖南卫视,http://hz752.love:63/live_a00p/yst.php?id=hunanstv
-湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 湖南卫视,http://hz752.love:63/live_a00p/bfgd.php?id=086
-
-浙江卫视,http://hz752.love:63/live_a00p/astv.php?id=zjwshd
 浙江卫视,http://39.134.136.151:6610/000000001000/1000000001000009806/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=00
-浙江卫视,http://hz752.love:63/live_a00p/bst.php?id=zjws
-浙江卫视,http://hz752.love:63/live_a00p/cqyx.php?id=zhejiangHD
-浙江卫视,http://hz752.love:63/live_a00p/yst.php?id=zhejiangstv
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-江苏卫视,http://hz752.love:63/live_a00p/astv.php?id=jswshd
 江苏卫视,http://39.134.136.151:6610/000000001000/1000000001000001828/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=00
 江苏卫视,http://hz752.love:63/live_a00p/jstv.php?id=jsws
-江苏卫视,http://hz752.love:63/live_a00p/bst.php?id=jsws
-江苏卫视,http://hz752.love:63/live_a00p/cqyx.php?id=jiangsuHD
-江苏卫视,http://hz752.love:63/live_a00p/yst.php?id=jiangsustv
-江苏卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
 江苏卫视,http://hz752.love:63/live_a00p/migu.php?id=jsws
-
-广东卫视,http://hz752.love:63/live_a00p/astv.php?id=gdwshd
 广东卫视,http://39.134.136.151:6610/000000001000/1000000001000014176/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=00
-广东卫视,http://hz752.love:63/live_a00p/bst.php?id=gdws
-广东卫视,http://hz752.love:63/live_a00p/cqyx.php?id=guangdongHD
-广东卫视,http://hz752.love:63/live_a00p/yst.php?id=guangdongstv
-广东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-广东卫视,http://hz752.love:63/live_a00p/gdtv.php?id=gdws
-广东卫视,http://hz752.love:63/live_a00p/migu.php?id=gdws
-
-深圳卫视,http://hz752.love:63/live_a00p/astv.php?id=szwshd
 深圳卫视,http://39.134.136.151:6610/000000001000/1000000001000009227/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=00
-深圳卫视,http://hz752.love:63/live_a00p/bst.php?id=szws
-深圳卫视,http://hz752.love:63/live_a00p/cqyx.php?id=shenzhenHD
-深圳卫视,http://hz752.love:63/live_a00p/gdsz.php?id=szws
-深圳卫视,http://hz752.love:63/live_a00p/yst.php?id=shenzhenstv
-深圳卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-
-湖北卫视,http://hz752.love:63/live_a00p/astv.php?id=hubwshd
 湖北卫视,http://39.134.136.151:6610/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=00
-湖北卫视,http://hz752.love:63/live_a00p/bst.php?id=hubws
 湖北卫视,http://hz752.love:63/live_a00p/cqyx.php?id=hubeiSD
-湖北卫视,http://hz752.love:63/live_a00p/hubie.php?id=hbws
-湖北卫视,http://hz752.love:63/live_a00p/yst.php?id=hubeistv
-湖北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
 湖北卫视,http://hz752.love:63/live_a00p/migu.php?id=hubws
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-
-四川卫视,http://hz752.love:63/live_a00p/astv.php?id=scws
 四川卫视,http://39.134.136.151:6610/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=00
 四川卫视,http://hz752.love:63/live_a00p/sctv.php?id=scws
-四川卫视,http://hz752.love:63/live_a00p/bst.php?id=scws
-四川卫视,http://hz752.love:63/live_a00p/cqyx.php?id=sichuanHD
-四川卫视,http://hz752.love:63/live_a00p/yst.php?id=sichuanstv
-四川卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
 四川卫视,http://hz752.love:63/live_a00p/migu.php?id=scws
 四川卫视,http://hz752.love:63/live_a00p/bfgd.php?id=103
-
-重庆卫视,http://hz752.love:63/live_a00p/astv.php?id=cqwshd
 重庆卫视,http://39.134.136.151:6610/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=00
 重庆卫视,http://hz752.love:63/live_a00p/cqtv.php?id=2
-重庆卫视,http://hz752.love:63/live_a00p/bst.php?id=cqws
-重庆卫视,http://hz752.love:63/live_a00p/cqyx.php?id=chongqingHD
-重庆卫视,http://hz752.love:63/live_a00p/yst.php?id=chongqingstv
-重庆卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
 重庆卫视,http://hz752.love:63/live_a00p/migu.php?id=cqws
-重庆卫视,http://hz752.love:63/live_a00p/bfgd.php?id=107
-
-安徽卫视,http://hz752.love:63/live_a00p/astv.php?id=ahwshd
 安徽卫视,http://39.134.136.151:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
-安徽卫视,http://hz752.love:63/live_a00p/bst.php?id=ahws
-安徽卫视,http://hz752.love:63/live_a00p/cqyx.php?id=anhuiSD
-安徽卫视,http://hz752.love:63/live_a00p/ahtv.php?id=ahws
-安徽卫视,http://hz752.love:63/live_a00p/yst.php?id=anhuistv
-安徽卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
 安徽卫视,http://hz752.love:63/live_a00p/bfgd.php?id=096
-
-黑龙江卫视,http://hz752.love:63/live_a00p/astv.php?id=hljwshd
 黑龙江卫视,http://39.134.136.151:6610/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=00
 黑龙江卫视,http://hz752.love:63/live_a00p/bst.php?id=hljws
 黑龙江卫视,http://hz752.love:63/live_a00p/cqyx.php?id=heilongjiangHD
-黑龙江卫视,http://hz752.love:63/live_a00p/yst.php?id=hdheilongjiangstv
-黑龙江卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
 黑龙江卫视,http://hz752.love:63/live_a00p/bfgd.php?id=095
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?
-
-河北卫视,http://hz752.love:63/live_a00p/astv.php?id=hbwshd
 河北卫视,http://39.134.136.151:6610/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=00
-河北卫视,http://hz752.love:63/live_a00p/bst.php?id=hbws
 河北卫视,http://hz752.love:63/live_a00p/cqyx.php?id=hebeiSD
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
-河北卫视,http://hz752.love:63/live_a00p/yst.php?id=hebeistv
-河北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.flv
 河北卫视,http://hz752.love:63/live_a00p/bfgd.php?id=108
-
-河南卫视,http://hz752.love:63/live_a00p/astv.php?id=hnws
 河南卫视,http://39.134.136.151:6610/000000001000/7304224304099543804/index.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=00
-河南卫视,http://hz752.love:63/live_a00p/bst.php?id=hnws
-河南卫视,http://hz752.love:63/live_a00p/cqyx.php?id=henanHD
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
-河南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
-河南卫视,http://hz752.love:63/live_a00p/bfgd.php?id=104
-
-东南卫视,http://hz752.love:63/live_a00p/astv.php?id=dnwshd
 东南卫视,http://39.134.136.151:6610/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=00
 东南卫视,http://hz752.love:63/live_a00p/bst.php?id=dnws
 东南卫视,http://hz752.love:63/live_a00p/cqyx.php?id=dongnanHD
-东南卫视,http://hz752.love:63/live_a00p/yst.php?id=dongnanstv
-东南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
 东南卫视,http://hz752.love:63/live_a00p/bfgd.php?id=483
-
-辽宁卫视,http://hz752.love:63/live_a00p/astv.php?id=lnwshd
 辽宁卫视,http://39.134.136.151:6610/000000001000/1000000002000024033/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=00
-辽宁卫视,http://hz752.love:63/live_a00p/bst.php?id=lnws
 辽宁卫视,http://hz752.love:63/live_a00p/cqyx.php?id=liaoningHD
-辽宁卫视,http://hz752.love:63/live_a00p/yst.php?id=liaoningstv
-辽宁卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
 辽宁卫视,http://hz752.love:63/live_a00p/migu.php?id=lnws
 辽宁卫视,http://hz752.love:63/live_a00p/bfgd.php?id=058
-
-江西卫视,http://hz752.love:63/live_a00p/astv.php?id=jxwshd
 江西卫视,http://39.134.136.151:6610/000000001000/1000000001000013731/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=00
 江西卫视,http://hz752.love:63/live_a00p/bst.php?id=jxws
 江西卫视,http://hz752.love:63/live_a00p/cqyx.php?id=jiangxiHD
-江西卫视,http://hz752.love:63/live_a00p/yst.php?id=jiangxistv
-江西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
-江西卫视,http://hz752.love:63/live_a00p/migu.php?id=jxws
 江西卫视,http://hz752.love:63/live_a00p/bfgd.php?id=098
-
-广西卫视,http://hz752.love:63/live_a00p/astv.php?id=gxws
 广西卫视,http://39.134.136.151:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=00
-广西卫视,http://hz752.love:63/live_a00p/bst.php?id=gxws
-广西卫视,http://hz752.love:63/live_a00p/cqyx.php?id=guangxiHD
-广西卫视,http://hz752.love:63/live_a00p/yst.php?id=guangxistv
-广西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 广西卫视,http://hz752.love:63/live_a00p/bfgd.php?id=116
-
-山西卫视,http://hz752.love:63/live_a00p/astv.php?id=sxiws
 山西卫视,http://39.134.136.151:6610/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=00
-山西卫视,http://hz752.love:63/live_a00p/yst.php?id=shanxistv
-山西卫视,http://hz752.love:63/live_a00p/cqyx.php?id=shanxiSD
 山西卫视,http://hz752.love:63/live_a00p/tide.php?id=sxiws
 山西卫视,http://hz752.love:63/live_a00p/bst.php?id=sxiws
 山西卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
 山西卫视,http://hz752.love:63/live_a00p/bfgd.php?id=109
-
-陕西卫视,http://hz752.love:63/live_a00p/astv.php?id=sxws
 陕西卫视,http://39.134.136.151:6610/000000001000/1000000002000007495/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=00
-陕西卫视,http://hz752.love:63/live_a00p/yst.php?id=shanxi1stv
 陕西卫视,http://hz752.love:63/live_a00p/bst.php?id=sxws
 陕西卫视,http://hz752.love:63/live_a00p/migu.php?id=sxws
 陕西卫视,http://hz752.love:63/live_a00p/bfgd.php?id=512
-
-海南卫视,http://hz752.love:63/live_a00p/astv.php?id=hinws
 海南卫视,http://39.134.136.151:6610/000000001000/7899627377857656087/index.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=00
-海南卫视,http://hz752.love:63/live_a00p/bst.php?id=hinws
-海南卫视,http://hz752.love:63/live_a00p/cqyx.php?id=hainanSD
-海南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
 海南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 海南卫视,http://hz752.love:63/live_a00p/hin.php?id=19
 海南卫视,http://hz752.love:63/live_a00p/bfgd.php?id=473
-
-云南卫视,http://hz752.love:63/live_a00p/astv.php?id=ynws
 云南卫视,http://39.134.136.151:6610/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=00
-云南卫视,http://hz752.love:63/live_a00p/bst.php?id=ynws
-云南卫视,http://hz752.love:63/live_a00p/cqyx.php?id=yunnanSD
-云南卫视,http://hz752.love:63/live_a00p/yst.php?id=yunnanstv
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南卫视,http://hz752.love:63/live_a00p/bfgd.php?id=482
-
 吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
-吉林卫视,http://39.134.136.151:6610/000000001000/6042486520432105075/index.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=00
-吉林卫视,http://hz752.love:63/live_a00p/astv.php?id=jlwshd
-吉林卫视,http://hz752.love:63/live_a00p/bst.php?id=jlws
-吉林卫视,http://hz752.love:63/live_a00p/cqyx.php?id=jilinHD
-吉林卫视,http://hz752.love:63/live_a00p/yst.php?id=jilinstv
 吉林卫视,http://hz752.love:63/live_a00p/migu.php?id=jlws
 吉林卫视,http://hz752.love:63/live_a00p/bfgd.php?id=097
-
-贵州卫视,http://hz752.love:63/live_a00p/astv.php?id=gzwshd
 贵州卫视,http://39.134.136.151:6610/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=00
-贵州卫视,http://hz752.love:63/live_a00p/bst.php?id=gzws
-贵州卫视,http://hz752.love:63/live_a00p/cqyx.php?id=guizhouHD
 贵州卫视,http://hz752.love:63/live_a00p/gzws.php?id=gzws
-贵州卫视,http://hz752.love:63/live_a00p/yst.php?id=guizhoustv
-贵州卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
 贵州卫视,http://hz752.love:63/live_a00p/bfgd.php?id=101
-
 大湾区卫视,http://39.134.136.151:6610/000000001000/1000000002000011619/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=00
-大湾区卫视,http://hz752.love:63/live_a00p/gdtv.php?id=nfws
 大湾区卫视,http://hz752.love:63/live_a00p/migu.php?id=dwqws
 大湾区卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
-
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-青海卫视,http://hz752.love:63/live_a00p/astv.php?id=qhws
-青海卫视,http://39.134.136.151:6610/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=00
 青海卫视,http://hz752.love:63/live_a00p/bst.php?id=qhws
 青海卫视,http://hz752.love:63/live_a00p/cqyx.php?id=qinghaiSD
-青海卫视,http://hz752.love:63/live_a00p/yst.php?id=qinghaistv
 青海卫视,http://hz752.love:63/live_a00p/migu.php?id=qhws
 青海卫视,http://hz752.love:63/live_a00p/bfgd.php?id=111
-
 内蒙古卫视,http://hz752.love:63/live_a00p/nm.php?id=161
-内蒙古卫视,http://hz752.love:63/live_a00p/astv.php?id=nmws
-内蒙古卫视,http://39.134.136.151:6610/000000001000/5559214655508729688/index.m3u8?channel-id=ystenlive&Contentid=5559214655508729688&livemode=1&stbId=00
 内蒙古卫视,http://hz752.love:63/live_a00p/bst.php?id=nmws
 内蒙古卫视,http://hz752.love:63/live_a00p/cqyx.php?id=neimengkuSD
-内蒙古卫视,http://hz752.love:63/live_a00p/yst.php?id=neimenggustv
 内蒙古卫视,http://hz752.love:63/live_a00p/migu.php?id=nmws
 内蒙古卫视,http://hz752.love:63/live_a00p/bfgd.php?id=110
-
-宁夏卫视,http://hz752.love:63/live_a00p/astv.php?id=nxws
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 宁夏卫视,http://39.134.136.151:6610/000000001000/7527747602951312973/index.m3u8?channel-id=ystenlive&Contentid=7527747602951312973&livemode=1&stbId=00
-宁夏卫视,http://hz752.love:63/live_a00p/bst.php?id=nxws
 宁夏卫视,http://hz752.love:63/live_a00p/cqyx.php?id=ningxia
-宁夏卫视,http://hz752.love:63/live_a00p/yst.php?id=ningxiastv
 宁夏卫视,http://hz752.love:63/live_a00p/migu.php?id=nxws
 宁夏卫视,http://hz752.love:63/live_a00p/bfgd.php?id=118
-
-甘肃卫视,http://hz752.love:63/live_a00p/astv.php?id=gsws
 甘肃卫视,http://39.134.136.151:6610/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=00
-甘肃卫视,http://hz752.love:63/live_a00p/bst.php?id=gsws
-甘肃卫视,http://hz752.love:63/live_a00p/yst.php?id=gansustv
 甘肃卫视,http://hz752.love:63/live_a00p/migu.php?id=gsws
-甘肃卫视,http://hz752.love:63/live_a00p/bfgd.php?id=119
-
-新疆卫视,http://hz752.love:63/live_a00p/astv.php?id=xjws
 新疆卫视,http://39.134.136.151:6610/000000001000/5802765535081445534/index.m3u8?channel-id=ystenlive&Contentid=5802765535081445534&livemode=1&stbId=00
 新疆卫视,http://hz752.love:63/live_a00p/bst.php?id=xjws
 新疆卫视,http://hz752.love:63/live_a00p/cqyx.php?id=xinjiangSD
-新疆卫视,http://hz752.love:63/live_a00p/yst.php?id=xinjiangstv
 新疆卫视,http://hz752.love:63/live_a00p/migu.php?id=xjws
 新疆卫视,http://hz752.love:63/live_a00p/bfgd.php?id=150
-
-西藏卫视,http://hz752.love:63/live_a00p/astv.php?id=xzws
 西藏卫视,http://39.134.136.151:6610/000000001000/6603041244077933770/index.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=00
-西藏卫视,http://hz752.love:63/live_a00p/bst.php?id=xzws
-西藏卫视,http://hz752.love:63/live_a00p/cqyx.php?id=xizangSD
-西藏卫视,http://hz752.love:63/live_a00p/yst.php?id=xizangstv
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 西藏卫视,http://hz752.love:63/live_a00p/migu.php?id=xzws
-西藏卫视,http://hz752.love:63/live_a00p/bfgd.php?id=121
-
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-
 农林卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 农林卫视,http://hz752.love:63/live_a00p/bfgd.php?id=122
-
-厦门卫视,http://hz752.love:63/live_a00p/astv.php?id=xmws
 厦门卫视,http://hz752.love:63/live_a00p/bst.php?id=xmws
-
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-三沙卫视,http://hz752.love:63/live_a00p/astv.php?id=ssws
 三沙卫视,http://hz752.love:63/live_a00p/cqyx.php?id=sanshaSD
-
-海峡卫视,http://hz752.love:63/live_a00p/hxws.php
 海峡卫视,http://hz752.love:63/live_a00p/fjtv.php?id=9
-
-康巴卫视,http://hz752.love:63/live_a00p/astv.php?id=kbws
-康巴卫视,http://hz752.love:63/live_a00p/bst.php?id=kbws
-康巴卫视,http://hz752.love:63/live_a00p/yst.php?id=kamba-tv
-
-山东教育卫视,http://hz752.love:63/live_a00p/astv.php?id=sdjy
 山东教育卫视,http://39.134.136.151:6610/000000001000/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=00
 山东教育卫视,http://hz752.love:63/live_a00p/cqyx.php?id=sdjiaoyuSD
-山东教育卫视,http://hz752.love:63/live_a00p/yst.php?id=shandongjy
 山东教育卫视,http://hz752.love:63/live_a00p/migu.php?id=sdjy
 山东教育卫视,http://hz752.love:63/live_a00p/bfgd.php?id=112
-
-兵团卫视,http://hz752.love:63/live_a00p/astv.php?id=btws
-兵团卫视,http://hz752.love:63/live_a00p/bst.php?id=btws
 兵团卫视,http://hz752.love:63/live_a00p/cqyx.php?id=bingtuanSD
 兵团卫视,http://hz752.love:63/live_a00p/bfgd.php?id=124
-
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+广东综艺4K,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
+BTV北京纪实科教-8K,http://159.75.85.63:6798
+咪咕4K ,http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
 
 
 
