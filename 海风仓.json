@@ -5,7 +5,7 @@
 "name": "海风1线路",
 "time": "主线路"
 },
- {
+{
 "url": "https://gitea.com/haifeng288/tv/raw/branch/master/ysc.json",
 "name": "🚀海风js线路"
 },
@@ -21,6 +21,11 @@
 "url": "https://ghproxy.com/https://raw.githubusercontent.com/haifeng2777/gao/main/js.json",
 "name": "海风js4"
 },
+{
+"url": "https://lantongxue.cc/s.json",
+"name": "lan同学"
+},
+
 {
 "url": "https://weixine.net/ysc.json",
 "name": "weixinejs"
