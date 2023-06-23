@@ -343,9 +343,13 @@ CGTN,http://hz752.love:63/live_a00p/migu.php?id=cgtn
 海南卫视,http://hz752.love:63/live_a00p/bfgd.php?id=473
 云南卫视,http://39.134.136.151:6610/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=00
 云南卫视,http://hz752.love:63/live_a00p/bfgd.php?id=482
+
+吉林卫视,http://hz752.love:63/live_a00p/bfgd.php?id=097
+
+吉林卫视,https://cntv.sbs/live?auth=230612&id=jlws
 吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
 吉林卫视,http://hz752.love:63/live_a00p/migu.php?id=jlws
-吉林卫视,http://hz752.love:63/live_a00p/bfgd.php?id=097
+
 贵州卫视,http://39.134.136.151:6610/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=00
 贵州卫视,http://hz752.love:63/live_a00p/gzws.php?id=gzws
 贵州卫视,http://hz752.love:63/live_a00p/bfgd.php?id=101
