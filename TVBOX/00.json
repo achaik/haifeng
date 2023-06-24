@@ -42,7 +42,7 @@
       "key": "直播转点播",
       "name": "📺电视直播｜JS",
       "type": 3,
-      "api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e7%9b%b4%e6%92%ad%e8%bd%ac%e7%82%b9%e6%92%ad.js",
+      "api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/live2cms.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
