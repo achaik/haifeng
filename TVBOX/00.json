@@ -48,13 +48,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/%e6%b5%b7%e9%a3%8e%e7%9b%b4%e6%92%ad%e5%ba%93.json"
     },
-{
-    "key": "MTV转点播",
-    "name": "MTV/Js",
-    "type": 3,
-    "api": "https://agit.ai/lengniuge/mv/raw/branch/master/live_min.js",
-    "ext": "https://agit.ai/lengniuge/mv/raw/branch/master/live_min.txt"
-  },
+
 
     {
       "key": "黄黄",
