@@ -37,7 +37,13 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+{
+    "key": "MTV转点播",
+    "name": "MTV/Js",
+    "type": 3,
+    "api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/mvmin.js",
+    "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/mv/mv.txt"
+  },
     {
       "key": "直播转点播",
       "name": "📺电视直播｜JS",
