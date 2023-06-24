@@ -1,15 +1,14 @@
 ﻿格式说明：
-#订阅名
-地址(支持m3u订阅、tvbox配置文件中live选项的直播地址订阅)
+#海风直播
+https://agit.ai/haifeng2777/TVB/raw/branch/master/live/zb311.txt
 
 相对路径说明
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 
-#Live
+#移动直播
 https://agit.ai/lengniuge/api/raw/branch/master/live.txt
-#YouTube
-https://agit.ai/lengniuge/api/raw/branch/master/YouTube.txt
+
 #MV1
 https://agit.ai/lengniuge/mv/raw/branch/master/MV1.txt
 #MV2
