@@ -544,7 +544,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 🎞️我的电影,#genre#
 惊天营救2,https://s.xlzys.com/play/yb8A0JLd/index.m3u8
-速度与激情10,https://sf9-dycdn-tos.pstatp.com/obj/tos-cn-i-8gu37r9deh/7e85f56625914427a6a3deaef52af85c?filename=1.mp4
+
 
 疾速追杀4,https://sf9-dycdn-tos.pstatp.com/obj/tos-cn-i-8gu37r9deh/da32b25895e5449b9322fcd9005b9a20?filename=1.mp4
 上帝也疯狂2,https://vip.lzcdn2.com/20220425/4417_df617f77/index.m3u8
@@ -580,6 +580,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 跨过鸭绿江,https://txmov2.a.kwimgs.com/upic/2023/03/07/15/BMjAyMzAzMDcxNTAxMTVfNzM5MzQzNzIyXzk3NjkxNzgxOTAxXzBfMw==_b_B4c47ca57b289667cf9abd61a14f83d75.mp4
 长津湖,https://txmov2.a.kwimgs.com/upic/2023/02/09/15/BMjAyMzAyMDkxNTI3MzVfNzM5MzQzNzIyXzk1ODE4NzEwMTYyXzBfMw==_b_B3bb6c8dfbd37a08e42d1fe1890930b1e.mp4
 长津湖之水门桥,https://txmov2.a.kwimgs.com/bs3/video-hls/5237686448215685150_hlshd15.m3u8
+
+阿凡达 水之道,https://cdn.akuaizi.tv/20230621/dRt5urza/hls/index.m3u8
 阿凡达2水之道,https://vip.ffzy-play10.com/20230105/6305_32f4ff1d/2000k/hls/mixed.m3u8
 阿凡达2水之道,https://hls.cache.xiamm.cc/private/cache/20230214/6108/e683d98114156959d68ad413c40dac6e.m3u8?st=RZUZ2ZpGNR-wdHpVcsqGFQ&e=1676376169
 流浪地球2,https://vip.ffzy-play5.com/20230124/6140_7a874764/2000k/hls/mixed.m3u8
