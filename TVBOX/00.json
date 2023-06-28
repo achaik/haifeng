@@ -10,7 +10,7 @@
  
 {
   "sites": [
- {"key":"影探4K","name":"影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
+ {"key":"影探4K","name":"影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lfytv.cn/api.php/app/"},
 {"key":"布雷蓝光","name":"布雷4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
     {
       "key": "csp_DuoX",
@@ -25,7 +25,44 @@
 {"key":"宝宝风","name":"采集┃宝宝风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","动画片"]},
  
  {"key": "淘片资源采集","name": "淘片丨采集","type": 1,"api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://jx.huishij.com/yun/?url="},
-
+{
+            "key": "API_火狐",
+            "name": "火狐｜App",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod",
+            "ext": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",                                
+                "战争片",                                
+                "爱情片",                                
+                "喜剧片",                                
+                "科幻片",                                
+                "恐怖片",                                
+                "灾难片",                                
+                "犯罪片",                               
+                "悬疑片",                                
+                "奇幻片",                                                                                                             "剧情片",                                
+                "内地剧",                                
+                "香港剧",                                
+                "台湾剧",
+                "韩剧",                                
+                "日剧",                                
+                "马泰剧",                                                 
+                "记录片",                                                                                
+                "动画片",                                
+                "中国动漫",                                
+                "日本动漫",                                
+                "欧美动漫",                                                                             
+                "大陆综艺",                                
+                "日韩综艺",                                
+                "港台综艺",                               
+                "欧美综艺"                              
+                              
+            ]
+        },
 
 
 {
