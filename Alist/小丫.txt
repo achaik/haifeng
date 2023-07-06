@@ -50,7 +50,10 @@
      "name": "💦讯维",
      "server": "https://pan.xwbeta.com"
     },	
-
+    {
+     "name": "💦小丫1",
+     "server": "http://wjy.coreelec.co:5244/"
+    },	
 
     {
       "name": "星梦",
