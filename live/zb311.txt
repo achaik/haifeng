@@ -2493,6 +2493,9 @@ SNH48剧场公演,http://hz752.love:63/live_a00p/migu.php?id=snh
 第32集,https://m3u8.mstopq.com/202307/07/cnEEvYUQgv4/video/index.m3u8
 第33集,https://m3u8.mstopq.com/202307/08/LdHXzzxyvU4/video/index.m3u8
 第34集,https://m3u8.mstopq.com/202307/08/qR2kDrkXLM4/video/index.m3u8
+35,https://s6.bfzycdn.com/video/changfengdu/第35集/index.m3u8
+36.https://s6.bfzycdn.com/video/changfengdu/第36集/index.m3u8
+
 
 
 
