@@ -10,6 +10,9 @@
  
 {
   "sites": [
+ {"key":"dr_js_77","name":"酷云77","type": 3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e9%85%b7%e4%ba%91771.js"},
+ {"key":"dr_js_荐片","name":"荐片┃js","type": 3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e8%8d%90%e7%89%87.js"},
+ 
  
  {"key":"达达龟","name":"｜达龟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类": "电影$1#电视剧$2#综艺$3#动漫$4#","分类url":"http://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html","搜索url":"/vodsearch/{wd}-------------.html"}},
  {
