@@ -2679,11 +2679,11 @@ CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 第33集,https://m3u8.mstopq.com/202307/08/LdHXzzxyvU4/video/index.m3u8
 第34集,https://m3u8.mstopq.com/202307/08/qR2kDrkXLM4/video/index.m3u8
 35,https://s6.bfzycdn.com/video/changfengdu/第35集/index.m3u8
-36.https://s6.bfzycdn.com/video/changfengdu/第36集/index.m3u8
-
-
-
-
+36,https://s6.bfzycdn.com/video/changfengdu/第36集/index.m3u8
+37,https://s6.bfzycdn.com/video/changfengdu/第37集/index.m3u8
+38,https://s6.bfzycdn.com/video/changfengdu/第38集/index.m3u8
+39,https://s6.bfzycdn.com/video/changfengdu/第39集/index.m3u8
+40,https://s6.bfzycdn.com/video/changfengdu/第40集/index.m3u8
 
 🐼丨MTV流行,#genre#
 怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
