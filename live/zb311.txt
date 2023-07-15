@@ -2642,7 +2642,7 @@ CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 第45集,https://s.xlzys.com/play/1aMjxYBb/index.m3u8
 
 
-长风渡,#genre#
+长风渡【内置解码】,#genre#
 
 第01集,https://m3u8.mstopq.com/202306/18/1DXTsBm8nS1/video/index.m3u8
 第02集,https://m3u8.mstopq.com/202306/18/3SzQ0tmHFc1/video/index.m3u8
