@@ -39,7 +39,17 @@
         },
  
 {"key":"臭蛋蛋","name":"臭蛋蛋┃XBPQ","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$38","分类url":"https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mc"}},
-
+ {
+            "key": "csp_XYQHiker_6V磁力",
+            "name": "6V磁力(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/6v%e7%a3%81%e5%8a%9b.json",
+            "jar": "https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/custom_spider.jar"
+            },
 
 
 
