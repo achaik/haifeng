@@ -1,0 +1,34 @@
+﻿{ 
+
+
+    "简介":"<div class=\"stui-content__desc col-pd clearfix\">&&</div>",
+    
+    "主演":"主演：class=\"text-muted\">&&</span>",
+    
+    "导演":"导演：text-muted&&</span>",
+    
+    "影片年代":"年份：&&</li>",
+    
+    "影片地区":"地区：&&</li>",
+    
+    "影片类型":"类型：&&</li>",
+    
+    "影片状态":"更新：&&</span>",
+
+//"数组":"<div class=\"stui-content__thumb\">&&</div>",
+"数组":"<a&&</div></div></a >", 
+   "标题":"title=\"&&\"",
+   "图片":"data-original=\"&&\"",
+   
+   "链接":"href=\"&&\"",
+
+   "副标题":"class=\"hl-lc-1 remarks\">&&</span>",
+    
+ 
+
+
+//"首页":"电视剧",
+"分类":"电影&电视剧&综艺&动漫",
+  "分类值":"dianying&dianshiju&zongyi&dongman",
+   "分类url":"https://www.oftens.top/oftensshow/{cateId}--{by}------{catePg}---{year}.html"   
+    }
