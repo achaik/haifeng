@@ -1,4 +1,4 @@
-import { Crypto, dayjs, jinja2, Uri, _ } from 'https://agit.ai/haifeng2777/TVB/raw/branch/master/js/cat.js';
+import { Crypto, dayjs, jinja2, Uri, _ } from './cat.js';
 
 let key = 'kunyu77';
 let url = 'http://api.tyun77.cn';
