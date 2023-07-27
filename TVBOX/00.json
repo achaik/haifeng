@@ -37,7 +37,16 @@
                 "动漫片"
             ]
         },
- 
+ {
+            "key": "lf_js_ikanbot",
+            "name": "点播 | lf_ikanbot",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/lf_ikanbot3_1_min.js"
+},
 {"key":"臭蛋蛋","name":"臭蛋蛋┃XBPQ","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$38","分类url":"https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mc"}},
  {
             "key": "csp_XYQHiker_6V磁力",
