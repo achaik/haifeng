@@ -868,6 +868,19 @@
       "filterable": 0,
       "ext": "http://饭太硬.ga/x/XYQ/斗鱼直播.json"
     },
+{
+   "key": "dr_武享吧",
+   "name": "💪拳皇争霸",
+   "type": 3,"playerType":2,
+   "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://jihulab.com/ymz1231/js/-/raw/main/武享吧.js"
+  },
+{"key":"企鹅体育","name":"🐧腾讯┃体育","type":3,"playerType":2,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,
+"ext":"https://download.kstore.space/download/3313/mao/ty.json"},
+
     {
       "key": "csp_Paper",
       "name": "纸条",
@@ -918,6 +931,7 @@
       "filterable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"
     },
+ {"key":"csp_ts","name":"🏵️230听书","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/230.json","jar":"https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"},
     {
       "key": "drpy_js_喜马拉雅",
       "name": "🌙喜马拉雅",
