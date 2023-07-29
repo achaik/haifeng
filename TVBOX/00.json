@@ -11,8 +11,21 @@
 {
   "sites": [
 
- 
- {"key":"dr_js_77","name":"酷云77","type": 3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e9%85%b7%e4%ba%91771.js"},
+  {
+            "key": "csp_xBPQ_哔哩兔",
+            "name": "🅱️哔哩兔",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://52bsj.vip:81/api/v3/file/get/91254/bilitu.json?sign=_R9os0Hika6OVNxAluaiwlr0rScFRNluNjyTEiPCIbI%3D%3A0",
+            "jar": "http://52bsj.vip:98/juyouxb"
+        },
+
+{"key":"影弹[V2]TV","name":"💧影弹[V2]┃js","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%bd%b1%e5%bc%b9[V2].js"},
+
+{"key":"dr_js_77","name":"酷云77","type": 3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e9%85%b7%e4%ba%91771.js"},
  {"key":"dr_js_荐片","name":"荐片┃js","type": 3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e8%8d%90%e7%89%87.js"},
  {           "key": "csp_baofeng",
             "name": "暴风直连",
