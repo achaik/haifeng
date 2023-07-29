@@ -310,92 +310,10 @@
         "纪录片"
       ]
     },
-    {
-      "key": "csp_Bili",
-      "name": "🅱哔哔",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://饭太硬.ga/x/json/bilibili.json"
-    },
-    {
-      "key": "csp_Biliych",
-      "name": "🅱演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://饭太硬.ga/x/json/biliych.json"
-    },
-    {
-      "key": "八仟影视",
-      "name": "️八仟影视丨采",
-      "type": 1,
-      "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/?ac=list/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "资讯",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "海外剧",
-        "大陆综艺",
-        "港台综艺",
-        "国外综艺",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "其他动漫",
-        "纪录片",
-        "动画片",
-        "其他片",
-        "惊悚片",
-        "犯罪片",
-        "冒险片",
-        "悬疑片",
-        "奇幻片",
-        "足球",
-        "篮球",
-        "网球",
-        "B站",
-        "番剧(B站)",
-        "国创(B站)",
-        "电影(B站)",
-        "电视剧(B站)",
-        "纪录片(B站)",
-        "4K超清",
-        "早教",
-        "亲子",
-        "儿歌"
-      ]
-    },
-    {
-      "key": "555",
-      "name": "555丨APP",
-      "type": 3,
-      "api": "http://brox.eu.org/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://brox.eu.org/js/555影视.js"
-    },
+ 
+
+
+
     {
       "key": "csp_Lib",
       "name": "🌟利奥",
@@ -416,7 +334,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e9%85%b7%e4%ba%9177.js"
     },
- {"key":"酷酷","name":"酷酷┃App","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/"},
+
 
     {
       "key": "drpy_js_360影视",
@@ -468,34 +386,8 @@
       "filterable": 0,
       "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/优酷.js"
     },
-    {
-      "key": "csp_biubiu_9亿国语",
-      "name": "9亿国语",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/9e.json"
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "📔厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bd",
-      "name": "哔嘀",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
+
     {
       "key": "csp_Lib",
       "name": "Libvio",
@@ -524,25 +416,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Xinsj",
-      "name": "新视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.6080dy3.com"
-    },
-    {
-      "key": "csp_apple",
-      "name": "小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
@@ -553,16 +427,7 @@
       "filterable": 1,
       "ext": "https://hk-api-cf.yqk5659.com"
     },
-    {
-      "key": "csp_AppTT",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-    },
+
     {
       "key": "csp_fantuan",
       "name": "饭团",
@@ -573,25 +438,7 @@
       "filterable": 1,
       "ext": "https://www.fantuanhd.com"
     },
-    {
-      "key": "csp_MeiJu69",
-      "name": "69美剧",
-      "type": 3,
-      "api": "csp_MeiJu69",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.69mj.com/"
-    },
-    {
-      "key": "csp_panghu",
-      "name": "🐯┃胖虎┃影视",
-      "type": 3,
-      "api": "csp_Panghu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "csp_appys_如意4K",
       "name": "🐵️┃如意┃影视",
@@ -630,25 +477,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_zxzjH3",
-      "name": "在线H3",
-      "type": 3,
-      "api": "csp_ZxzjH3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.zxzjhd.com"
-    },
-    {
-      "key": "csp_Smdyy",
-      "name": "神马",
-      "type": 3,
-      "api": "csp_Smdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
+
     {
       "key": "csp_Lgyy",
       "name": "蓝光",
@@ -669,62 +499,7 @@
       "filterable": 1,
       "ext": "https://www.ysgc.fun"
     },
-    {
-      "key": "csp_Zxzj",
-      "name": "在线",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Nkdy",
-      "name": "难看",
-      "type": 3,
-      "api": "csp_Nkdy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Dm84",
-      "name": "动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_SP33",
-      "name": "360(解析)",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_appys_酷影",
-      "name": "🥠️┃酷影┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.realdou.cn/api.php/app/"
-    },
-    {
-      "key": "csp_FanYY",
-      "name": "饭影音",
-      "type": 3,
-      "api": "csp_FanYY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/alitoken"
-    },
+
     {
       "key": "Coke",
       "name": "Cokemv",
@@ -754,17 +529,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e9%87%8f%e5%ad%90.json"
     },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "斗鱼直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://饭太硬.ga/x/XYQ/斗鱼直播.json"
-    },
-{
+   {
    "key": "dr_武享吧",
    "name": "💪拳皇争霸",
    "type": 3,"playerType":2,
@@ -777,16 +542,7 @@
 {"key":"企鹅体育","name":"🐧腾讯┃体育","type":3,"playerType":2,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://download.kstore.space/download/3313/mao/ty.json"},
 
-    {
-      "key": "csp_Paper",
-      "name": "纸条",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/alitoken"
-    },
+
     {
       "key": "YiSo",
       "name": "一搜(搜索)",
@@ -937,15 +693,16 @@
     }
   ],
   "parses": [
+
     {
       "name": "聚合0",
       "type": 3,
-      "url": "Web"
+      "url": "Demo"
     },
     {
       "name": "聚合1",
       "type": 3,
-      "url": "Demo"
+      "url": "Web"
     },
 
 {
