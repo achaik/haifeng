@@ -1,18 +1,8 @@
 ﻿//https://dxawi.github.io/0/0.json
 //https://yydsys.top/duo
 
-
-
-
- 
- 
-
- 
 {
   "sites": [
-
-
-
 {"key":"影弹[V2]TV","name":"💧影弹[V2]┃js","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%bd%b1%e5%bc%b9[V2].js"},
 
 {"key":"dr_js_77","name":"酷云77","type": 3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e9%85%b7%e4%ba%91771.js"},
@@ -43,7 +33,7 @@
             ]
         },
 
-},
+
 {"key":"臭蛋蛋","name":"臭蛋蛋┃XBPQ","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$38","分类url":"https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mc"}},
  {
             "key": "csp_XYQHiker_6V磁力",
