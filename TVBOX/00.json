@@ -954,11 +954,6 @@
       "url": "https://m3u8.co/json/?url="
     },
 
-{
-      "name": "福利",
-      "type": 1,
-      "url": "http://json.g9.pub:66/?url="
-    },
 
 {
       "name": "4K",
@@ -973,11 +968,7 @@
       "url": "http://svip.realdou.cn/home/api?type=ys&uid=1879248&key=kmnopruvxzILPQRS78&url="
     },
 
-    {
-      "name": "但行好事",
-      "type": 1,
-      "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
-    },
+
     {
       "name": "莫问前程",
       "type": 1,
