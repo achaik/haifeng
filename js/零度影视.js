@@ -5,7 +5,7 @@ var rule = {
     模板:'mxpro',
     host:'https://ldtv.top',
     homeUrl:'/label/hot.html',
-    url:'/vodshow/fyclassfyfilter.html',
+    url:'/vodshow/-----------.html',
     searchUrl:'/vodsearch/**----------fypage---.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
