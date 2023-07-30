@@ -13,6 +13,27 @@
       "filterable": 1,
       "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%bd%b1%e5%bc%b9[V2].js"
     },
+    {"key":"琪琪","name":"琪琪切｜采集","type":1,"api":"http://xn--yeta099v.online:66/api.php/provide/vod/from/qiqi","searchable":1,"quickSearch":1,"playUrl":"json:http://xhww.fun:63/qi.php?url=","categories":["电影","电视剧","综艺","动漫"]},
+ {
+        "key": "csp_明帝影视",
+        "name": "明帝影视｜采集",
+        "type": 1,
+        "api": "https://ys.md214.cn/api.php/provide/vod/?ac=list",
+        "playUrl": "https://jx.yparse.com/index.php?url=",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,                                                                           
+         "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
+    }, 
+ 
+ 
+ 
+ 
     {
       "key": "dr_js_77",
       "name": "酷云77",
