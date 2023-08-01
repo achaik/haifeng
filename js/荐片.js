@@ -1,6 +1,6 @@
 var rule = {
     title:'荐片',
-    host:'http://jpmobile.acdn.axcxa.top',
+    host:'http://api2.rinhome.com',
     homeUrl:'https://yjpapipxblwdohpakljwg.hxhzs.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
 	url:'/api/crumb/list?area=0&category_id=fyclass&page=fypage&type=0&limit=24&fyfilter',
     class_name:'全部&电影&电视剧&动漫&综艺',
@@ -38,7 +38,7 @@ var rule = {
     img:'data.thumbnail',
     content:'data.thumbnail',
     is_json:1,
-    tabs:'js:TABS=[];if(html.data.have_ftp_ur == 1){TABS.push("边下边播超清")}if(html.data.have_m3u8_ur == 1){TABS.push("在线点播普清")}',
+    tabs:'js:TABS=[];if(html.data.have_ftp_ur == 1){TABS.push("边下边播超清版")}if(html.data.have_m3u8_ur == 1){TABS.push("在线点播普清版")}',
     lists:'js:log(TABS);LISTS=[];TABS.forEach(function(tab){if(/边下边播/.test(tab)){let ftp=html.data.new_ftp_list;let d=ftp.map(function(it){return it.title+"$"+(/m3u8/.test(it.url)?play_url+it.url:"tvbox-xg:"+it.url)});LISTS.push(d)}else if(/在线点播/.test(tab)){let m3u=html.data.new_m3u8_list;let d=m3u.map(function(it){return it.title+"$"+(/m3u8/.test(it.url)?play_url+it.url:"tvbox-xg:"+it.url)});LISTS.push(d)}});',
     },
     搜索:'json:data;*;thumbnail;mask;*',
