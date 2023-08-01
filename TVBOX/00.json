@@ -31,7 +31,7 @@
       ]
     }, 
  
-                                                                                                                  {"key":"365","name":"年年┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/"},                  
+    {"key":"365","name":"年年┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/"},                  
                                                                                                                                                                                                                                                   {
             "key": "csp_劇迷",
             "name": "🐢劇迷",
@@ -68,8 +68,8 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qzys.js"
     },                   
-  {"key":"csp_Ikanbot","name": "Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1"},
-        
+ 
+ 
 {"key":"drpy_js_磁力搜索","name":"🧲搜索[js]","type":3,"api":"https://raw.kgithub.com/haifeng2777/gao/main/lib/cili.js","ext":"https://raw.kgithub.com/haifeng2777/gao/main/js/ss.js"}, 
  
  
