@@ -542,16 +542,7 @@
       "filterable": 0,
       "ext": "http://yt傻.lfytyl.com/api.php/app/"
     },
-    {
-      "key": "酷影TV",
-      "name": "💧酷影TV┃js",
-      "type": 3,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e9%85%b7%e5%bd%b1[V2].js"
-    },
+
     {
       "key": "非凡",
       "name": "🐝菲菲┃切片",
@@ -839,16 +830,7 @@
       "filterable": 1,
       "ext": "https://www.lgyy.vip"
     },
-    {
-      "key": "dr_js_荐片",
-      "name": "荐片┃js",
-      "type": 3,
-      "api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e8%8d%90%e7%89%87.js"
-    },
+
     {
       "key": "csp_Yj1211",
       "name": "📽️网红┃直播",
