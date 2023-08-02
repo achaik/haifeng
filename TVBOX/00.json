@@ -29,9 +29,7 @@
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },	 
        
-        {"key":"EMO","name":"👑夜猫蓝光APP👑","type":3,
-        "playerType":2,
-        "api":"csp_AppYsV2","ext":"https://one2.emofun.top/mogai_api.php/v1.vod"},
+{"key":"EMO","name":"👑夜猫蓝光APP👑","type":3,"playerType":2,"playUrl": "https://player.anltv.cn/?url=","api":"csp_AppYsV2","ext":"https://one2.emofun.top/mogai_api.php/v1.vod"},
         {
       "key": "狐狸",
       "name": "👑夜猫┃狐狸2k👑",
