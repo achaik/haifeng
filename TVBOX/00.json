@@ -16,14 +16,7 @@
             "playerType":1,
             "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
             "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E5%BD%B1%E6%8E%A2_V2_1.js"},
- {
-            "key": "ymzy2k",
-            "name": "👑夜猫自营2k👑",
-            "type": 3,
-            "playerType":2,
-            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/夜猫自营2k.js"
-        }, 
+
     {
             "key": "影院",
             "name": "👑夜猫蓝光2K👑",
@@ -35,14 +28,7 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },	 
-  {
-            "key": "ymzy",
-            "name": "👑夜猫自营高清👑",
-            "type": 3,
-            "playerType":2,
-            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E8%87%AA%E8%90%A5.js"
-        },          
+       
         {"key":"EMO","name":"👑夜猫蓝光APP👑","type":3,
         "playerType":2,
         "api":"csp_AppYsV2","ext":"https://one2.emofun.top/mogai_api.php/v1.vod"},
