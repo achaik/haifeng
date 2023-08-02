@@ -8,8 +8,81 @@
     "type":3,"playerType":2,
     "api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
     "ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"},
-  
-  
+    { "key": "365秒播", "name": "🚦365秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/","categories":["动漫","连续剧","电影","综艺"]}, 
+            { 
+            "key": "ymzyint",
+            "name": "👑夜猫子4k👑",
+            "type": 3,
+            "playerType":1,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E5%BD%B1%E6%8E%A2_V2_1.js"},
+ {
+            "key": "ymzy2k",
+            "name": "👑夜猫自营2k👑",
+            "type": 3,
+            "playerType":2,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/夜猫自营2k.js"
+        }, 
+    {
+            "key": "影院",
+            "name": "👑夜猫蓝光2K👑",
+            "type": 3,
+            "playerType":2,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+        },	 
+  {
+            "key": "ymzy",
+            "name": "👑夜猫自营高清👑",
+            "type": 3,
+            "playerType":2,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E8%87%AA%E8%90%A5.js"
+        },          
+        {"key":"EMO","name":"👑夜猫蓝光APP👑","type":3,
+        "playerType":2,
+        "api":"csp_AppYsV2","ext":"https://one2.emofun.top/mogai_api.php/v1.vod"},
+        {
+      "key": "狐狸",
+      "name": "👑夜猫┃狐狸2k👑",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/","categories":["动漫","电影","剧集","综艺"]
+    },              
+  {
+            "key": "dr_jqr",
+            "name": "👑夜猫聚影👑",
+            "type": 3,
+            "playerType":2,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/ikan.js"},  
+ 
+ 
+    {"key": "csp_低端","name": "🚜低端|蓝光","type": 3,"playerType":2,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json"},       
+        {"key": "csp_Mp4Mov","name": "🧲磁力Mp4电影","type": 3,
+        "playerType":2,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
+       {"key":"seedhub","name":"🧲磁力|SEED","type": 3,"playerType":2,"api": "csp_Seedhub","searchable": 1,"quickSearch": 1,"filterable": 0},
+        {"key":"csp_KubaCL","name":"🧲磁力酷吧电影","type":3,"playerType":2,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"bt0","name":"🧲磁力搜","type": 3,"playerType":2,"api": "csp_Bt0","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/bt0.json"},
+        {"key":"csp_MeijuTT","name":"🧲磁力美剧天堂","type":3,"playerType":2,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_MeijuMi","name":"🧲磁力美剧迷","type":3,"playerType":2,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},      
+   {"key":"mp4","name":"Ⓜ️MP4┃磁力","type":3,"api":"csp_XYQHiker","playerType":2,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/mp4%E7%A3%81%E5%8A%9B.json"},
+{"key":"6V","name":"🏹6v磁力搜","type":3,"api":"csp_XYQHiker","playerType":2,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/6V电影.json"},
+{
+            "key": "酷喵", 
+            "name": "🐈爱酷喵影视", 
+            "type": 3, 
+            "api": "csp_AppYs", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "ext": "http://wkking.top/ikumiao_api.php/v1.vod"}, 
   
   
     {
