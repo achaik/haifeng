@@ -3,6 +3,15 @@
 
 {
   "sites": [
+  {"key":"dr_czyzy",
+    "name":"🚚厂长蓝光2k",
+    "type":3,"playerType":2,
+    "api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+    "ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"},
+  
+  
+  
+  
     {
       "key": "影弹[V2]TV",
       "name": "💧影弹[V2]┃js",
@@ -14,7 +23,7 @@
       "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%bd%b1%e5%bc%b9[V2].js"
     },
     {"key":"琪琪","name":"琪琪切｜采集","type":1,"api":"http://xn--yeta099v.online:66/api.php/provide/vod/from/qiqi","searchable":1,"quickSearch":1,"playUrl":"json:http://xhww.fun:63/qi.php?url=","categories":["电影","电视剧","综艺","动漫"]},
- {
+     {
         "key": "csp_明帝影视",
         "name": "明帝影视｜采集",
         "type": 1,
