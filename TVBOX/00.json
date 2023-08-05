@@ -10,7 +10,7 @@
     "ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"},
     { "key": "365秒播", "name": "🚦365秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/","categories":["动漫","连续剧","电影","综艺"]}, 
 {"key": "yyds","name": "🔥┃杳音┃影院","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","playerType": "2","ext": "http://alist.xn--z7x900a.love:63/yyds.js","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key":"58zy", "name":"🐧┃58影院┃", "type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","大陆综艺","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","综艺","日韩动漫","国产动漫"]},
 
             { 
             "key": "ymzyint",
