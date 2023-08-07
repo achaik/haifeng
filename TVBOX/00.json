@@ -68,23 +68,7 @@
  
  
     {"key": "csp_低端","name": "🚜低端|蓝光","type": 3,"playerType":2,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json"},       
-        {"key": "csp_Mp4Mov","name": "🧲磁力Mp4电影","type": 3,
-        "playerType":2,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
-       {"key":"seedhub","name":"🧲磁力|SEED","type": 3,"playerType":2,"api": "csp_Seedhub","searchable": 1,"quickSearch": 1,"filterable": 0},
-        {"key":"csp_KubaCL","name":"🧲磁力酷吧电影","type":3,"playerType":2,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"bt0","name":"🧲磁力搜","type": 3,"playerType":2,"api": "csp_Bt0","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/bt0.json"},
-        {"key":"csp_MeijuTT","name":"🧲磁力美剧天堂","type":3,"playerType":2,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_MeijuMi","name":"🧲磁力美剧迷","type":3,"playerType":2,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},      
-   {"key":"mp4","name":"Ⓜ️MP4┃磁力","type":3,"api":"csp_XYQHiker","playerType":2,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/mp4%E7%A3%81%E5%8A%9B.json"},
-{"key":"6V","name":"🏹6v磁力搜","type":3,"api":"csp_XYQHiker","playerType":2,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/6V电影.json"},
-{
-            "key": "酷喵", 
-            "name": "🐈爱酷喵影视", 
-            "type": 3, 
-            "api": "csp_AppYs", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "ext": "http://wkking.top/ikumiao_api.php/v1.vod"}, 
+
   
   
     {
@@ -97,7 +81,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%bd%b1%e5%bc%b9[V2].js"
     },
-    {"key":"琪琪","name":"琪琪切｜采集","type":1,"api":"http://xn--yeta099v.online:66/api.php/provide/vod/from/qiqi","searchable":1,"quickSearch":1,"playUrl":"json:http://xhww.fun:63/qi.php?url=","categories":["电影","电视剧","综艺","动漫"]},
+    
      {
         "key": "csp_明帝影视",
         "name": "明帝影视｜采集",
