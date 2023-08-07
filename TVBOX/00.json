@@ -32,7 +32,7 @@
 
 
 
-    { "key": "365秒播", "name": "🚦365秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/","categories":["动漫","连续剧","电影","综艺"]}, 
+   
 {"key": "yyds","name": "🔥┃杳音┃影院","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","playerType": "2","ext": "http://alist.xn--z7x900a.love:63/yyds.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"58zy", "name":"🐧┃58影院┃", "type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","大陆综艺","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","综艺","日韩动漫","国产动漫"]},
 
@@ -57,16 +57,7 @@
         },	 
        
 {"key":"EMO","name":"👑夜猫蓝光APP👑","type":3,"playerType":2,"playUrl": "https://player.anltv.cn/?url=","api":"csp_AppYsV2","ext":"https://one2.emofun.top/mogai_api.php/v1.vod"},
-        {
-      "key": "狐狸",
-      "name": "👑夜猫┃狐狸2k👑",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/","categories":["动漫","电影","剧集","综艺"]
-    },              
+             
   {
             "key": "dr_jqr",
             "name": "👑夜猫聚影👑",
@@ -2070,9 +2061,9 @@
 //"spider":"http://我不是.肥猫.love:63/Jar/pandaQ230714.jar;md5;620bec58d59eb55110ca4d731ce736ae"   
 //"spider":"https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"
   
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;91b04592e14b3cc30f34c1324a59e8ad"
+ 
 
-
+ "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;43d5af5fc45bbff83ae54e4f3fe703e5"
 
 
 
