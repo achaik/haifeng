@@ -99,7 +99,7 @@
       ]
     }, 
  
-    {"key":"365","name":"年年┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/"},                  
+                   
                                                                                                                                                                                                                                                   {
             "key": "csp_劇迷",
             "name": "🐢劇迷",
@@ -203,20 +203,28 @@
       "name": "🅱哔哔┃合集",
       "type": 3,
       "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://饭太硬.top/x/json/bilibili.json"
+      "changeable": 0,
+      "ext": "http://饭太硬.top/tv/bilibili.json"
     },
     {
       "key": "csp_Biliych",
       "name": "🅱哔哔┃演唱会",
       "type": 3,
       "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://饭太硬.top/x/json/biliych.json"
+      "changeable": 0,
+      "ext": "http://饭太硬.top/tv/biliych.json"
     },
     {
       "key": "csp_WoGG",
