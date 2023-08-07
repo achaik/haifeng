@@ -19,15 +19,15 @@
       "playerType": 2,
       "ext": "https://tv.libvio.cc"
     },
- {
+    {
       "key": "csp_Nmys",
-      "name": "农民┃直连",
+      "name": "🌾农民┃直连",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://xn--sss604efuw.top/tv/nmys.json"
+      "ext": "http://饭太硬.top/tv/nmys.json"
     },
 
 
