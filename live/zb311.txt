@@ -933,7 +933,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 
-新片 孤注一掷,https://vip.kuaikan-cdn1.com/20230806/a3LzXojB/hls/index.m3u8
+新片 孤注一掷,http://ftp6506109.host207.sanfengyun.cn/gzyz.mp4
 零号追杀,https://s.xlzys.com/play/5eVk8OXa/index.m3u8
 民俗怪闻录之诡戏班,https://hd.lz-cdn18.com/20230323/1339_911d0fe1/2000k/hls/mixed.m3u8
 木偶惊魂,https://wxhls.mcloud.139.com/hls/M8cef1881d17b739968e3b19467fe9e66d/single/video/0/1080/index.m3u8
