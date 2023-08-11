@@ -1029,7 +1029,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 
-
+电影1905,http://zgntv.icu/live/1905.php?id=1905dy
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 译制国语,http://epg.112114.xyz/douyu/2436390
 美亚电影,http://bhz0001.8866.org:8686/tsfile/live/1022_1.m3u8
