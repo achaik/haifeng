@@ -8,6 +8,18 @@
     "type":3,"playerType":2,
     "api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
     "ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"},
+
+{"key":"奇奇","name":"奇奇","type":1,"api":"http://www.csykkj.club/api.php/provide/vod/from/qiqi","playUrl": "json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","searchable":1,"quickSearch":1,"categories":["综艺","连续剧","电影","动漫"]},
+{
+   "key": "js_菜狗",
+   "name": "菜狗大厂",
+   "type": 3,"playerType":2,
+   "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e8%8f%9c%e7%8b%97.js"
+  },
  {
       "key": "csp_Lib",
       "name": "Lib  ┃影视",
