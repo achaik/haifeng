@@ -3,6 +3,10 @@
 
 {
   "sites": [
+ 
+ 
+ {"key": "mkzy","name": "秒看影视","type": 1,"api": "http://mkzy.vip/api.php/provide/vod", "searchable": 1, "quickSearch": 1,"changeable": 1, "categories": ["电视剧","电影","综艺","动漫"] },
+ 
   {"key":"dr_czyzy",
     "name":"🚚厂长蓝光2k",
     "type":3,"playerType":2,
