@@ -4,7 +4,9 @@
 {
   "sites": [
  
- { "key": "dr_码上看动漫", "name": "码上看动漫", "type": 3, "api": "https://www.bestpvp.site/static/tvbox/js/drpy.min.js", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "https://www.bestpvp.site/static/tvbox/js/bili.min.js"},
+
+ {"key":"空气屋┃APP","name":"空气屋┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.airfun.fun/xgapp.php/v2/"},
+
  {"key": "mkzy","name": "秒看影视","type": 1,"api": "http://mkzy.vip/api.php/provide/vod", "searchable": 1, "quickSearch": 1,"changeable": 1, "categories": ["电视剧","电影","综艺","动漫"] },
  
   {"key":"dr_czyzy",
