@@ -9,7 +9,17 @@
 
  {"key": "mkzy","name": "秒看影视","type": 1,"api": "http://mkzy.vip/api.php/provide/vod", "searchable": 1, "quickSearch": 1,"changeable": 1, "categories": ["电视剧","电影","综艺","动漫"] },
  {"key": "drpy_哔哩影视","name": "🅱️┃哔哩┃影视","type": 3,"api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js","ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%93%94%e5%93%a9%e5%bd%b1%e8%a7%86.js"},
-
+ {
+      "key": "csp_Bili",
+      "name": "🅱️┃哔哩┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://jihulab.com/duomv/duox/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%93%94%e5%93%a9%e7%bb%bc%e5%90%88.json"
+    },
 
 
   {"key":"dr_czyzy",
