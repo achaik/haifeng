@@ -8,7 +8,10 @@
  {"key":"空气屋┃APP","name":"空气屋┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.airfun.fun/xgapp.php/v2/"},
 
  {"key": "mkzy","name": "秒看影视","type": 1,"api": "http://mkzy.vip/api.php/provide/vod", "searchable": 1, "quickSearch": 1,"changeable": 1, "categories": ["电视剧","电影","综艺","动漫"] },
- 
+ {"key": "drpy_哔哩影视","name": "🅱️┃哔哩┃影视","type": 3,"api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js","ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%93%94%e5%93%a9%e5%bd%b1%e8%a7%86.js"},
+
+
+
   {"key":"dr_czyzy",
     "name":"🚚厂长蓝光2k",
     "type":3,"playerType":2,
