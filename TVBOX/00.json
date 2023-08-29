@@ -92,7 +92,17 @@
       "filterable": 1,
       "ext": "https://11111111.moguys.xyz/api.php/app/"
     },
-
+   {
+      "key": "csp_AList_Alist",
+      "name": "🍰小鸭┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xhww.fun:63/小米/源/alist.json"
+    },
 
   {"key":"dr_czyzy",
     "name":"🚚厂长蓝光2k",
