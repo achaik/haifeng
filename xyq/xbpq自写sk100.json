@@ -1,0 +1,56 @@
+﻿{
+    
+    "作者":"荷城茶秀",
+    
+    "站名":"sk100",
+    
+    "主页url":"http://sk100.tv",
+    
+    "简介":"荷城茶秀提醒您请勿相信影片中的广告，以免上当受骗。+module-info-introduction\">&&</p>",
+    
+    "导演":"导演：&&</a>",
+    "主演":"主演：&&</div>",
+    
+   "影片类型":"module-info-tag\">&&立即播放",
+    "影片状态":"集数：&&</div>",
+    "影片地区":"地区：&&</p>",
+    "影片年代":"上映：&&-",
+    
+   // "数组":"<a&&module-poster-item-info\"",
+    
+   // "标题":"title=\"&&\"",
+    
+   // "副标题":"note\">&&</div>",
+    
+  //  "图片":"data-original=\"&&\"",
+    
+  //  "链接":"href=\"&&\"",
+    
+    "搜索url":"http://sk100.tv/vod/search.html?wd={wd}",
+    
+   // "搜索数组":"module-card-item-class\">&&</a>",
+    
+    "搜索标题":"alt=\"&&\"",
+    
+   // "搜索副标题":"module-item-note\">&&</div>",
+    
+   // "搜索图片":"data-original=\"&&\"",
+    
+   // "搜索链接":"href=\"&&\"",
+    
+    "线路数组":"data-dropdown-value&&</div>[排序:JI8CDN]",
+    
+    "线路标题":"<span>&&</small>[替换:</span><small>>>【共]+集】",
+    
+   // "播放数组":"module-play-list-base\">&&</div>",
+    
+   // "播放标题":"<span>&&</span>",
+    
+   // "播放列表":"<a&&</a>",
+    
+    "分类url":"http://sk100.tv/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+    
+    
+    }
