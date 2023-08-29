@@ -1150,7 +1150,79 @@
     },
  {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
  
+     {
+      "name": "莫问前程",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+    },
+   {
+      "name": "大厂",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
+    },
  
+  {
+      "name": "黄黄🍌",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
+      "ext": {
+        "flag": [
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.0"
+        }
+      }
+    },
+    {
+      "name": "稻香🌾",
+      "type": 1,
+      "url": "http://27.124.4.42:4567//jhjson//ceshi.php?url=",
+      "ext": {
+        "flag": [
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.0"
+        }
+      }
+    },
  
     {
       "name": "4K",
@@ -1162,16 +1234,8 @@
       "type": 1,
       "url": "http://svip.realdou.cn/home/api?type=ys&uid=1879248&key=kmnopruvxzILPQRS78&url="
     },
-    {
-      "name": "莫问前程",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-    },
-    {
-      "name": "大厂",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
-    },
+
+  
 
     {
       "name": "小城解析",
