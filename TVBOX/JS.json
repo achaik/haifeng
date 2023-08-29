@@ -1,6 +1,6 @@
 ﻿{"spider": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;962a1af0469ede7b575046c69c1f52d3",
  "sites":[
-{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/drpy.js"},
+{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy2.min2.js","ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"./js/alistjar.json"},
