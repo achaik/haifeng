@@ -39,6 +39,20 @@
       "filterable": 1,
       "changeable": 0, 
       "categories": ["动漫","综艺","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","纪录片","体育"]},
+    {
+      "key": "gym",
+      "name": "光影猫",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230714.jar;md5;620bec58d59eb55110ca4d731ce736ae",
+      "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "http://gymcms.xn--654a.cc/api.php/app/"
+    },
+
+
+
      {
       "key": "狐狸",
       "name": "狐狸",
