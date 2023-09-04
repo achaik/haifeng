@@ -8,18 +8,7 @@
  {"key":"空气屋┃APP","name":"空气屋┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.airfun.fun/xgapp.php/v2/"},
 
 
- {"key": "drpy_哔哩影视","name": "🅱️┃哔哩┃影视","type": 3,"api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/drpy.min.js","ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e5%93%94%e5%93%a9%e5%bd%b1%e8%a7%86.js"},
- {
-      "key": "csp_Bili",
-      "name": "🅱️┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://jihulab.com/duomv/duox/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%93%94%e5%93%a9%e7%bb%bc%e5%90%88.json"
-    },
+
     {
       "key": "云云",
       "name": "云云┃BPQ",
@@ -125,17 +114,7 @@
       "filterable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
-    {
-      "key": "蘑菇2",
-      "name": "️蘑菇┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://11111111.moguys.xyz/api.php/app/"
-    },
+
    {
       "key": "csp_AList_Alist",
       "name": "🍰小鸭┃网盘",
@@ -212,11 +191,11 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
-{"key":"1量子","name":"1资源","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://mkzy.vip/api.php/provide/vod"},
+
 
 {"key":"xiaohu","name":"小胡资源","type":1,"searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/"},
    
-{"key": "yyds","name": "🔥┃杳音┃影院","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","playerType": "2","ext": "http://alist.xn--z7x900a.love:63/yyds.js","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"58zy", "name":"🐧┃58影院┃", "type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","大陆综艺","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","综艺","日韩动漫","国产动漫"]},
 
             { 
@@ -281,9 +260,7 @@
         "动漫"
       ]
     }, 
- 
-                   
-                                                                                                                                                                                                                                                  {
+   {
             "key": "csp_劇迷",
             "name": "🐢劇迷",
             "type": 3,
@@ -372,43 +349,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Bttwoo",
-      "name": "Bttwoo",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/tv/bilibili.json"
-    },
-    {
-      "key": "csp_Biliych",
-      "name": "🅱哔哔┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/tv/biliych.json"
-    },
+
+ 
     {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
@@ -438,25 +380,8 @@
       "filterable": 0,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-    {
-      "key": "探探",
-      "name": "🏵探探┃App",
-      "type": 3,
-      "api": "csp_YT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_fantuan",
-      "name": "🍙饭团┃直连",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.fantuan3.com"
-    },
+
+
     {
       "key": "csp_Cokemv",
       "name": "📕可乐┃直连",
@@ -466,15 +391,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "csp_Bttoo",
-      "name": "✌比特┃直连",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
     {
       "key": "csp_Nmys",
       "name": "🌾农民┃直连",
@@ -485,15 +402,7 @@
       "filterable": 0,
       "ext": "http://饭太硬.top/x/json/nmys.json"
     },
-    {
-      "key": "csp_Dy1010",
-      "name": "❤️双十┃直连",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
     {
       "key": "csp_Vofl",
       "name": "🎈Vofl┃直连",
@@ -522,36 +431,7 @@
       "filterable": 0,
       "ext": "https://www.zxzj.pro/"
     },
-    {
-      "key": "csp_Lgyy",
-      "name": "🌀蓝光┃直连",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.lgyy.vip"
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": "🏭工场┃直连",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.ysgc.vip"
-    },
-    {
-      "key": "csp_555",
-      "name": "5️⃣️五五┃直连",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.555dyy1.com"
-    },
+
     {
       "key": "csp_SP33",
       "name": "📺三三┃解析",
@@ -608,16 +488,7 @@
       "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e7%94%b5%e5%bd%b1%e5%85%88%e7%94%9f.json"
     },
    
-    {
-      "key": "dr_低端",
-      "name": "低端(drpy)",
-      "type": 3,
-      "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://hjdhnx.github.io/dr_py/js/ddys.js"
-    },
+
  
 
     {
@@ -692,17 +563,6 @@
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"
     },
 
-
-    {
-      "key": "非凡",
-      "name": "🐝菲菲┃切片",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e9%9d%9e%e5%87%a1.json"
-    },
     {
       "key": "量子",
       "name": "🦋晾晾┃切片",
