@@ -1,11 +1,11 @@
 {
 	"ua": "",
     // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "https://www.libvio.cc/",
+	"homeUrl": "https://www.libvio.pro/",
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
 	"cateManual": {"电影":"1","电视剧":"2"},
     // 分类页地址 {cateId} 分类id {catePg} 当前页
-	"cateUrl": "https://www.libvio.cc/type/{cateId}-{catePg}.html",
+	"cateUrl": "https://www.libvio.pro/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;u0",
     // 同上面的homeVod字段 分类列表中的视频信息
 	"cateVodNode": "//ul[@class='stui-vodlist clearfix']/li",
 	"cateVodName": "/div/a/@title",
@@ -61,9 +61,9 @@
     // 二次处理正则
 	"dtUrlNameR": "",
 	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "https://www.libvio.cc{playUrl}",
+	"playUrl": "https://www.libvio.pro{playUrl}",
 		// 搜索地址
-	"searchUrl": "https://www.libvio.cc/search/-------------.html?wd={wd}&submit=",
+	"searchUrl": "https://www.libvio.pro/search/-------------.html?wd={wd}&submit=",
     // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
 	"scVodNode": "//ul[@class='stui-vodlist clearfix']/li",
 	"scVodName": "/div/a/@title",
