@@ -14,7 +14,7 @@ https://agit.ai/haifeng2777/TVB/raw/branch/master/live/zb311.txt
 http://我不是.肥猫.love:63/TV/tvzb.txt
 
 #自用直播
-https://agit.ai/ctt/TVBox/raw/branch/main/%e8%87%aa%e7%94%a8%e7%9b%b4%e6%92%ad.txt
+https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 
 #移动直播
 https://agit.ai/lengniuge/api/raw/branch/master/live.txt
