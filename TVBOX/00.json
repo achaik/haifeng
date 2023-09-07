@@ -7,7 +7,7 @@
 
  {"key":"空气屋┃APP","name":"空气屋┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.airfun.fun/xgapp.php/v2/"},
 {"key": "csp_XBPQ_freeok","name":"FREEOK影视☆自简","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":  {"分类url":"http://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html" ,"分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
-
+ { "key":"Bili", "name":"Bili", "type": 3, "api": "csp_Bili", "style":{"type":"rect","ratio":1.597}, "searchable":1, "quickSearch":0, "changeable":0, "ext":"https://xhdwc.tk/json/bilibili.json" },
 
     {
       "key": "云云",
