@@ -8,14 +8,33 @@
  {"key":"空气屋┃APP","name":"空气屋┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.airfun.fun/xgapp.php/v2/"},
 {"key": "csp_XBPQ_freeok","name":"FREEOK影视☆自简","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":  {"分类url":"http://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html" ,"分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
  { "key":"Bili", "name":"Bili", "type": 3, "api": "csp_Bili", "style":{"type":"rect","ratio":1.597}, "searchable":1, "quickSearch":0, "changeable":0, "ext":"https://xhdwc.tk/json/bilibili.json" },
-
-    {
-      "key": "云云",
-      "name": "云云┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "http://xhww.fun:63/小米/源/云云.json"
+  {    "key": "深蓝ww",
+            "name": "深蓝剧院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+ "首页":"电视剧",
+"数组":"<div class=\"myui-vodlist__box\">&&</div>",
+"播放数组":"<ul class=\"myui-content__list&&</ul>",
+"搜索模式":"1",
+"搜索数组":"class=\"myui-vodlist__&&</a>",
+"搜索标题":"title=\"&&\"",
+//"搜索图片":"url(&&);",
+"搜索链接":"href=\"&&\"",
+"搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
+"搜索url":"http://tv.jukemf.com/search.php?searchword={wd}",
+"分类url":"http://tv.jukemf.com/search.php?page={catePg}&searchtype=5&order=hit&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq="   
+    }
+    },
+ {
+        "key": "csp_cms_毛毛子",
+        "name": "毛子",
+        "type": 1,
+        "api": "http://ys.qtw.asia/lvdou_api.php/provide/vod/?ac=list",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "categories": ["4K","电影","连续剧","综艺","动漫"]
     },
  {
       "key": "新浪（采集）",
