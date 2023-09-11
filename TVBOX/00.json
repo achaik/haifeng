@@ -26,6 +26,48 @@
 "分类url":"http://tv.jukemf.com/search.php?page={catePg}&searchtype=5&order=hit&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq="   
     }
     },
+    {
+      "key": "shaozeyy",
+      "name": "少泽┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://yk.shaozeyy.com/api.php/app/"
+    },
+    {
+      "key": "wxtv",
+      "name": "无限┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.wxtv.net/api.php/app/"
+    },
+    {
+      "key": "yszj",
+      "name": "影视┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://yszj.cm/xgapp.php/v2/"
+    },
+  {
+      "key": "lggys",
+      "name": "落攻阁┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.lggys.cn/api.php/app/"
+    },
+
+
  {
         "key": "csp_cms_毛毛子",
         "name": "毛子",
