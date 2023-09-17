@@ -2166,27 +2166,12 @@
             ]
         }
     ], 
- "rules": [
+
+
+
+  "rules": [
     {
-      "name": "米来",
-      "hosts": [
-        "zy.behds.cn"
-      ],
-      "regex": [
-        "#EXTINF"
-      ]
-    },
-    {
-      "name": "爱酷",
-      "hosts": [
-        "cdn.json.icu"
-      ],
-      "regex": [
-        "#EXTINF:1.000000,[\\s\\S]*?#EXT-X-ENDLIST"
-      ]
-    },
-    {
-      "name": "量子广告",
+      "name": "量子廣告",
       "hosts": [
         "vip.lz",
         "hd.lz"
@@ -2197,7 +2182,7 @@
       ]
     },
     {
-      "name": "非凡广告",
+      "name": "非凡廣告",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -2225,7 +2210,7 @@
         "is_play_url="
       ]
     }
-  ], 
+  ],
  
 
  
