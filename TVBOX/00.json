@@ -2201,6 +2201,11 @@
         "item_id="
       ]
     },
+{"name":"暴风","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.92,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+
+
+
+
     {
       "name": "抖音嗅探",
       "hosts": [
