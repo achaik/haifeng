@@ -30,7 +30,7 @@
       }},
 {"key": "4km影视","name": "4km影视┃自.简","type": 3,"api": "csp_XBPQ","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext":{"数组":"class=\"vodlist_item num_&&</li>",
    "图片":"data-background-image=\"&&\"",
-   "链接":"<a href=\"&&\"",
+   "链接":"href=\"&&\"",
    "标题":"title=\"&&\"",
    "副标题":"class=\"xszxj text_right\">&&</span>", 
    "分类url": "http://www.4km.app/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#少儿$58"}},
