@@ -35,7 +35,29 @@
    "副标题":"class=\"xszxj text_right\">&&</span>", 
    "分类url": "http://www.4km.app/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#少儿$58"}},
 {"key":"ngapp1","name":"南瓜影视1","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://tvbox.top/lib/drpy2.min.js","ext":"http://tvbox.top/js/ng.js"},
+{
+            "key": "影视1|资源",
+            "name": "️影视1|资源",
+            "type": 1,
+            "api": "https://www.quankanw.cc/api.php/provide/vod/?ac=list",
+          //  "playUrl":"json:http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories":["电影","连续剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","海外剧","奇幻片","纪录片","悬疑片","犯罪片","惊悚片"]
+        },
 
+{
+            "key": "影视2|资源",
+            "name": "️影视2|资源",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod",
+          //  "playUrl":"json:http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","篮球","足球","预告片","影视解说"]
+        },
 
 
 {"key":"空气屋┃APP","name":"空气屋┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.airfun.fun/xgapp.php/v2/"},
