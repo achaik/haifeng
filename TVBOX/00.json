@@ -34,7 +34,7 @@
    "标题":"title=\"&&\"",
    "副标题":"class=\"xszxj text_right\">&&</span>", 
    "分类url": "http://www.4km.app/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#少儿$58"}},
-
+{"key":"ngapp1","name":"南瓜影视1","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://tvbox.top/lib/drpy2.min.js","ext":"http://tvbox.top/js/ng.js"},
 
 
 
