@@ -1,6 +1,6 @@
 {
         "主页url": "https://www.sstv.pw/",      
-        "数组": "class=\"top&&</li",
+        "数组": "<div class=\"pack-ykpack\">&&<div>",
         "嗅探词": ".m3u8#.mp4#download-cdn.123pan.cn",
         "图片": "data-original=\" &&\"",
         "链接": "/v_+/project-&&.html+_1_1.html",
