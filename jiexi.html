@@ -1,0 +1,51 @@
+
+<!doctype html>
+<html>
+<head>
+<title>解析</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="viewport" content="width=device-width">
+</head>
+    <body style="background:cadetblue;">
+        <script>
+        var apiArray=[
+            "https://jx.777jiexi.com/player/?url=",
+            "https://jx.jsonplayer.com/player/?url=",
+            "https://jx.xmflv.com/?url=",
+            "https://www.yemu.xyz/?url=",
+            "https://jx.777jiexi.com/player/?url=",
+            "https://jx.jsonplayer.com/player/?url=",
+            "https://jx.xmflv.com/?url=",
+            "https://jx.777jiexi.com/player/?url=",
+            "https://jx.jsonplayer.com/player/?url=",
+            "https://jx.xmflv.com/?url=",
+            "https://jx.777jiexi.com/player/?url=",
+            "https://jx.jsonplayer.com/player/?url=",
+            "https://jx.xmflv.com/?url=",
+            "https://jx.777jiexi.com/player/?url=",
+            "https://jx.jsonplayer.com/player/?url=",
+            "https://jx.xmflv.com/?url=",
+            "https://jx.777jiexi.com/player/?url=",
+            "https://jx.jsonplayer.com/player/?url=",
+            "https://jx.xmflv.com/?url=",
+            ];
+        
+        
+        var params = new URLSearchParams(window.location.search);
+        var videoUrl = params.get("url");
+        var iframeHtml="";
+        if(videoUrl === ''|| videoUrl === null || videoUrl === undefined) {
+            var defurl = 'https://res11.bignox.com/player/www/101ae5b183a03384c8005e2a827bc4fc/GDCHDGCCHrh8FpZ.mp4';
+            iframeHtml=iframeHtml+"<video width='100%' controls autoplay muted><source src='https://res11.bignox.com/player/www/101ae5b183a03384c8005e2a827bc4fc/GDCHDGCCHrh8FpZ.mp4' type='video/mp4' /></video>";   
+        } else {
+            for(var i=0;i<apiArray.length;i++){
+                var URL=apiArray[i]+videoUrl;
+                iframeHtml=iframeHtml+"<iframe sandbox='allow-scripts allow-same-origin allow-forms' frameborder='0' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' src="+URL+" style='padding:50px;'></iframe>";
+            };
+        }
+        document.write(iframeHtml);
+        </script>
+    </body>
+</html>
