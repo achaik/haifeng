@@ -18,7 +18,20 @@
 {"key":"drpy_js_磁力熊搜索","name":"熊搜","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key": "猫放","name": "猫放时光┃自.简","type": 3,"api": "csp_XBPQ","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "https://www.mervod.com/vodshow/{cateId}-{area}-{class}---------{catePg}.html","分类": "电影$1#电视剧$2#综艺$4#动漫$3#少儿$5"}},
 
-
+    {
+      "key": "Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
+    },
 
 
       {
