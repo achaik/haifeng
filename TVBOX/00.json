@@ -13,6 +13,54 @@
             "filterable":1,                                                                                                         
            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;b9e068a2a61fea9507a31ef4cbcd61b4"},
 
+  {
+            "key": "csp_AppYsV2_365",
+            "name": "365",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://mp4.ghlyys.com:916/api.php/app/"
+        },
+        {
+            "key": "r追忆",
+            "name": "追忆",
+            "type": 3,
+            "api": "csp_AppYsV2",           
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playerType":1,
+            "playUrl": "json:http://115.231.220.36:9999/jx/tvbox/zytv.php?url=",
+            "ext": "http://222.211.73.157:1122/api.php/app/"
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.cz01.fun"
+        },
+      
+        {
+            "key": "yqkan_open",
+            "name": "一起看",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "http://tvboxx.com.cn/tvbox/jar/OpenSpider.jar"
+        },
+
+
+
+
 {"key": "PT","name": "葡萄剧场","type": 3,"api": "csp_XBPQ","ext": {"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
 
 {"key":"drpy_js_磁力熊搜索","name":"熊搜","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
