@@ -1432,6 +1432,99 @@
       "type": 3,
       "url": "Web"
     },
+
+{
+      "name": "全部",
+      "type": 1,
+      "url": "http://42.157.128.109:2323/CH/app/tv.php?url="
+    },
+        {
+            "name": "蓝光秒播",
+            "type": 1,
+            "url": "http://115.231.220.36:9999/jx/tvbox/zytv.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905",
+                    "优播线路",
+                    "腾播线路"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"
+                }
+            }
+        },
+        {
+            "name": "解析",
+            "type": 1,
+            "url": "https://jx.lvdoui.com/api/?key=2df2141f41357bb5fc696bf6d3f56f00&url="
+        },
+        {
+            "name": "解析1",
+            "type": 1,
+            "url": "http://119.91.123.253:1234/Api/cs.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/3.12.11"
+                }
+            }
+        },
+        {
+            "name": "解析2",
+            "type": 1,
+            "url": "http://43.154.104.152:1234/jhapi/cs.php?url="
+        },
+        {
+            "name": "解析3",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="                  },
+        {
+            "name": "追忆",
+            "type": 1,
+            "url": "http://115.231.220.36:9999/jx/tvbox/2969297279.php?url=",
+            "ext": {
+                "flag": [
+                  
+                    "qq","youku","qiyi","mgtv","sky","seven","juquan4k"
+                ]
+            }
+        },
+        {
+            "name": "热剧猫",
+            "type": 1,
+            "url": "http://jx.daenys.vip:2587/tjxdsg.php?url=","ext": {
+                "flag": [
+                  
+                    "aliyun","yzm"
+                ]
+            }
+        },
+
+
+
+
+
     {
       "name": "竹子福利",
       "type": 1,
