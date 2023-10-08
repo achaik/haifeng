@@ -27,7 +27,7 @@
             "playUrl": "json:http://115.231.220.36:9999/jx/tvbox/zytv.php?url=",
             "ext": "http://222.211.73.157:1122/api.php/app/"
         },
-
+{"key":"VSYY","name":"VS影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"}},
       
         {
             "key": "yqkan_open",
