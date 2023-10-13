@@ -4,16 +4,7 @@
 {
   "sites": [
  
-     {
-            "key": "lf_js_search",
-            "name": "搜索 | 路飞[js]",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/lf_search3_min.js"
-        },       
+      
   {
             "key": "csp_AppYsV2_365",
             "name": "365",
@@ -24,32 +15,22 @@
             "filterable": 1,
             "ext": "http://mp4.ghlyys.com:916/api.php/app/"
         },
-{
-      "key": "csp_短剧网",
-      "name": "短剧网┃BPQ",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e7%9f%ad%e5%89%a7%e7%bd%91HK.json", "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
-    },
     {
-      "key": "低端影视",
-      "name": "低端┃影视",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/ddys.js"
-    },
-
-    {
-      "key": "鲲娱七七",
-      "name": "七七┃影视",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/酷云77.js"
-    },
+            "key": "mino4K",
+            "name": "毛驴〓影视",
+            "type": 3,
+            "api": "csp_Appto",
+            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok2.jar",
+            "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
+        },
+        {
+            "key": "追忆影视",
+            "name": "追忆〓影视",
+            "type": 3,
+            "api": "csp_Appto",
+            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok2.jar",
+            "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+        },
 
   {
       "key": "两个BT1",
