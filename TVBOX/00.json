@@ -23,6 +23,21 @@
             "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok2.jar",
             "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
         },
+ {
+      "key": "csp_短剧网",
+      "name": "短剧网┃BPQ",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/短剧网HK.json", "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
+    },
+ 
+ {"key": "蜗牛弹幕1","name": "快丨蜗牛1","type": 3,"api": "csp_XBPQ","ext": {"简介":"class=\"video-info-item video-info-content vod_content\">&&</span>","数组":"class=\"module-item-text\"&&class=\"loading\"","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","副标题":" class=\"module-item-text\">&&</div>","分类":"电影$1#日韩剧$21#海外剧$2#动漫$20","分类url":"https://v.woniufan.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
+
+ {"key":"蜗牛2","name":"蜗牛2┃BPQ","type":3,"api":"csp_XBPQ","ext":"{\"分类url\":\"https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0\",\"嗅探词\":\"xunlei.com#m3u8#.mp4\",\"分类\":\"电影$1#剧集$2#国产剧集$20#欧美剧集$21#动漫$3#综艺$4\",\"搜索模式\":\"1\",\"搜索url\":\"https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}\"}"},
+
+{ "key": "PT6", "name": "🚛葡萄┃短剧6", "type": 3, "api": "csp_XBPQ", "ext": { "数组": "class=\"stui-vodlist__box&&</li", "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html", "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11" } },
+ 
+ 
         {
             "key": "追忆影视",
             "name": "追忆〓影视",
