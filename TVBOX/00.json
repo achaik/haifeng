@@ -5,24 +5,34 @@
   "sites": [
  
       
-  {
-            "key": "csp_AppYsV2_365",
-            "name": "365",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://mp4.ghlyys.com:916/api.php/app/"
-        },
-    {
-            "key": "mino4K",
-            "name": "毛驴〓影视",
-            "type": 3,
-            "api": "csp_Appto",
-            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok2.jar",
-            "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
-        },
+
+{
+      "key": "小猫",
+      "name": "小猫┃影视",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "悬疑片",
+        "喜剧片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "记录片"
+      ],
+      "playUrl":"json:http://42.51.37.161:5678/json/520239app9/gf2.php?url="
+    },
+
+
  {
       "key": "csp_短剧网",
       "name": "短剧网┃BPQ",
