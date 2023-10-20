@@ -126,7 +126,54 @@
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/LIBVIO.js"
     },
-
+{
+      "key": "csp_Alistxy",
+      "name": "🅿️Alist网盘♻️",
+      "type": 3,
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar",
+      "api": "csp_AListxy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "drives": [
+          {
+            "name": "💃小雅搜索1",
+        "server": "http://111.224.106.109:5678/",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索2",
+        "server": "http://60.204.139.228:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索3",
+        "server": "http://42.193.116.100:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索4",
+        "server": "http://112.193.0.49:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索5",
+        "server": "http://221.15.196.78:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索6",
+        "server": "http://111.170.126.147:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索7",
+        "server": "http://124.71.206.236:5678",
+        "version": 3
+      }
+        ]
+      }
+    },
 
     {
       "key": "VOFLIX",
