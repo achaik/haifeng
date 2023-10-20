@@ -43,7 +43,19 @@
         "分类url": "https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
       }
     },
-
+  {
+      "key": "csp_XBPQ_miniju",
+      "name": "♻️迷迷剧 | 短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
+        "分类": "电影$22#电视剧$21#短剧$20#动漫$23#综艺$24"
+      }
+    },
  {
       "key": "csp_短剧网",
       "name": "短剧网┃BPQ",
