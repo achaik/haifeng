@@ -56,6 +56,18 @@
         "分类": "电影$22#电视剧$21#短剧$20#动漫$23#综艺$24"
       }
     },
+
+          {
+            "key": "短剧网 | 星星",
+            "name": "🛩️┃短剧网 | 星星",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e7%9f%ad%e5%89%a7%e7%bd%91%e6%98%9f.js"                        
+            }, 
+
  {
       "key": "csp_短剧网",
       "name": "短剧网┃BPQ",
