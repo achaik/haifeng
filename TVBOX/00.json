@@ -10,7 +10,7 @@
       "key": "小猫",
       "name": "小猫┃影视",
       "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/json/",
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
