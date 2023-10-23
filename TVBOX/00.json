@@ -29,7 +29,7 @@
         "犯罪片",
         "记录片"
       ],
-      "playUrl":"json:https://jx.xmflv.com/?url="
+      "playUrl":"https://jx.xmflv.com/?url="
     },
     {
       "key": "csp_AucFox",
