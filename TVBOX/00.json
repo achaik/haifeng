@@ -4,7 +4,7 @@
 {
   "sites": [
  
-      
+ {"key": "woniu","name": "🐌┃蜗牛┃资源","type": 1,"api": "https://v.woniufan.cn/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0,"categories": ["电影","海外剧","动漫","日韩剧","国产剧","短剧"]},     
 
 {
       "key": "小猫",
@@ -104,20 +104,8 @@
 
  {"key":"蜗牛2","name":"蜗牛2┃BPQ","type":3,"api":"csp_XBPQ","ext":"{\"分类url\":\"https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0\",\"嗅探词\":\"xunlei.com#m3u8#.mp4\",\"分类\":\"电影$1#剧集$2#国产剧集$20#欧美剧集$21#动漫$3#综艺$4\",\"搜索模式\":\"1\",\"搜索url\":\"https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}\"}"},
 
-{ "key": "PT6", "name": "🚛葡萄┃短剧6", "type": 3, "api": "csp_XBPQ", "ext": { "数组": "class=\"stui-vodlist__box&&</li", "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html", "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11" } },
- 
 {"key":"素白白","name":"🚛素白┃秒播","type":3,"api":"http://vip.weixine.link:88/js/lib/drpy2.min.js","ext":"http://vip.weixine.link:88/js/subaibai.js"},
 
-
- 
-        {
-            "key": "追忆影视",
-            "name": "追忆〓影视",
-            "type": 3,
-            "api": "csp_Appto",
-            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok2.jar",
-            "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
-        },
 
   {
       "key": "两个BT1",
@@ -207,19 +195,6 @@
       "ext": "https://drpy.cainisi.cf/js/555电影[V2].js"
     },
 
-
-        {
-            "key": "r追忆",
-            "name": "追忆",
-            "type": 3,
-            "api": "csp_AppYsV2",           
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playerType":1,
-            "playUrl": "json:http://115.231.220.36:9999/jx/tvbox/zytv.php?url=",
-            "ext": "http://222.211.73.157:1122/api.php/app/"
-        },
 
   {
       "key": "xml_大漠",
