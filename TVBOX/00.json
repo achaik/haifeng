@@ -1176,17 +1176,10 @@
       "filterable": 0,
       "ext": "https://jihulab.com/ymz1231/js/-/raw/main/武享吧.js"
     },
-    {
-      "key": "88js",
-      "name": "⚽ 88┃看球",
-      "type": 3,
-      "api": "http://xhww.fun:63/js/drpy1.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js"
-    },
-
+{"key":"drpy_js_JRKAN直播","name":"体育 | JRKAN直播[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/JRKAN直播.js"},
+{"key":"drpy_js_抓饭体育","name":"体育 | 抓饭体育[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/抓饭体育.js"},
+{"key":"drpy_js_武享吧2","name":"体育 | 武享吧2[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/武享吧.js"},
+{"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/310直播.js"},
 
     {
       "key": "企鹅体育",
@@ -1405,6 +1398,11 @@
       "type": 1,
       "url": "http://42.157.128.109:2323/CH/app/tv.php?url="
     },
+{"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+ {"name":"-777-","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+ { "name": "神马", "type": 1, "url": "https://jxjson.cf/json.php?url=", "ext": { "flag": ["YuMi", "YuMi-vip" ] } },
+
+
         {
             "name": "蓝光秒播",
             "type": 1,
