@@ -231,11 +231,11 @@
     "key": "drpy_蘑菇",
     "name": "✮蘑菇| js",
     "type": 3,
-    "api": "https://raw.githubusercontent.com/haifeng2777/gao/main/lib/drpy2.min.js",
+    "api": "https://ghproxy.com/https://raw.githubusercontent.com/haifeng2777/gao/main/lib/drpy2.min.js",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e8%98%91%e8%8f%87.js"
+    "ext": "https://ghproxy.com/https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e8%98%91%e8%8f%87.js"
 },
 
 {
