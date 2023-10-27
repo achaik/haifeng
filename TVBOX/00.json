@@ -55,7 +55,7 @@
       "key": "量子影院",
       "name": "量子影院",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
