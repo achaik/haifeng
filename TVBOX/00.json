@@ -242,7 +242,7 @@
     "key": "drpy_淘剧喵",
     "name": "✮淘剧喵| js",
     "type": 3,
-    "api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e6%b7%98%e5%89%a7%e5%96%b5.js",
+    "api": "https://raw.githubusercontent.com/haifeng2777/gao/main/lib/drpy2.min.js",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
