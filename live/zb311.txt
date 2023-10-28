@@ -1347,6 +1347,12 @@ SiTV金色学堂「IPV6」•支持回看,http://[2409:8087:4402:20:1:1216:401:3
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
+
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/beebf2b0-ac46-4513-a87c-892f225c545a/index.m3u8
+无线新闻.https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8
+HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8
+
+
 三立台湾,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
