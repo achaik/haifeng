@@ -3,17 +3,32 @@
 
 {
   "sites": [
- 
-  {
-      "key": "Mino1",
-      "name": "Mino1┃App",
+     {
+      "key": "yqkan1",
+      "name": "影视|一起看1",
       "type": 3,
-      "api": "csp_AppMao",
+      "api": "csp_YQKan",
+      "jar": "https://api.zalman2022.repl.co/YSZYZ.jar",       
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
+      "filterable": 0,
+      "ext": "公众号:影视资源站"
     },
+     {
+      "key": "putao",
+      "name": "短剧|葡萄",
+      "type": 3,
+      "api": "csp_WebPuTao",
+      "jar": "https://api.zalman2022.repl.co/YSZYZ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "公众号:影视资源站"
+    },
+
+
+
+
     {
       "key": "热剧猫",
       "name": "🦄️热剧猫┃App",
